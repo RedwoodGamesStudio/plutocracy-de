@@ -2,7 +2,7 @@
 <agents>
     <agent_class>
         <text id="class_1" need_translate="true" value=""/>
-        <text id="class_2" need_translate="true" value=""/>
+        <text id="class_2" need_translate="false" value="Kurtisane"/>
         <text id="class_3" need_translate="true" value=""/>
         <text id="class_4" need_translate="true" value=""/>
         <text id="class_5" need_translate="true" value=""/>
