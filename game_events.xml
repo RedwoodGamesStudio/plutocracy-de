@@ -1,122 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <game_events>
     <event>
-        <text id="20_description" need_translate="true" value=""/>
-        <text id="20_header" need_translate="true" value=""/>
-        <text id="21_description" need_translate="true" value=""/>
-        <text id="21_header" need_translate="true" value=""/>
-        <text id="22_description" need_translate="true" value=""/>
-        <text id="22_header" need_translate="true" value=""/>
-        <text id="40_description" need_translate="true" value=""/>
-        <text id="40_header" need_translate="true" value=""/>
-        <text id="50_description" need_translate="true" value=""/>
-        <text id="50_header" need_translate="true" value=""/>
-        <text id="51_description" need_translate="true" value=""/>
-        <text id="51_header" need_translate="true" value=""/>
-        <text id="52_description" need_translate="true" value=""/>
-        <text id="52_header" need_translate="true" value=""/>
-        <text id="53_description" need_translate="true" value=""/>
-        <text id="53_header" need_translate="true" value=""/>
-        <text id="54_description" need_translate="true" value=""/>
-        <text id="54_header" need_translate="true" value=""/>
+        <text id="20_description" need_translate="false" value="Wieviel möchtest du spenden?"/>
+        <text id="20_header" need_translate="false" value="Spende tätigen"/>
+        <text id="21_description" need_translate="false" value="%1%2 haben dich zu sich eingeladen, um eine freundlicher Atmosphäre für ein Gespräch zu schaffen"/>
+        <text id="21_header" need_translate="false" value="Einladung"/>
+        <text id="22_description" need_translate="false" value="%1Du hast eine Einladung von %2 zu einem Pferderennen"/>
+        <text id="22_header" need_translate="false" value="Einladung fürs Pferderennen"/>
+        <text id="40_description" need_translate="false" value="%1%2 fragt nach einer Gehaltserhöhung von $%3\nauf $%4 pro Quartal. Seine Loyalität zu dir ist: %5%"/>
+        <text id="40_header" need_translate="false" value="Gehaltserhöhung"/>
+        <text id="50_description" need_translate="false" value="Ein guter Spender ist ein großzügiger Spender! Ich brauche jetzt Geld...Siehst du, du musst die Wähler manchmal bestechen, um ihre Loyalität zu sichern...Kannst du mir dabei helfen?"/>
+        <text id="50_header" need_translate="false" value="Kampangnenfinanzierung"/>
+        <text id="51_description" need_translate="false" value="Ich würde dich gerne fragen meinen %1 in den Aufsichtsrat von %2 zu bekommen. Ich wäre sehr dankbar!"/>
+        <text id="51_header" need_translate="false" value="Aufsichtsrat"/>
+        <text id="52_description" need_translate="false" value="Hallo! Kannst du mir helfen meinen %1 zu einem Anteilseigner von %2 aus %3 zu machen?"/>
+        <text id="52_header" need_translate="false" value="Anteilseigner"/>
+        <text id="53_description" need_translate="false" value="%1Einflussreicher Politiker sind immmer der beste Weg, um ein 'Problem' aus dem Weg zu schaffen. Kannst du ein Treffen mit %2 %4 aus %3 arrangieren"/>
+        <text id="53_header" need_translate="false" value="Politische Verbindungen"/>
+        <text id="54_description" need_translate="false" value="%1 'Benötige Verbindungen' kann mir helfen ein Prblem zu lösen. Kannst du ein Treffen mit %2 %4 aus %3 arrangieren?"/>
+        <text id="54_header" need_translate="false" value="Beamten Verbindungen"/>
     </event>
     <event_button>
-        <text id="button_20_1_header" need_translate="true" value=""/>
-        <text id="button_20_1_hover_text" need_translate="true" value=""/>
-        <text id="button_20_1_text" need_translate="true" value=""/>
-        <text id="button_20_2_header" need_translate="true" value=""/>
-        <text id="button_20_2_hover_text" need_translate="true" value=""/>
-        <text id="button_20_2_text" need_translate="true" value=""/>
-        <text id="button_20_3_header" need_translate="true" value=""/>
-        <text id="button_20_3_hover_text" need_translate="true" value=""/>
-        <text id="button_20_3_text" need_translate="true" value=""/>
-        <text id="button_21_1_header" need_translate="true" value=""/>
-        <text id="button_21_1_hover_text" need_translate="true" value=""/>
-        <text id="button_21_1_text" need_translate="true" value=""/>
-        <text id="button_21_2_header" need_translate="true" value=""/>
-        <text id="button_21_2_hover_text" need_translate="true" value=""/>
-        <text id="button_21_2_text" need_translate="true" value=""/>
-        <text id="button_21_3_header" need_translate="true" value=""/>
-        <text id="button_21_3_hover_text" need_translate="true" value=""/>
-        <text id="button_21_3_text" need_translate="true" value=""/>
-        <text id="button_22_1_header" need_translate="true" value=""/>
-        <text id="button_22_1_hover_text" need_translate="true" value=""/>
-        <text id="button_22_1_text" need_translate="true" value=""/>
-        <text id="button_22_2_header" need_translate="true" value=""/>
-        <text id="button_22_2_hover_text" need_translate="true" value=""/>
-        <text id="button_22_2_text" need_translate="true" value=""/>
-        <text id="button_22_3_header" need_translate="true" value=""/>
-        <text id="button_22_3_hover_text" need_translate="true" value=""/>
-        <text id="button_22_3_text" need_translate="true" value=""/>
-        <text id="button_40_1_header" need_translate="true" value=""/>
-        <text id="button_40_1_hover_text" need_translate="true" value=""/>
-        <text id="button_40_1_text" need_translate="true" value=""/>
-        <text id="button_40_2_header" need_translate="true" value=""/>
-        <text id="button_40_2_hover_text" need_translate="true" value=""/>
-        <text id="button_40_2_text" need_translate="true" value=""/>
-        <text id="button_40_3_header" need_translate="true" value=""/>
-        <text id="button_40_3_hover_text" need_translate="true" value=""/>
-        <text id="button_40_3_text" need_translate="true" value=""/>
-        <text id="button_50_1_header" need_translate="true" value=""/>
-        <text id="button_50_1_hover_text" need_translate="true" value=""/>
-        <text id="button_50_1_text" need_translate="true" value=""/>
-        <text id="button_50_2_header" need_translate="true" value=""/>
-        <text id="button_50_2_hover_text" need_translate="true" value=""/>
-        <text id="button_50_2_text" need_translate="true" value=""/>
-        <text id="button_51_1_header" need_translate="true" value=""/>
-        <text id="button_51_1_hover_text" need_translate="true" value=""/>
-        <text id="button_51_1_text" need_translate="true" value=""/>
-        <text id="button_51_2_header" need_translate="true" value=""/>
-        <text id="button_51_2_hover_text" need_translate="true" value=""/>
-        <text id="button_51_2_text" need_translate="true" value=""/>
-        <text id="button_52_1_header" need_translate="true" value=""/>
-        <text id="button_52_1_hover_text" need_translate="true" value=""/>
-        <text id="button_52_1_text" need_translate="true" value=""/>
-        <text id="button_52_2_header" need_translate="true" value=""/>
-        <text id="button_52_2_hover_text" need_translate="true" value=""/>
-        <text id="button_52_2_text" need_translate="true" value=""/>
-        <text id="button_53_1_header" need_translate="true" value=""/>
-        <text id="button_53_1_hover_text" need_translate="true" value=""/>
-        <text id="button_53_1_text" need_translate="true" value=""/>
-        <text id="button_53_2_header" need_translate="true" value=""/>
-        <text id="button_53_2_hover_text" need_translate="true" value=""/>
-        <text id="button_53_2_text" need_translate="true" value=""/>
-        <text id="button_54_1_header" need_translate="true" value=""/>
-        <text id="button_54_1_hover_text" need_translate="true" value=""/>
-        <text id="button_54_1_text" need_translate="true" value=""/>
-        <text id="button_54_2_header" need_translate="true" value=""/>
-        <text id="button_54_2_hover_text" need_translate="true" value=""/>
-        <text id="button_54_2_text" need_translate="true" value=""/>
-        <text id="disabled_button_20_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_20_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_20_3_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_21_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_21_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_21_3_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_22_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_22_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_22_3_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_40_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_40_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_40_3_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_50_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_50_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_51_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_51_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_52_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_52_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_53_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_53_2_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_54_1_hover_text" need_translate="true" value=""/>
-        <text id="disabled_button_54_2_hover_text" need_translate="true" value=""/>
+        <text id="button_20_1_header" need_translate="false" value="Tätige eine riesige Spende"/>
+        <text id="button_20_1_hover_text" need_translate="false" value="%1's Loyalität zu dir: +%2%\nAnsehen: +%3"/>
+        <text id="button_20_1_text" need_translate="false" value="Durch tätigen einer Spende von $%1, erschaffst du Möglichkeiten neue Freunde zu machen und manchmal können Spendengelber dir wieder ein wenig Leben einhauchen!"/>
+        <text id="button_20_2_header" need_translate="false" value="Tätige eine große Spende"/>
+        <text id="button_20_2_hover_text" need_translate="false" value="%1's Loyalität zu dir: +%2%\nAnsehen: +%3"/>
+        <text id="button_20_2_text" need_translate="false" value="Du bist auf der richtigen Spur durch eine Spende von $%1, dir den Respekt von anderen zu sichern"/>
+        <text id="button_20_3_header" need_translate="false" value="Ablehnen"/>
+        <text id="button_20_3_hover_text" need_translate="false" value="Loyalität des Gastes zu dir: +%1%\nAnsehen: +%2"/>
+        <text id="button_20_3_text" need_translate="false" value="Ich glaube nicht das das Sinn ergibt"/>
+        <text id="button_21_1_header" need_translate="false" value="Komme mit einem teuren Geschenk"/>
+        <text id="button_21_1_hover_text" need_translate="false" value="Geld: -$%1\n Loyalität zu dir: +%2%"/>
+        <text id="button_21_1_text" need_translate="false" value="Ein teures Geschenk ist eine Geste von Respekt. Ab und zu gibt es dir die Möglichkeit eine person zu manipulieren indem du ihn zwingst zu tun, was du willst!"/>
+        <text id="button_21_2_header" need_translate="false" value="Komme mit einem symbolischen Geschenk"/>
+        <text id="button_21_2_hover_text" need_translate="false" value="Geld: -$%1\n Loyalität zu dir: +%2%"/>
+        <text id="button_21_2_text" need_translate="false" value="Ich bin mir sicher, es ist der Gedanke der zählt!"/>
+        <text id="button_21_3_header" need_translate="false" value="Komme ohne Geschenk"/>
+        <text id="button_21_3_hover_text" need_translate="false" value="Loyalität zu dir: +%1%"/>
+        <text id="button_21_3_text" need_translate="false" value="Diese Person ist kein enger Freund also muss er kein Geschenk kriegen!"/>
+        <text id="button_22_1_header" need_translate="false" value="Wette auf einen Außenseiter"/>
+        <text id="button_22_1_hover_text" need_translate="false" value="Das ist eine schlechte Idee, aber wenn du die richtige Strategie hast kannst du viel Geld gewinnen!"/>
+        <text id="button_22_1_text" need_translate="false" value="Wettechancen: %1 zu 1\nGewinn: Loyalität zu dir: +%2%"/>
+        <text id="button_22_2_header" need_translate="false" value="Setze auf den Favoriten"/>
+        <text id="button_22_2_hover_text" need_translate="false" value="Ich bin mir sicher, dass meine Gewinne über meinen Verlusten liegen werden. Aber viel Geld lässt sich damit nciht gewinnen."/>
+        <text id="button_22_2_text" need_translate="false" value="Wettechancen: %1 zu 1\nGewinn: Loyalität zu dir: +%2%"/>
+        <text id="button_22_3_header" need_translate="false" value="Setze auf dein Pferd"/>
+        <text id="button_22_3_hover_text" need_translate="false" value="Ich denke es ist der beste Weg auf mein Pferd zu setzen, weil ich weiß das es das Zeug zum Sieger hat!"/>
+        <text id="button_22_3_text" need_translate="false" value="Wettechancen: %1 zu 1\nGewinn: Loyalität zu dir: +%2%"/>
+        <text id="button_40_1_header" need_translate="false" value="Gehaltserhöhung"/>
+        <text id="button_40_1_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="button_40_1_text" need_translate="false" value="Erhöhe das Gehalt um $%1, Die Loyalität zu dir: +%2%"/>
+        <text id="button_40_2_header" need_translate="false" value="Erhöhe um +50%"/>
+        <text id="button_40_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="button_40_2_text" need_translate="false" value="Erhöhe das Gehalt um $%1, Die Loyalität zu dir: +%2%"/>
+        <text id="button_40_3_header" need_translate="false" value="Ablehnen"/>
+        <text id="button_40_3_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="button_40_3_text" need_translate="false" value="Loyalität zu dir: -%1%"/>
+        <text id="button_50_1_header" need_translate="false" value="Annehmen"/>
+        <text id="button_50_1_hover_text" need_translate="false" value="Loyalität zu dir: -%1%"/>
+        <text id="button_50_1_text" need_translate="false" value="Der Beitrag beträgt $%1"/>
+        <text id="button_50_2_header" need_translate="false" value="Nachdenken"/>
+        <text id="button_50_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="button_50_2_text" need_translate="false" value="Ich habe noch nie hastige Entscheidungen getroffen"/>
+        <text id="button_51_1_header" need_translate="false" value="Annehmen"/>
+        <text id="button_51_1_hover_text" need_translate="false" value=""/>
+        <text id="button_51_1_text" need_translate="false" value="%1 Firmenausgaben werden sich um $%2 erhöhen"/>
+        <text id="button_51_2_header" need_translate="false" value="Nachdenken"/>
+        <text id="button_51_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="button_51_2_text" need_translate="false" value="Ich habe noch nie hastige Entscheidungen getroffen"/>
+        <text id="button_52_1_header" need_translate="false" value="Annehmen"/>
+        <text id="button_52_1_hover_text" need_translate="false" value="Deine Anteile: -%1 ($ %2)\nLoyalität zu dir: + %3%"/>
+        <text id="button_52_1_text" need_translate="false" value=""/>
+        <text id="button_52_2_header" need_translate="false" value="Nachdenken"/>
+        <text id="button_52_2_hover_text" need_translate="false" value="Ich habe noch nie hastige Entscheidungen getroffen"/>
+        <text id="button_52_2_text" need_translate="false" value=""/>
+        <text id="button_53_1_header" need_translate="false" value="Annehmen"/>
+        <text id="button_53_1_hover_text" need_translate="false" value="Einfluss: -%1\nLoyalität zu dir: +%2%"/>
+        <text id="button_53_1_text" need_translate="false" value=""/>
+        <text id="button_53_2_header" need_translate="false" value="Ablehnen"/>
+        <text id="button_53_2_hover_text" need_translate="false" value="Ich habe noch nie hastige Entscheidungen getroffen"/>
+        <text id="button_53_2_text" need_translate="false" value=""/>
+        <text id="button_54_1_header" need_translate="false" value="Annehmen"/>
+        <text id="button_54_1_hover_text" need_translate="false" value="Einfluss: -%1\nLoyalität zu dir: +%2%"/>
+        <text id="button_54_1_text" need_translate="false" value=""/>
+        <text id="button_54_2_header" need_translate="false" value="Ablehnen"/>
+        <text id="button_54_2_hover_text" need_translate="false" value="Ich habe noch nie hastige Entscheidungen getroffen"/>
+        <text id="button_54_2_text" need_translate="false" value=""/>
+        <text id="disabled_button_20_1_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_20_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_20_3_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_21_1_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_21_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_21_3_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_22_1_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_22_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_22_3_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_40_1_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_40_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_40_3_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_50_1_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_50_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_51_1_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_51_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_52_1_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_52_2_hover_text" need_translate="false" value="Ich habe noch nie hastige Entscheidungen getroffen"/>
+        <text id="disabled_button_53_1_hover_text" need_translate="false" value="Nicht genügend Einfluss!&lt;br/&gt;Benötigt %1 %2"/>
+        <text id="disabled_button_53_2_hover_text" need_translate="false" value="Kein Effekt"/>
+        <text id="disabled_button_54_1_hover_text" need_translate="false" value="Nicht genügend Einfluss!&lt;br/&gt;Benötigt %1 %2"/>
+        <text id="disabled_button_54_2_hover_text" need_translate="false" value=""/>
     </event_button>
     <event_type>
-        <text id="1" need_translate="true" value=""/>
-        <text id="2" need_translate="true" value=""/>
-        <text id="3" need_translate="true" value=""/>
-        <text id="4" need_translate="true" value=""/>
-        <text id="5" need_translate="true" value=""/>
-        <text id="6" need_translate="true" value=""/>
-        <text id="7" need_translate="true" value=""/>
+        <text id="1" need_translate="false" value="Zufällige Ereignisse"/>
+        <text id="2" need_translate="false" value="Banden Ereignisse"/>
+        <text id="3" need_translate="false" value="Firmen Ereignisse"/>
+        <text id="4" need_translate="false" value="Assistenten Ereignisse"/>
+        <text id="5" need_translate="false" value="Oberklassen Ereignisse"/>
+        <text id="6" need_translate="false" value="Andere Ereignisse"/>
+        <text id="7" need_translate="false" value="Agenten Ereignisse"/>
     </event_type>
 </game_events>
