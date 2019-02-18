@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <game_random_events>
     <game_event_types>
-        <text id="1_description" need_translate="true" value=""/>
-        <text id="1_title" need_translate="true" value=""/>
-        <text id="2_description" need_translate="true" value=""/>
-        <text id="2_title" need_translate="true" value=""/>
-        <text id="3_description" need_translate="true" value=""/>
-        <text id="3_title" need_translate="true" value=""/>
-        <text id="4_description" need_translate="true" value=""/>
-        <text id="4_title" need_translate="true" value=""/>
-        <text id="5_description" need_translate="true" value=""/>
-        <text id="5_title" need_translate="true" value=""/>
-        <text id="6_description" need_translate="true" value=""/>
-        <text id="6_title" need_translate="true" value=""/>
-        <text id="7_description" need_translate="true" value=""/>
-        <text id="7_title" need_translate="true" value=""/>
+        <text id="1_description" need_translate="false" value=""/>
+        <text id="1_title" need_translate="false" value="Spendenveranstaltung!"/>
+        <text id="2_description" need_translate="false" value="Entwickeln..."/>
+        <text id="2_title" need_translate="false" value="Du hast Glück"/>
+        <text id="3_description" need_translate="false" value="Entwickeln..."/>
+        <text id="3_title" need_translate="false" value="Dumm gelaufen!"/>
+        <text id="4_description" need_translate="false" value="Entwickeln..."/>
+        <text id="4_title" need_translate="false" value="Politische Zankerei!"/>
+        <text id="5_description" need_translate="false" value="Entwickeln..."/>
+        <text id="5_title" need_translate="false" value="Überfall!"/>
+        <text id="6_description" need_translate="false" value="Entwickeln..."/>
+        <text id="6_title" need_translate="false" value="Verspätung!"/>
+        <text id="7_description" need_translate="false" value=""/>
+        <text id="7_title" need_translate="false" value=""/>
     </game_event_types>
     <game_events>
-        <text id="agree_button" need_translate="true" value=""/>
-        <text id="cancel_button" need_translate="true" value=""/>
-        <text id="delay_at_way_text" need_translate="true" value=""/>
-        <text id="donate_button" need_translate="true" value=""/>
-        <text id="donate_text_1" need_translate="true" value=""/>
-        <text id="donate_text_2" need_translate="true" value=""/>
-        <text id="hire" need_translate="true" value=""/>
-        <text id="hold_up_text" need_translate="true" value=""/>
-        <text id="horse_down_text" need_translate="true" value=""/>
-        <text id="hot_coffee_text" need_translate="true" value=""/>
-        <text id="pay" need_translate="true" value=""/>
+        <text id="agree_button" need_translate="false" value="Annehmen"/>
+        <text id="cancel_button" need_translate="false" value="Ablehnen"/>
+        <text id="delay_at_way_text" need_translate="false" value="Der Unfall ereignete sich auf den Eisenbahnschienen während des Ausflugs. Was tust du? Miete ein Fahrzeug oder warte auf die Reperatur des Zuges"/>
+        <text id="donate_button" need_translate="false" value="Spenden"/>
+        <text id="donate_text_1" need_translate="false" value="Die New Dawn Charitable Foundation nimmt Spendengelder an. Die Spendensumme liegt bei $ %1."/>
+        <text id="donate_text_2" need_translate="false" value="Children's Home Cosiness nimmt Spendengelder entgegen um die Kinder zu versorgen. Bitte, schau nicht vorbei! Die Spendensumme beläuft sich auf $ %1."/>
+        <text id="hire" need_translate="false" value="Mieten"/>
+        <text id="hold_up_text" need_translate="false" value="Als du nach Hause kommst, merkst du, dass au ausgeraubt wurdest! Was tust du?"/>
+        <text id="horse_down_text" need_translate="false" value="Als du das Pferd geritten hast bist du aus vom Sattel gefallen! Du hast dir deinen Knöchel verstaucht! Du solltest jetzt %1 Tag(e) ausruhen."/>
+        <text id="hot_coffee_text" need_translate="false" value="Verdammt! Als du gestern mit deinen Freunden golfen warst hast du deine Handverletzt und solltest dich nun % 1 Tag(e) ausruhen"/>
+        <text id="pay" need_translate="false" value="Bezahlen"/>
         <text id="politic_text" need_translate="true" value=""/>
-        <text id="relations" need_translate="true" value=""/>
-        <text id="skirmish" need_translate="true" value=""/>
-        <text id="wait" need_translate="true" value=""/>
-        <text id="win_money_text_1" need_translate="true" value=""/>
-        <text id="win_money_text_2" need_translate="true" value=""/>
-        <text id="win_money_text_3" need_translate="true" value=""/>
-        <text id="win_ok_button_1" need_translate="true" value=""/>
-        <text id="win_ok_button_2" need_translate="true" value=""/>
-        <text id="win_ok_button_3" need_translate="true" value=""/>
+        <text id="relations" need_translate="false" value="%1 bietet an %3 zu durchkreuzen! Wenn du annimmst wirst du deine Beziehung zu %1 verbessern, aber es gibt eine %2% Chance dabei von %3 entdeckt zu werden. Dadurch wird %3 dein Gegner.\n Wenn du ablehnst wird %1 dein Gegner aber deine Beziehungen zu %3 und seinen Freunden wird sich verbessern"/>
+        <text id="skirmish" need_translate="false" value="Schießerei"/>
+        <text id="wait" need_translate="false" value="Warten"/>
+        <text id="win_money_text_1" need_translate="false" value="Letzte Nacht hast du Poker gespielt und auch noch gewonnen. Dein Gewinn: $ %1."/>
+        <text id="win_money_text_2" need_translate="false" value="Du hast dich entschlossen an der Stadtlotterie teilzunehmen und hast gewonnen. Dein Gewinn: $ %1."/>
+        <text id="win_money_text_3" need_translate="false" value="Deine Liebe für Pferderennen zahlt sich aus! Du gewinnst $ %1 aus Wetten"/>
+        <text id="win_ok_button_1" need_translate="false" value="Nehmen"/>
+        <text id="win_ok_button_2" need_translate="false" value="Einzahlen"/>
+        <text id="win_ok_button_3" need_translate="false" value="Bekommen"/>
     </game_events>
 </game_random_events>
