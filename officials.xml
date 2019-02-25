@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <officials>
     <descriptions>
-        <text id="governor" need_translate="true" value=""/>
-        <text id="judge" need_translate="true" value=""/>
-        <text id="police_chief" need_translate="true" value=""/>
-        <text id="prosecutor" need_translate="true" value=""/>
-        <text id="treasurer" need_translate="true" value=""/>
+        <text id="governor" need_translate="false" value="Gouverneur"/>
+        <text id="judge" need_translate="false" value="Richter"/>
+        <text id="police_chief" need_translate="false" value="Polizeipräsident"/>
+        <text id="prosecutor" need_translate="false" value="Staatsanwalt"/>
+        <text id="treasurer" need_translate="false" value="Schatzmeister"/>
     </descriptions>
     <type_names>
-        <text id="governor" need_translate="true" value=""/>
-        <text id="governor_in_genetive" need_translate="true" value=""/>
-        <text id="judge" need_translate="true" value=""/>
-        <text id="judge_in_genetive" need_translate="true" value=""/>
-        <text id="police_chief" need_translate="true" value=""/>
-        <text id="police_chief_in_genetive" need_translate="true" value=""/>
-        <text id="prosecutor" need_translate="true" value=""/>
-        <text id="prosecutor_in_genetive" need_translate="true" value=""/>
-        <text id="treasurer" need_translate="true" value=""/>
-        <text id="treasurer_in_genetive" need_translate="true" value=""/>
+        <text id="governor" need_translate="false" value="Gouverneur"/>
+        <text id="governor_in_genetive" need_translate="false" value="Gouverneurs"/>
+        <text id="judge" need_translate="false" value="Richter"/>
+        <text id="judge_in_genetive" need_translate="false" value="Richters"/>
+        <text id="police_chief" need_translate="false" value="Polizeipräsident"/>
+        <text id="police_chief_in_genetive" need_translate="false" value="Polizeipräsidenten"/>
+        <text id="prosecutor" need_translate="false" value="Staatsanwalt"/>
+        <text id="prosecutor_in_genetive" need_translate="false" value="Staatsanwaltes"/>
+        <text id="treasurer" need_translate="false" value="Schatzmeister"/>
+        <text id="treasurer_in_genetive" need_translate="false" value="Schatzmeisters"/>
     </type_names>
 </officials>
