@@ -13,11 +13,11 @@
         <text id="50_header" need_translate="false" value="Kampangnenfinanzierung"/>
         <text id="51_description" need_translate="false" value="Ich würde dich gerne fragen meinen %1 in den Aufsichtsrat von %2 zu bekommen. Ich wäre sehr dankbar!"/>
         <text id="51_header" need_translate="false" value="Aufsichtsrat"/>
-        <text id="52_description" need_translate="false" value="Hallo! Kannst du mir helfen meinen %1 zu einem Anteilseigner von %2 aus %3 zu machen?"/>
+        <text id="52_description" need_translate="true" value="Hallo! Kannst du mir helfen meinen %1 zu einem Anteilseigner von %2 aus %3 zu machen?"/>
         <text id="52_header" need_translate="false" value="Anteilseigner"/>
-        <text id="53_description" need_translate="false" value="%1Einflussreicher Politiker sind immmer der beste Weg, um ein 'Problem' aus dem Weg zu schaffen. Kannst du ein Treffen mit %2 %4 aus %3 arrangieren"/>
+        <text id="53_description" need_translate="true" value="%1Einflussreicher Politiker sind immmer der beste Weg, um ein 'Problem' aus dem Weg zu schaffen. Kannst du ein Treffen mit %2 %4 aus %3 arrangieren"/>
         <text id="53_header" need_translate="false" value="Politische Verbindungen"/>
-        <text id="54_description" need_translate="false" value="%1 'Benötige Verbindungen' kann mir helfen ein Prblem zu lösen. Kannst du ein Treffen mit %2 %4 aus %3 arrangieren?"/>
+        <text id="54_description" need_translate="true" value="%1 'Benötige Verbindungen' kann mir helfen ein Prblem zu lösen. Kannst du ein Treffen mit %2 %4 aus %3 arrangieren?"/>
         <text id="54_header" need_translate="false" value="Beamten Verbindungen"/>
     </event>
     <event_button>
@@ -32,7 +32,7 @@
         <text id="button_20_3_text" need_translate="false" value="Ich glaube nicht das das Sinn ergibt"/>
         <text id="button_21_1_header" need_translate="false" value="Komme mit einem teuren Geschenk"/>
         <text id="button_21_1_hover_text" need_translate="false" value="Geld: -$%1\n Loyalität zu dir: +%2%"/>
-        <text id="button_21_1_text" need_translate="false" value="Ein teures Geschenk ist eine Geste von Respekt. Ab und zu gibt es dir die Möglichkeit eine person zu manipulieren indem du ihn zwingst zu tun, was du willst!"/>
+        <text id="button_21_1_text" need_translate="true" value="Ein teures Geschenk ist eine Geste von Respekt. Ab und zu gibt es dir die Möglichkeit eine person zu manipulieren indem du ihn zwingst zu tun, was du willst!"/>
         <text id="button_21_2_header" need_translate="false" value="Komme mit einem symbolischen Geschenk"/>
         <text id="button_21_2_hover_text" need_translate="false" value="Geld: -$%1\n Loyalität zu dir: +%2%"/>
         <text id="button_21_2_text" need_translate="false" value="Ich bin mir sicher, es ist der Gedanke der zählt!"/>

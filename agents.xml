@@ -18,8 +18,8 @@
         <text id="1_1_2_male" need_translate="false" value="Nach etwas 'Bildung' ist der Kunde bereit ihr Angebot zu überdenken"/>
         <text id="1_1_3_female" need_translate="false" value="Er hat versucht zu diskutieren... Nichtsdestotrotz ist er jetzt bereit Sie bei der Hälfte zu treffen"/>
         <text id="1_1_3_male" need_translate="false" value="Er hat versucht zu diskutieren... Nichtsdestotrotz ist er jetzt bereit Sie bei der Hälfte zu treffen"/>
-        <text id="1_2_1_female" need_translate="false" value="Leider habe ich sie nicht angetroffen. Ihr war mein geplanter Besuch scheinbar bekannt...und jetzt versteckt sie sich vor mir"/>
-        <text id="1_2_1_male" need_translate="false" value="Leider habe ich ihn nicht angetroffen. Ihm war mein geplanter Besuch scheinbar bekannt...und jetzt versteckt er sich vor mir"/>
+        <text id="1_2_1_female" need_translate="true" value="Leider habe ich sie nicht angetroffen. Ihr war mein geplanter Besuch scheinbar bekannt...und jetzt versteckt sie sich vor mir"/>
+        <text id="1_2_1_male" need_translate="true" value="Leider habe ich ihn nicht angetroffen. Ihm war mein geplanter Besuch scheinbar bekannt...und jetzt versteckt er sich vor mir"/>
         <text id="1_2_2_female" need_translate="false" value="Ich konnte die Mission leider nicht abschließen, es waren zu viele Wachen dort. Viel Glück beim nächsten Mal..."/>
         <text id="1_2_2_male" need_translate="false" value="Ich konnte die Mission leider nicht abschließen, es waren zu viele Wachen dort. Viel Glück beim nächsten Mal..."/>
         <text id="1_2_3_female" need_translate="false" value="Jemand hat die Polizei gerufen... Ich war gezwungen abzuhauen! Ich hätte besser aufpassen sollen"/>
@@ -44,19 +44,19 @@
         <text id="2_2_3_male" need_translate="false" value="Ich habe keine guten Neuigkeiten für dich...wir haben nur über mich geredet... er passt auf, was er von sich gibt"/>
         <text id="2_3_1_female" need_translate="false" value="Ist meine Persönlichkeit so bekannt? Ich hatte noch kein Gespräch begonnen bevor sie fragte: 'Wer hat dich geschickt'"/>
         <text id="2_3_1_male" need_translate="false" value="Ist meine Persönlichkeit so bekannt? Ich hatte noch kein Gespräch begonnen bevor er fragte: 'Wer hat dich geschickt'"/>
-        <text id="2_3_2_female" need_translate="false" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
-        <text id="2_3_2_male" need_translate="false" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
-        <text id="2_3_3_female" need_translate="false" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
-        <text id="2_3_3_male" need_translate="false" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
-        <text id="3_1_1_female" need_translate="false" value="Es war nicht schwer! Meine Leute kennen sich aus"/>
-        <text id="3_1_1_male" need_translate="false" value="Es war nicht schwer! Meine Leute kennen sich aus"/>
-        <text id="3_1_2_female" need_translate="false" value="Ich habe meine Karten richtig gespielt... Ich glaube das ist es was Sie wollten"/>
-        <text id="3_1_2_male" need_translate="false" value="Ich habe meine Karten richtig gespielt... Ich glaube das ist es was Sie wollten"/>
+        <text id="2_3_2_female" need_translate="true" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
+        <text id="2_3_2_male" need_translate="true" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
+        <text id="2_3_3_female" need_translate="true" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
+        <text id="2_3_3_male" need_translate="true" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
+        <text id="3_1_1_female" need_translate="true" value="Es war nicht schwer! Meine Leute kennen sich aus"/>
+        <text id="3_1_1_male" need_translate="true" value="Es war nicht schwer! Meine Leute kennen sich aus"/>
+        <text id="3_1_2_female" need_translate="true" value="Ich habe meine Karten richtig gespielt... Ich glaube das ist es was Sie wollten"/>
+        <text id="3_1_2_male" need_translate="true" value="Ich habe meine Karten richtig gespielt... Ich glaube das ist es was Sie wollten"/>
         <text id="3_1_3_female" need_translate="false" value="Das wird genug sein, um in schweren Problemen zu stecken"/>
         <text id="3_1_3_male" need_translate="false" value="Das wird genug sein, um in schweren Problemen zu stecken"/>
-        <text id="3_2_1_female" need_translate="false" value="Ich konnte leider nichts brauchbares für Sie finden. Scheint alles sauber zu sein"/>
-        <text id="3_2_1_male" need_translate="false" value="Ich konnte leider nichts brauchbares für Sie finden. Scheint alles sauber zu sein"/>
-        <text id="3_2_2_female" need_translate="false" value="Leider konnte ich sie nicht belasten. Nächstes mal werde ich erfolgreicher sein"/>
+        <text id="3_2_1_female" need_translate="true" value="Ich konnte leider nichts brauchbares für Sie finden. Scheint alles sauber zu sein"/>
+        <text id="3_2_1_male" need_translate="true" value="Ich konnte leider nichts brauchbares für Sie finden. Scheint alles sauber zu sein"/>
+        <text id="3_2_2_female" need_translate="true" value="Leider konnte ich sie nicht belasten. Nächstes mal werde ich erfolgreicher sein"/>
         <text id="3_2_2_male" need_translate="false" value="Leider konnte ich ihn nicht belasten. Nächstes mal werde ich erfolgreicher sein"/>
         <text id="3_2_3_female" need_translate="false" value="Der Typ, der den Auftrag ausführen sollte ist verschwunden! Also habe ich nichts für dich"/>
         <text id="3_2_3_male" need_translate="false" value="Der Typ, der den Auftrag ausführen sollte ist verschwunden! Also habe ich nichts für dich"/>
@@ -98,10 +98,10 @@
         <text id="5_2_3_male" need_translate="false" value="Ich denke wir haben ein Problem...Die Polizei ist auf dem Weg zu uns!"/>
         <text id="5_3_1_female" need_translate="false" value="Ich habe zwei Neuigkeiten: 1. Es war kein Geld da. 2. Einer meiner Leute hat sein Waffe dort verloren...Also werden bald ein paar Fragen aufkommen..."/>
         <text id="5_3_1_male" need_translate="false" value="Ich habe zwei Neuigkeiten: 1. Es war kein Geld da. 2. Einer meiner Leute hat sein Waffe dort verloren...Also werden bald ein paar Fragen aufkommen..."/>
-        <text id="5_3_2_female" need_translate="false" value="Die Information war falsch! Es war kein Geld da...und jemand hat mich erkannt! Ich glaube wir sollten bedeckt halten..."/>
-        <text id="5_3_2_male" need_translate="false" value="Die Information war falsch! Es war kein Geld da...und jemand hat mich erkannt! Ich glaube wir sollten bedeckt halten..."/>
-        <text id="5_3_3_female" need_translate="false" value="Die Information war falsch! Es war kein Geld da...und jemand hat mich erkannt! Ich glaube wir sollten bedeckt halten..."/>
-        <text id="5_3_3_male" need_translate="false" value="Die Information war falsch! Es war kein Geld da...und jemand hat mich erkannt! Ich glaube wir sollten bedeckt halten..."/>
+        <text id="5_3_2_female" need_translate="true" value="Die Information war falsch! Es war kein Geld da...und jemand hat mich erkannt! Ich glaube wir sollten bedeckt halten..."/>
+        <text id="5_3_2_male" need_translate="true" value="Die Information war falsch! Es war kein Geld da...und jemand hat mich erkannt! Ich glaube wir sollten bedeckt halten..."/>
+        <text id="5_3_3_female" need_translate="true" value="Die Information war falsch! Es war kein Geld da...und jemand hat mich erkannt! Ich glaube wir sollten bedeckt halten..."/>
+        <text id="5_3_3_male" need_translate="true" value="Die Information war falsch! Es war kein Geld da...und jemand hat mich erkannt! Ich glaube wir sollten bedeckt halten..."/>
         <text id="6_1_1_female" need_translate="false" value="Die Arbeit ist getan! Niemand wird etwas am Tatort finden! Du kannst in Ruhe schlafen"/>
         <text id="6_1_1_male" need_translate="false" value="Die Arbeit ist getan! Niemand wird etwas am Tatort finden! Du kannst in Ruhe schlafen"/>
         <text id="6_1_2_female" need_translate="false" value="Es ist getan! Es hat viel länger gedauert als ich dachte"/>
@@ -126,7 +126,7 @@
     <agent_skill_abduction>
         <text id="description" need_translate="true" value=""/>
         <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Entführungen: +100% Erfolgschance"/>
+        <text id="name" need_translate="true" value="Entführungen: +100% Erfolgschance"/>
         <text id="negative_result" need_translate="false" value="Fehlschlag"/>
         <text id="positive_result" need_translate="false" value="Erfolg"/>
         <text id="risk" need_translate="false" value="Kein negativer Effekt"/>
@@ -158,7 +158,7 @@
     <agent_skill_beating>
         <text id="description" need_translate="true" value=""/>
         <text id="full_description" need_translate="true" value=""/>
-        <text id="name" need_translate="false" value="Schlagen: +70% Erfolgschance"/>
+        <text id="name" need_translate="true" value="Schlagen: +70% Erfolgschance"/>
         <text id="negative_result" need_translate="false" value="Fehlschlag"/>
         <text id="positive_result" need_translate="false" value="Erfolg"/>
         <text id="risk" need_translate="false" value="Kein negativer Effekt"/>
@@ -269,7 +269,7 @@
     </agent_skill_threat>
     <agents_bandit>
         <text id="description" need_translate="false" value="Der merkwürdige und gerissene Cowboy mit reichem kriminellen Hintergrund. Seit seiner Kindheit kannte er nur das Gesetz des stärkeren! Aufgrund des schnellen Wachstums des Kapitalismus verlangte das System nur drei Dinge von ihm: Verstand, Entschlossenheit und Schießfähigkeit. Sich selbst als Gestzloser erklärt wurden Diebstähle und Überfalle seien Einkommensquelle. Wenn du seine Dienste benötigst, solltest du bereit sein ihn gut zu bezahlen."/>
-        <text id="effect" need_translate="false" value="Im Falle des Erfolgs wird der Agent bis zu 10% des Geldes erbeuten"/>
+        <text id="effect" need_translate="true" value="Im Falle des Erfolgs wird der Agent bis zu 10% des Geldes erbeuten"/>
         <text id="name" need_translate="false" value="Jesse"/>
         <text id="risk" need_translate="true" value=""/>
         <text id="short_description" need_translate="false" value="%1 wurde überfallen. Du bekommst $%2"/>
@@ -278,7 +278,7 @@
     </agents_bandit>
     <agents_courtesan>
         <text id="description" need_translate="false" value="Poly Adler ist eine mysteriöse Fraue, welche eine wahre Verführerin von Männern ist. Früh im Leben realisierte sie, dass ein reicher und einflussreicher Liebhaber das Ticket zu einem glücklichen Leben ist! Seitdem treibt sie sich in den Kreisen der hohen Gessellschaft umher, um nützliche Informationen über die Männer zu sammeln. Sie lauscht privaten Gesprächen, in denen belastende Informationen über verheiratete Männer ausgetauscht werden."/>
-        <text id="effect" need_translate="false" value="Im Falle des Erfolgs wird dir dieser Agent helfen, einen männlichen Charakter zu manipulieren, indem sie den benötigten Einfluss für ein Treffen reduziert. Außerdem hängt der Erfolg von deinem Einfluss zu dem Charakter ab."/>
+        <text id="effect" need_translate="true" value="Im Falle des Erfolgs wird dir dieser Agent helfen, einen männlichen Charakter zu manipulieren, indem sie den benötigten Einfluss für ein Treffen reduziert. Außerdem hängt der Erfolg von deinem Einfluss zu dem Charakter ab."/>
         <text id="name" need_translate="false" value="Poly"/>
         <text id="risk" need_translate="true" value=""/>
         <text id="short_description" need_translate="false" value="%1 hat angebissen. Benötigter Einfluss ist verringert worden"/>
@@ -287,10 +287,10 @@
     </agents_courtesan>
     <agents_detective>
         <text id="description" need_translate="false" value="Der brilliante Detektiv, der die kriminelle Welt nur zu gut kennt, ist der Kopf eines Ermittler Büros, welches aus frühren Kriminellen besteht. Er ist in der Lage jedes Rätsel, welches mit der dunklen Vergangenheit eines Charakter oder Betrug in einer Firma zusammmen hängt, zu lösen. Durch die Möglichkeit unabhängig vom Gesetz zu arbeiten, bietet er etwas Sicherheit für Kunden."/>
-        <text id="effect" need_translate="false" value="Im Falle des Erfolgs, wirst du +100% Erfolgschance auf Abkommen mit dem bloßgestellten Charakter permanent erhalten"/>
+        <text id="effect" need_translate="true" value="Im Falle des Erfolgs, wirst du +100% Erfolgschance auf Abkommen mit dem bloßgestellten Charakter permanent erhalten"/>
         <text id="name" need_translate="false" value="Grant"/>
         <text id="risk" need_translate="true" value=""/>
-        <text id="short_description" need_translate="false" value="%1 ist bloßgestellt. +100% Erfolgschance für Abkommen"/>
+        <text id="short_description" need_translate="true" value="%1 ist bloßgestellt. +100% Erfolgschance für Abkommen"/>
         <text id="skill" need_translate="false" value="Verfolgung"/>
         <text id="surname" need_translate="false" value="Hills"/>
     </agents_detective>

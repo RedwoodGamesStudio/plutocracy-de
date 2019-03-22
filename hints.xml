@@ -81,13 +81,13 @@
         <text id="45_title" need_translate="false" value="Wirtschaftlichkeit"/>
         <text id="46_text" need_translate="false" value="Präsentiert den Firmenwert relativ zum Marktpreis der Anteile"/>
         <text id="46_title" need_translate="false" value="Marktgrenze"/>
-        <text id="47_text" need_translate="false" value="Der Kaufpreis der Anteile durch einen Makler"/>
+        <text id="47_text" need_translate="true" value="Der Kaufpreis der Anteile durch einen Makler"/>
         <text id="47_title" need_translate="false" value="Marktpreis"/>
         <text id="4_title" need_translate="false" value="Errungenschaften und Elite"/>
         <text id="4_value" need_translate="false" value="Deiner Errungemschaften und Rangliste"/>
         <text id="50_title" need_translate="false" value="Zeit übrig"/>
         <text id="50_value" need_translate="false" value="Die Zeit auf der Uhr ist die Anzahl der Versuche einen Deal zu machen"/>
-        <text id="5_title" need_translate="false" value="Authorität"/>
+        <text id="5_title" need_translate="true" value="Authorität"/>
         <text id="5_value" need_translate="false" value="Lobbyarbeit bei Gestzen, sponsern von Politikern und Beamten"/>
         <text id="6_title" need_translate="false" value="Neuigkeiten"/>
         <text id="6_value" need_translate="false" value="Die Reihenfolge der Ereignisse"/>

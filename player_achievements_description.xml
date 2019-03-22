@@ -23,26 +23,26 @@
         <text id="world_monopolist" need_translate="false" value="Erreiche %1% Marktanteil der ganzen Welt"/>
     </descriptions>
     <descriptions_complete>
-        <text id="artificial_manipulator" need_translate="false" value="Du hast %1 Assistenten angestellt"/>
-        <text id="bloody_prince" need_translate="false" value="Du hast %1 erfolgreiche Attentate hinter dir"/>
-        <text id="collector" need_translate="false" value="Du besitzt %1 Sammelerstücke"/>
-        <text id="combinator" need_translate="false" value="Du hast eine Fertigungstiefe von %1 erreicht"/>
-        <text id="corrupting_power" need_translate="false" value="Du hast %1 korrupte Deals abgeschlosssen"/>
-        <text id="country_figure" need_translate="false" value="Du hast %1% des Einflusses der USA angesammelt"/>
-        <text id="diplomat_of_devil" need_translate="false" value="Du hast %1 erfolgreiche Verhandlungen geführt"/>
-        <text id="great_raider" need_translate="false" value="Du hast die Kontrolle über %1 Firmen übernommen"/>
+        <text id="artificial_manipulator" need_translate="true" value="Du hast %1 Assistenten angestellt"/>
+        <text id="bloody_prince" need_translate="true" value="Du hast %1 erfolgreiche Attentate hinter dir"/>
+        <text id="collector" need_translate="true" value="Du besitzt %1 Sammelerstücke"/>
+        <text id="combinator" need_translate="true" value="Du hast eine Fertigungstiefe von %1 erreicht"/>
+        <text id="corrupting_power" need_translate="true" value="Du hast %1 korrupte Deals abgeschlosssen"/>
+        <text id="country_figure" need_translate="true" value="Du hast %1% des Einflusses der USA angesammelt"/>
+        <text id="diplomat_of_devil" need_translate="true" value="Du hast %1 erfolgreiche Verhandlungen geführt"/>
+        <text id="great_raider" need_translate="true" value="Du hast die Kontrolle über %1 Firmen übernommen"/>
         <text id="individual" need_translate="false" value="Du hast %1% der Anteile einer Firma erworben"/>
-        <text id="local_lobbyist" need_translate="false" value="Du hast an %1 lokalen Gesetzen als Lobbyist mitgewirkt"/>
-        <text id="local_monopolist" need_translate="false" value="Du hast %1% Marktanteil in dem Bundesstaat erreicht"/>
-        <text id="master_of_secrets" need_translate="false" value="Du hast %1 belastende Beweise angesammelt"/>
+        <text id="local_lobbyist" need_translate="true" value="Du hast an %1 lokalen Gesetzen als Lobbyist mitgewirkt"/>
+        <text id="local_monopolist" need_translate="true" value="Du hast %1% Marktanteil in dem Bundesstaat erreicht"/>
+        <text id="master_of_secrets" need_translate="true" value="Du hast %1 belastende Beweise angesammelt"/>
         <text id="plutocrat" need_translate="false" value="Du hast $%1 verdient"/>
-        <text id="political_heavyweight" need_translate="false" value="Du hast an %1 bundesstaatlichen Gesetzen als Lobbyist mitgewirkt"/>
-        <text id="regional_figure" need_translate="false" value="Du hast %1% des Einflusses eines Bundesstaates erreicht"/>
+        <text id="political_heavyweight" need_translate="true" value="Du hast an %1 bundesstaatlichen Gesetzen als Lobbyist mitgewirkt"/>
+        <text id="regional_figure" need_translate="true" value="Du hast %1% des Einflusses eines Bundesstaates erreicht"/>
         <text id="shadow_ruler" need_translate="false" value="Du hast nun deinen eigene Herrscher der USA"/>
-        <text id="themis_master" need_translate="false" value="Du hast %1 Urteile abgewendet"/>
-        <text id="us_monopolist" need_translate="false" value="Du hast %1% des Martkanteils der USA gesichert"/>
-        <text id="walk_in_all_doors" need_translate="false" value="Alle Beamten eines Bundesstaates sind deine Marionetten"/>
-        <text id="world_monopolist" need_translate="false" value="Du hast %1% des Marktanteils auf der Welt erreicht"/>
+        <text id="themis_master" need_translate="true" value="Du hast %1 Urteile abgewendet"/>
+        <text id="us_monopolist" need_translate="true" value="Du hast %1% des Martkanteils der USA gesichert"/>
+        <text id="walk_in_all_doors" need_translate="true" value="Alle Beamten eines Bundesstaates sind deine Marionetten"/>
+        <text id="world_monopolist" need_translate="true" value="Du hast %1% des Marktanteils auf der Welt erreicht"/>
     </descriptions_complete>
     <names>
         <text id="artificial_manipulator" need_translate="false" value="Fähiger Manipulator"/>
@@ -75,7 +75,7 @@
         <text id="country_figure" need_translate="false" value="Einflusslevel in der USA:"/>
         <text id="diplomat_of_devil" need_translate="false" value="Geführte Verhandlungen:"/>
         <text id="great_raider" need_translate="false" value="Kontrollierte Firmen:"/>
-        <text id="individual" need_translate="false" value="Gekaufte Anteile:"/>
+        <text id="individual" need_translate="true" value="Gekaufte Anteile:"/>
         <text id="local_lobbyist" need_translate="false" value="Lokale Lobby Gesetze:"/>
         <text id="local_monopolist" need_translate="false" value="Marktanteil des Bundesstaates:"/>
         <text id="master_of_secrets" need_translate="false" value="Belastende Beweise:"/>

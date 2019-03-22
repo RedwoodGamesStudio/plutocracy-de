@@ -10,8 +10,8 @@
         <text id="economic_achievements" need_translate="false" value="WIRTSCHAFTLICHE ERRUNGENDCHAFTEN"/>
         <text id="in_developing" need_translate="false" value="In Entwicklung...(Mehr Text wird später hinzugefügt)"/>
         <text id="lock_achievement" need_translate="false" value="Du hast die %1 Errungenschaft verlornen!\nDie Sammlung von %2 wurde verringert."/>
-        <text id="next" need_translate="false" value="Du kriegst:"/>
-        <text id="now" need_translate="false" value="Du hast:"/>
+        <text id="next" need_translate="true" value="Du kriegst:"/>
+        <text id="now" need_translate="true" value="Du hast:"/>
         <text id="opened_achievements" need_translate="false" value="%1 von %2 erreicht"/>
         <text id="personal_achievements" need_translate="false" value="PERSÖNLICHE ERRUNGENSCHAFTEN"/>
         <text id="politics_achievements" need_translate="false" value="POLITISCHE ERRUNGENSCHAFTEN"/>
@@ -116,19 +116,27 @@
         <text id="credit_pay_off" need_translate="false" value="Du hast den Kredit zurückgezahlt!"/>
         <text id="credit_payment_arrerage" need_translate="false" value="%1 Zahlungen verbleibend ($ %2)"/>
         <text id="get_agent_text" need_translate="false" value="Im Falle einer erfolgreichen Verhandlung wird %1 %2's Loyalität um %3-%4% steigen"/>
-        <text id="skill_temporarily_blocked" need_translate="false" value="Du kannst die Fähigkeit '%1' momentan nicht benutzen"/>
+        <text id="skill_temporarily_blocked" need_translate="true" value="Du kannst die Fähigkeit '%1' momentan nicht benutzen"/>
     </agents_handler>
     <agents_window>
         <text id="agents" need_translate="false" value="Agenten"/>
         <text id="influence_agents" need_translate="false" value="Einflussagenten"/>
     </agents_window>
     <ambition_popup>
+        <text id="abandon_quest" need_translate="true" value=""/>
+        <text id="agree" need_translate="true" value=""/>
+        <text id="bribe_sum" need_translate="true" value=""/>
+        <text id="campaign_sum" need_translate="true" value=""/>
+        <text id="cancel" need_translate="true" value=""/>
         <text id="conditions" need_translate="false" value="Bedingungen"/>
         <text id="days_left" need_translate="false" value="Zeit übrig"/>
         <text id="deal_sum" need_translate="false" value="Vertragssumme"/>
+        <text id="finish_quest" need_translate="true" value=""/>
         <text id="influence" need_translate="false" value="Einfluss"/>
         <text id="loyality" need_translate="false" value="Loyalität zu dir"/>
-        <text id="loyality_change" need_translate="false" value="Erreichte Loyalität"/>
+        <text id="loyality_change_negative" need_translate="true" value=""/>
+        <text id="loyality_change_positive" need_translate="true" value=""/>
+        <text id="process_quest" need_translate="true" value=""/>
         <text id="shares_count" need_translate="false" value="Anzahl der Anteile"/>
     </ambition_popup>
     <any_words>
@@ -150,16 +158,18 @@
         <text id="assistant_control_company" need_translate="false" value="Der Assistent wurde bereits als neuer CEO vorgeschlagen!"/>
         <text id="assistant_in_prison" need_translate="false" value="{nickname} ist im Gefängnis"/>
         <text id="button_hint_header" need_translate="false" value="Assistenten"/>
-        <text id="button_hint_text" need_translate="false" value="Hier kannst du einen Assistenten anstellen, der später ein Beamter oder Politiker werden kann. Es ist dir überlassen!"/>
+        <text id="button_hint_text" need_translate="true" value="Hier kannst du einen Assistenten anstellen, der später ein Beamter oder Politiker werden kann. Es ist dir überlassen!"/>
         <text id="characteristics" need_translate="false" value="Fähigkeiten"/>
         <text id="diplomacy" need_translate="false" value="Diplomatie"/>
         <text id="diplomacy_hint_header" need_translate="false" value="Diplomatie"/>
-        <text id="diplomacy_hint_text" need_translate="false" value="Diese Fähigkeit beeinflusst den Bonus/Strafe auf die Chance einen Deal abzuschließen"/>
+        <text id="diplomacy_hint_text" need_translate="true" value="Diese Fähigkeit beeinflusst den Bonus/Strafe auf die Chance einen Deal abzuschließen"/>
         <text id="economics" need_translate="false" value="Wirtschaft"/>
         <text id="economics_hint_header" need_translate="false" value="Wirtschaft"/>
         <text id="economics_hint_text" need_translate="false" value="Je höher der Wirtschaftslevel, desto besser kann der Assistent eine Firma führen"/>
         <text id="filter_text_0" need_translate="false" value="Frei"/>
         <text id="filter_text_1" need_translate="false" value="Angestellt"/>
+        <text id="filter_text_3" need_translate="true" value=""/>
+        <text id="filter_text_4" need_translate="true" value=""/>
         <text id="gold_parachute" need_translate="false" value="Abfindung"/>
         <text id="gold_parachute_hint_header" need_translate="false" value="Abfindung"/>
         <text id="gold_parachute_hint_text" need_translate="false" value="Die Summe die dem Assistenten bezahlt werden sollte falls du ihn entlassen willst"/>
@@ -167,10 +177,10 @@
         <text id="hire_assistant_hint_text" need_translate="false" value="Du hast nicht genung Macht um ihn anzustellen"/>
         <text id="influence" need_translate="false" value="Einfluss"/>
         <text id="influence_hint_header" need_translate="false" value="Einfluss"/>
-        <text id="influence_hint_text" need_translate="false" value="Die Macht von den Verbindungen des Charakters. Verwende Einfluss, um einen Deal zu machen, Loyalität zu verbessern oder Agenten zu benutzen"/>
+        <text id="influence_hint_text" need_translate="true" value="Die Macht von den Verbindungen des Charakters. Verwende Einfluss, um einen Deal zu machen, Loyalität zu verbessern oder Agenten zu benutzen"/>
         <text id="influence_skill" need_translate="false" value="Politik"/>
         <text id="influence_skill_hint_header" need_translate="false" value="Politik"/>
-        <text id="influence_skill_hint_text" need_translate="false" value="Einfluss pro Quartal. Ein Stern erhöhten den Einfluss des Assistenten um +1 Punkt"/>
+        <text id="influence_skill_hint_text" need_translate="true" value="Einfluss pro Quartal. Ein Stern erhöhten den Einfluss des Assistenten um +1 Punkt"/>
         <text id="no_avaliable_assistants" need_translate="false" value="Keine verfügbaren Assistenten!"/>
         <text id="no_hired_assistants" need_translate="false" value="Keine angestellten Assistenten!"/>
         <text id="not_enough_money_to_fire" need_translate="false" value="Du hast nicht genug Geld die Abfindung des Assistenten zu bezahlen!"/>
@@ -181,12 +191,12 @@
         <text id="politics_hint_text" need_translate="true" value=""/>
         <text id="power_cost" need_translate="false" value="Preis"/>
         <text id="power_cost_hint_header" need_translate="false" value="Preis"/>
-        <text id="power_cost_hint_text" need_translate="false" value="Die Anzahl an Machtpunkten die zum Anstellen benötigt werden"/>
+        <text id="power_cost_hint_text" need_translate="true" value="Die Anzahl an Machtpunkten die zum Anstellen benötigt werden"/>
         <text id="reputation" need_translate="false" value="Ansehen"/>
         <text id="reputation_hint_header" need_translate="false" value="Ansehen"/>
         <text id="reputation_hint_text" need_translate="false" value="Wenn dein Ansehen besser ist als das deines Gegners, wird es leichter sein Deals abzuschließen. Dennoch wirst du einen Ansehensmalus von -1 Punkt erhalten"/>
         <text id="sabotage_popup_header" need_translate="false" value="Sabotage!"/>
-        <text id="sabotage_popup_text" need_translate="false" value="Der Assistent will deine Anweisung nicht ausführen. Wahrscheinlich ist die niedrige Loyalität der Grund dafür..."/>
+        <text id="sabotage_popup_text" need_translate="true" value="Der Assistent will deine Anweisung nicht ausführen. Wahrscheinlich ist die niedrige Loyalität der Grund dafür..."/>
         <text id="salary" need_translate="false" value="Gehalt"/>
         <text id="salary_hint_header" need_translate="false" value="Gehalt"/>
         <text id="salary_hint_text" need_translate="false" value="Die Summe, die vom Konto jede Runde abgehoben wird"/>
@@ -231,8 +241,8 @@
         <text id="money" need_translate="false" value="Geld"/>
         <text id="ok" need_translate="false" value="Ok"/>
         <text id="prestige" need_translate="false" value="Ansehen"/>
-        <text id="you_lose_auction" need_translate="false" value="Du hast die Auktion verloren!"/>
-        <text id="you_win_auction" need_translate="false" value="Du hast die Auktion gewonnen!"/>
+        <text id="you_lose_auction" need_translate="true" value="Du hast die Auktion verloren!"/>
+        <text id="you_win_auction" need_translate="true" value="Du hast die Auktion gewonnen!"/>
     </auction_result>
     <auction_window>
         <text id="demand" need_translate="false" value="Fragen"/>
@@ -311,6 +321,7 @@
         <text id="loading" need_translate="false" value="Laden..."/>
         <text id="press_any_key_to_continue" need_translate="false" value="Drücke eine Taste zum fortfahren..."/>
     </cap_block>
+    <text id="capitol" need_translate="true" value=""/>
     <circle_progress_bar>
         <text id="xp" need_translate="false" value="Erfahrung"/>
     </circle_progress_bar>
@@ -319,13 +330,15 @@
         <text id="buy" need_translate="false" value="Kaufen"/>
         <text id="buy_price" need_translate="false" value="Kaufpreis"/>
         <text id="buy_price_2" need_translate="false" value="Kaufpreis"/>
+        <text id="collection_influence_bonuse" need_translate="true" value=""/>
         <text id="demand" need_translate="false" value="Fragen"/>
         <text id="description" need_translate="false" value="Beschreibung"/>
+        <text id="influence_bonuse" need_translate="true" value=""/>
         <text id="inform" need_translate="false" value="Information"/>
         <text id="market_price" need_translate="false" value="Marktpreis"/>
         <text id="market_price_2" need_translate="false" value="Marktpreis"/>
         <text id="no_money_to_buy_hint_header" need_translate="false" value="Grundstückskauf"/>
-        <text id="no_money_to_buy_hint_text" need_translate="false" value="Du hast nicht genug Geld um das zu kaufen"/>
+        <text id="no_money_to_buy_hint_text" need_translate="true" value="Du hast nicht genug Geld um das zu kaufen"/>
         <text id="profit_by_all" need_translate="false" value="Gesamter Gewinn"/>
         <text id="profit_by_step" need_translate="false" value="Gewinn pro Quartal"/>
         <text id="sale" need_translate="false" value="Verkaufen"/>
@@ -379,8 +392,6 @@
         <text id="accident_risk" need_translate="false" value="Unfallrisiko"/>
         <text id="administrative_expenses" need_translate="false" value="Administrative Ausgaben"/>
         <text id="adress_generation_is_impossible" need_translate="false" value="Adressengeneration ist nicht möglich"/>
-        <text id="available_primary" need_translate="false" value="Rohmaterialien"/>
-        <text id="available_products" need_translate="false" value="Verfügbare Güter"/>
         <text id="base_productivity" need_translate="false" value="Grundkapazität"/>
         <text id="capitalization" need_translate="false" value="Marktgrenze"/>
         <text id="company_name_is_inaccessible" need_translate="false" value="Kein verfügbarer Name für die Firma!"/>
@@ -396,14 +407,11 @@
         <text id="not_enough_place_for_new_company" need_translate="false" value="Kein Platz für neue Firmen"/>
         <text id="other_countries_export" need_translate="true" value=""/>
         <text id="other_countries_import" need_translate="true" value=""/>
-        <text id="primary_to_secondary" need_translate="false" value="Rohmaterialien pro Gütereinheit"/>
         <text id="proceeds" need_translate="false" value="Einkommen"/>
-        <text id="product_price" need_translate="false" value="Güterpreis"/>
         <text id="production_expenses" need_translate="false" value="Produktionskosten"/>
         <text id="profit" need_translate="false" value="Gewinn"/>
         <text id="profitability" need_translate="false" value="Wirtschaftlichkeit"/>
         <text id="salary" need_translate="false" value="Gehalt"/>
-        <text id="share_fair_price" need_translate="false" value="Anteilspreis"/>
         <text id="state_tax" need_translate="false" value="Staatssteuer"/>
         <text id="strike_risk" need_translate="false" value="Streikrisiko"/>
         <text id="technologies" need_translate="false" value="Technologien"/>
@@ -450,11 +458,11 @@
         <text id="deal_chance" need_translate="false" value="Dealwahrscheinlichkeit"/>
         <text id="deal_sum" need_translate="false" value="Vertragssumme"/>
         <text id="details" need_translate="false" value="Details"/>
-        <text id="detective_applied" need_translate="false" value="Du hast die Firma schon belastet"/>
+        <text id="detective_applied" need_translate="true" value="Du hast die Firma schon belastet"/>
         <text id="detective_not_applied" need_translate="false" value="Du hast nichts belastendes, um die Firma zu entführen"/>
         <text id="diplomacy_skill" need_translate="false" value="Diplomatie"/>
         <text id="diplomacy_skill_hint_header" need_translate="false" value="Diplomatie"/>
-        <text id="diplomacy_skill_hint_text" need_translate="false" value="Diese Fähigkeit beeinflusst die Bonus/Maluschance einen Deal zu machen"/>
+        <text id="diplomacy_skill_hint_text" need_translate="true" value="Diese Fähigkeit beeinflusst die Bonus/Maluschance einen Deal zu machen"/>
         <text id="employ_director" need_translate="false" value="Stelle einen Direktor an"/>
         <text id="employ_director_disabled" need_translate="false" value="Du kannst keinen Direktor anstellen"/>
         <text id="employ_director_no_control" need_translate="false" value="Du brauchst einen kontrollierenden Anteil der Firma, um einen Direktor einzustellen"/>
@@ -476,7 +484,7 @@
         </hints>
         <text id="influence" need_translate="false" value="Einfluss"/>
         <text id="influence_cost_description" need_translate="false" value="Die Anzahl an Einflusspunkten, die benötigt wird um zu verhandeln"/>
-        <text id="influence_cost_description_new" need_translate="false" value="Durch {nickname}'s Loyalität zu dir und deinen Assistenten, ist der Verhandlungspreis {range_influence} {image}"/>
+        <text id="influence_cost_description_new" need_translate="true" value="Durch {nickname}'s Loyalität zu dir und deinen Assistenten, ist der Verhandlungspreis {range_influence} {image}"/>
         <text id="influence_cost_header" need_translate="false" value="Einfluss"/>
         <text id="interest" need_translate="false" value="Interessen+"/>
         <text id="interest_bar" need_translate="false" value="Interessiert"/>
@@ -576,6 +584,7 @@
             <text id="working_hours" need_translate="true" value=""/>
         </window>
     </control>
+    <text id="court" need_translate="true" value=""/>
     <crash_rpt>
         <text id="installatio_of_error_handler_is_impossible" need_translate="true" value=""/>
     </crash_rpt>
@@ -687,7 +696,7 @@
         <text id="my_directors" need_translate="true" value=""/>
         <text id="name_and_age" need_translate="true" value=""/>
         <text id="negotiation" need_translate="false" value="Verhandlung"/>
-        <text id="no_shares" need_translate="false" value="Du bist kein Anteilseigner von {companyname}!"/>
+        <text id="no_shares" need_translate="true" value="Du bist kein Anteilseigner von {companyname}!"/>
         <text id="orders" need_translate="false" value="Anweisungen"/>
         <orders>
             <text id="bayback" need_translate="false" value="Rückkauf"/>
@@ -708,7 +717,7 @@
         <text id="technologies" need_translate="true" value=""/>
         <text id="tecnologies" need_translate="false" value="Technologien"/>
         <text id="use_agent" need_translate="false" value="Benutze einen Agenten"/>
-        <text id="voting_not_possible" need_translate="false" value="Die nächste Wahl wir am {date} verfügbar sein"/>
+        <text id="voting_not_possible" need_translate="true" value="Die nächste Wahl wir am {date} verfügbar sein"/>
         <text id="window_name" need_translate="false" value="Direktorenliste"/>
         <text id="workplace" need_translate="false" value="Aktueller Job"/>
     </directors_window>
@@ -857,6 +866,7 @@
         <text id="you_want_to_buy_some_safety_stock" need_translate="true" value=""/>
     </discussion_handler>
     <discussion_history_log>
+        <text id="corrupt_dialog" need_translate="true" value=""/>
         <text id="dialog_fail" need_translate="false" value="Der Deal mit %1 ist fehlgeschlagen"/>
         <text id="dialog_success" need_translate="false" value="Der Deal mit %1 wurde gemacht: %2 Anteile für $%3 - Gesamt $%4"/>
         <text id="dialog_success_loan" need_translate="false" value="Der Deal mit %1 ist gemacht: $%2 zu %3% pro Quartal"/>
@@ -901,8 +911,8 @@
         <text id="some_days" need_translate="false" value="%1 -%2 Tag(e)"/>
     </discussion_result>
     <discussion_result_message_box>
-        <text id="talks_failure" need_translate="false" value="Verhandlung fahlgeschlagen!"/>
-        <text id="talks_success" need_translate="false" value="Verhandlung erfolgreich!"/>
+        <text id="talks_failure" need_translate="true" value="Verhandlung fahlgeschlagen!"/>
+        <text id="talks_success" need_translate="true" value="Verhandlung erfolgreich!"/>
     </discussion_result_message_box>
     <discussion_settings>
         <text id="deal" need_translate="false" value="Deal"/>
@@ -913,7 +923,6 @@
     <discussion_window>
         <text id="agree" need_translate="false" value="Ok"/>
         <text id="analysis" need_translate="false" value="Analyse"/>
-        <text id="contract" need_translate="false" value="Vertrag"/>
         <text id="contract_condition" need_translate="false" value="Vertragsbedingungen:"/>
         <text id="deal_chance" need_translate="false" value="Vertragswahrscheinlichkeit:"/>
         <text id="deal_history" need_translate="false" value="Vertragsprozss"/>
@@ -926,16 +935,23 @@
             <text id="all_loans" need_translate="false" value="Alle Kredite"/>
             <text id="loan_sum" need_translate="false" value="Kreditsumme"/>
             <text id="pay_loan" need_translate="false" value="Zurückzahlen"/>
-            <text id="quarter_payment" need_translate="false" value=""/>
+            <text id="quarter_payment" need_translate="true" value=""/>
             <text id="quarter_rate" need_translate="false" value="Quartalsrate"/>
-            <text id="take_loan" need_translate="false" value="Aufnehmen"/>
+            <text id="take_loan" need_translate="true" value="Aufnehmen"/>
             <text id="total_sum_by_loans" need_translate="false" value="Gesamte Kreditzahlungen"/>
         </loan>
+        <text id="loan_contract" need_translate="true" value=""/>
         <text id="negative_result" need_translate="false" value="Fehlschlag"/>
         <text id="negotiation_in_progress" need_translate="false" value="Verhandeln..."/>
         <text id="neutral_result1" need_translate="false" value="Gegenangebot"/>
         <text id="neutral_result2" need_translate="false" value="Gegenangebot"/>
         <text id="offer" need_translate="false" value="Angebot"/>
+        <official>
+            <text id="arrest_chance" need_translate="true" value=""/>
+            <text id="bribe_sum" need_translate="true" value=""/>
+            <text id="influence" need_translate="true" value=""/>
+        </official>
+        <text id="official_contract" need_translate="true" value=""/>
         <text id="opponent_sign" need_translate="false" value="Unterschrift Verkäufer"/>
         <text id="player_sign" need_translate="false" value="Unterschrift Käufer"/>
         <text id="positive_result" need_translate="false" value="Erfolg"/>
@@ -943,6 +959,7 @@
         <text id="refuse" need_translate="false" value="Ablehnen"/>
         <text id="roi" need_translate="false" value="Wirtschaftlichkeit"/>
         <text id="share_price" need_translate="false" value="Anteilspreis"/>
+        <text id="shares_contract" need_translate="true" value=""/>
         <text id="shares_count" need_translate="false" value="Anzahl der Anteile"/>
         <text id="shares_part_after_deal" need_translate="false" value="Zukünftiger Anteil"/>
         <text id="sign" need_translate="false" value="Unterschreiben"/>
@@ -1006,6 +1023,41 @@
         <text id="now" need_translate="true" value=""/>
         <text id="rivals" need_translate="true" value=""/>
     </economic>
+    <election_campaign_window>
+        <text id="campaign_financing" need_translate="true" value=""/>
+        <text id="campaign_process" need_translate="true" value=""/>
+        <text id="candidates_behavior" need_translate="true" value=""/>
+        <text id="coverage" need_translate="true" value=""/>
+        <text id="coverage_change" need_translate="true" value=""/>
+        <text id="day" need_translate="true" value=""/>
+        <text id="financing" need_translate="true" value=""/>
+        <text id="followers" need_translate="true" value=""/>
+        <text id="followers_change_in_day" need_translate="true" value=""/>
+        <text id="followers_dynamics" need_translate="true" value=""/>
+        <text id="fund_balance" need_translate="true" value=""/>
+        <text id="fund_cash" need_translate="true" value=""/>
+        <text id="impact" need_translate="true" value=""/>
+        <text id="impact_strategy_to_coverage" need_translate="true" value=""/>
+        <text id="month" need_translate="true" value=""/>
+        <text id="no_money" need_translate="true" value=""/>
+        <text id="prognosed_coverage" need_translate="true" value=""/>
+        <text id="prognosed_votes" need_translate="true" value=""/>
+        <text id="rating" need_translate="true" value=""/>
+        <text id="save_strategy" need_translate="true" value=""/>
+        <text id="save_strategy_hint" need_translate="true" value=""/>
+        <text id="selector_1_param" need_translate="true" value=""/>
+        <text id="selector_2_param" need_translate="true" value=""/>
+        <text id="selector_3_param" need_translate="true" value=""/>
+        <text id="spended_from_fund" need_translate="true" value=""/>
+        <text id="sponsor" need_translate="true" value=""/>
+        <text id="sponsorship_sum" need_translate="true" value=""/>
+        <text id="strategy" need_translate="true" value=""/>
+        <text id="strategy_modifier" need_translate="true" value=""/>
+        <text id="waste_by_person" need_translate="true" value=""/>
+        <text id="waste_in_day" need_translate="true" value=""/>
+        <text id="week" need_translate="true" value=""/>
+        <text id="window_title" need_translate="true" value=""/>
+    </election_campaign_window>
     <event_result>
         <text id="button_next" need_translate="false" value="Fortfahren"/>
         <text id="fail_text" need_translate="false" value="Leider wollte kein VIP zur Bande kommen. Kaufe Grundstücke bei der Auktion um dein Ansehen zu steigern!"/>
@@ -1043,19 +1095,19 @@
         <text id="bet" need_translate="false" value="Wetteinsatz"/>
         <text id="cancel_some_meetings" need_translate="false" value="Wahrscheinlich musst du ein paar Treffen absagen"/>
         <text id="charitable_contribution" need_translate="false" value="Du wurdest zu einer Spendengala eingeladen. Die Summe beläuft sich auf $ %1"/>
-        <text id="charitable_contribution_accept" need_translate="false" value="Du ahst das Angebot angenommen. Dein Ansehen ist um %1 gestiegen"/>
-        <text id="charitable_contribution_deny" need_translate="false" value="Du ahst das Angebot abgelehnt. Dein Ansehen ist um %1 gesunken"/>
+        <text id="charitable_contribution_accept" need_translate="true" value="Du ahst das Angebot angenommen. Dein Ansehen ist um %1 gestiegen"/>
+        <text id="charitable_contribution_deny" need_translate="true" value="Du ahst das Angebot abgelehnt. Dein Ansehen ist um %1 gesunken"/>
         <text id="delay_at_way" need_translate="false" value="Verspätung!"/>
         <text id="fortune_money_bonus" need_translate="false" value="Du hast Glück! Dein Wohlstand wird um %1 angehoben."/>
         <text id="fortune_money_bonus_to_your_purse" need_translate="false" value="Du spielst weise. Nimm dein Geld!"/>
         <text id="hold_up_at_way" need_translate="false" value="Du wurdest aufgehalten!"/>
         <text id="hold_up_at_way_and_money_cost" need_translate="false" value="Leben ist teuer! Du musst $ %1 weggeben."/>
         <text id="hold_up_at_way_and_win" need_translate="false" value="Du wurdest versucht aufzuhalten. Glücklicherweise konntes du entkommen! Glück gehabt!"/>
-        <text id="hold_up_at_way_and_wound" need_translate="false" value="Du hast in einer Schießerei zurückgeschossen und wurdest verwundet. Du solltes %1 Tag(e) zur Erholung nutzen."/>
+        <text id="hold_up_at_way_and_wound" need_translate="true" value="Du hast in einer Schießerei zurückgeschossen und wurdest verwundet. Du solltes %1 Tag(e) zur Erholung nutzen."/>
         <text id="money_cost" need_translate="false" value="Du hast ein Fahrzeug für %1 gemietet."/>
         <text id="no_reveal" need_translate="false" value="%1 lehnt es ab %2 zu hinergehen! Freundschaft über alles!"/>
-        <text id="politiciant_money_support" need_translate="false" value="Du hast ein Angebot erhalten Mike's Wahlkampange zu finanzieren. Die Spendsumme beträgt %2"/>
-        <text id="politiciant_money_support_accept" need_translate="false" value=""/>
+        <text id="politiciant_money_support" need_translate="true" value="Du hast ein Angebot erhalten Mike's Wahlkampange zu finanzieren. Die Spendsumme beträgt %2"/>
+        <text id="politiciant_money_support_accept" need_translate="true" value=""/>
         <text id="politiciant_money_support_deny" need_translate="true" value=""/>
         <text id="relation_event" need_translate="true" value=""/>
         <text id="relation_result_negative_value1" need_translate="false" value="%1's Loyalität zu dir: %2%"/>
@@ -1139,6 +1191,49 @@
         <text id="share_fraction" need_translate="false" value="Anteil Anteil:"/>
         <text id="shareholder" need_translate="false" value="Anteilseigner:"/>
     </item_with_check_model>
+    <law_archive>
+        <text id="approved" need_translate="true" value=""/>
+        <text id="decrease" need_translate="true" value=""/>
+        <text id="in_progress" need_translate="true" value=""/>
+        <text id="increase" need_translate="true" value=""/>
+        <text id="law_type" need_translate="true" value=""/>
+        <text id="law_vector" need_translate="true" value=""/>
+        <text id="laws_archive" need_translate="true" value=""/>
+        <text id="laws_list" need_translate="true" value=""/>
+        <text id="ratification" need_translate="true" value=""/>
+        <text id="ratification_ended" need_translate="true" value=""/>
+        <text id="ratification_planned" need_translate="true" value=""/>
+        <text id="refused" need_translate="true" value=""/>
+        <text id="stage" need_translate="true" value=""/>
+        <text id="start_date" need_translate="true" value=""/>
+        <text id="voting_ended" need_translate="true" value=""/>
+        <text id="voting_planned" need_translate="true" value=""/>
+    </law_archive>
+    <law_window>
+        <text id="current_value" need_translate="true" value=""/>
+        <text id="democrat" need_translate="true" value=""/>
+        <text id="diplomacy" need_translate="true" value=""/>
+        <text id="dummy" need_translate="true" value=""/>
+        <text id="goveror" need_translate="true" value=""/>
+        <text id="law_of_state" need_translate="true" value=""/>
+        <text id="lobby" need_translate="true" value=""/>
+        <text id="lower_house" need_translate="true" value=""/>
+        <text id="lower_house_voting_date" need_translate="true" value=""/>
+        <text id="majority_party_leader" need_translate="true" value=""/>
+        <text id="menu_lobby" need_translate="true" value=""/>
+        <text id="minority_party_leader" need_translate="true" value=""/>
+        <text id="negative" need_translate="true" value=""/>
+        <text id="neutral" need_translate="true" value=""/>
+        <text id="no_lobby_or_dummy" need_translate="true" value=""/>
+        <text id="no_lobby_or_dummy_governor" need_translate="true" value=""/>
+        <text id="party" need_translate="true" value=""/>
+        <text id="positive" need_translate="true" value=""/>
+        <text id="prognosed_law_result" need_translate="true" value=""/>
+        <text id="republican" need_translate="true" value=""/>
+        <text id="upper_house" need_translate="true" value=""/>
+        <text id="upper_house_voting_date" need_translate="true" value=""/>
+        <text id="votes" need_translate="true" value=""/>
+    </law_window>
     <left_panel>
         <text id="h_1" need_translate="false" value="Assistenten"/>
         <text id="h_2" need_translate="false" value="Wird entwickelt"/>
@@ -1225,7 +1320,7 @@
         <text id="local_influence" need_translate="false" value="Lokaler Einfluss"/>
         <text id="loyalty" need_translate="false" value="Loyalität"/>
         <text id="macroeconomics" need_translate="false" value="Makrowirtschaft"/>
-        <text id="marginalization" need_translate="false" value="Anteile an der Firma"/>
+        <text id="marginalization" need_translate="true" value="Anteile an der Firma"/>
         <text id="market_size" need_translate="false" value="Marktkapazität"/>
         <text id="microeconomics" need_translate="false" value="Microwirtschaft"/>
         <text id="net_profit" need_translate="false" value="Netto Einkommen"/>
@@ -1256,13 +1351,13 @@
     <map_filters_handler>
         <text id="actual_income" need_translate="false" value="%1's Einkommen im Staat %2 beträgt $ %3"/>
         <text id="all_actual_income" need_translate="false" value="Der Anteilseignerertrag in %1 beträgt $ %2"/>
-        <text id="all_potential_income" need_translate="false" value="Der potentielle Anteilseignerertrag in %1 beträgt $ %2"/>
+        <text id="all_potential_income" need_translate="true" value="Der potentielle Anteilseignerertrag in %1 beträgt $ %2"/>
         <text id="authority_all_with_loyalty" need_translate="false" value="Die Anzahl der Charakter im Staat %1 beträgt %2"/>
         <text id="authority_all_without_loyalty" need_translate="false" value="Die Anzahl der Charakter im Staat %1 beträgt %2.\nDas Ergebnis wird ohne deren Loyalität angezigt!\nWähle einen Eigentümer, um Loyalität zu beachten."/>
         <text id="authority_comparison" need_translate="false" value="Die Anzahl der Charakter im Staat %1 beträgt %2.\n Du musst 'Loyalität' wählen, um die Ergebnisse der Eigentümer zu vergleichen"/>
-        <text id="authority_player_with_loyalty_enemies" need_translate="false" value="Die Anzahl der gegnerischen Charaktere im Staat %1 beträgt %2"/>
-        <text id="authority_player_with_loyalty_friends" need_translate="false" value="Die Anzahl der freundlichen Charaktere im Staat %1 beträgt %2"/>
-        <text id="authority_player_with_loyalty_neutrals" need_translate="false" value="Die Anzahl der neutralen Charaktere im Staat %1 beträgt %2"/>
+        <text id="authority_player_with_loyalty_enemies" need_translate="true" value="Die Anzahl der gegnerischen Charaktere im Staat %1 beträgt %2"/>
+        <text id="authority_player_with_loyalty_friends" need_translate="true" value="Die Anzahl der freundlichen Charaktere im Staat %1 beträgt %2"/>
+        <text id="authority_player_with_loyalty_neutrals" need_translate="true" value="Die Anzahl der neutralen Charaktere im Staat %1 beträgt %2"/>
         <text id="authority_player_without_loyalty" need_translate="false" value="Die Anzahl der Charakter im Staat %1 beträgt %2"/>
         <text id="company_count" need_translate="false" value="Die Anzahl der Firmen im Staat %1 beträgt %2"/>
         <text id="corporate_taxes_text" need_translate="false" value="Die Gesellschaftssteuer im Staat %1 beträgt %2 %"/>
@@ -1278,7 +1373,7 @@
         <text id="workers_count_text" need_translate="false" value="Die Anzahl der Arbeiter im Staat %1 beträgt %2 %"/>
     </map_filters_handler>
     <map_handler>
-        <text id="ticket_to_some_state" need_translate="false" value="Du hast ein Ticket nach '%1' erworben"/>
+        <text id="ticket_to_some_state" need_translate="true" value="Du hast ein Ticket nach '%1' erworben"/>
         <text id="you_are_moved" need_translate="false" value="Du bist umgezogen"/>
     </map_handler>
     <map_popup>
@@ -1345,24 +1440,23 @@
         <text id="winter" need_translate="false" value="Winter"/>
     </month_switcher>
     <news_makets>
-        <text id="accident_caption" need_translate="false" value="Unfall bei %1 %2"/>
+        <text id="accident_caption" need_translate="true" value="Unfall bei %1 %2"/>
         <text id="accident_text" need_translate="false" value="Der Unfall wird die Produktionrate und den Umsatz der Firma senken. Wahrscheinlich wird der Anteilspreis sinken. Wenn der Unfall behoben ist wird sich der Anteilspreis wieder nach oben enwickeln"/>
         <text id="add_influence_from_politician_caption" need_translate="true" value=""/>
         <text id="add_influence_from_politician_text" need_translate="true" value=""/>
-        <text id="agent_applying_fail_caption" need_translate="false" value="Agent %1 hat seine Mission zu %2 nich geschafft"/>
-        <text id="agent_applying_success_caption" need_translate="false" value="Agent %1's Mission zu %2 war erfolgreich"/>
+        <text id="agent_applying_fail_caption" need_translate="true" value="Agent %1 hat seine Mission zu %2 nich geschafft"/>
+        <text id="agent_applying_success_caption" need_translate="true" value="Agent %1's Mission zu %2 war erfolgreich"/>
         <text id="alliance_caption" need_translate="false" value="%1's Loyalität zu dir: %2"/>
         <text id="ambition_negative_header" need_translate="false" value="%1's Loyalität zu dir wurde um %2% gesenkt"/>
-        <text id="ambition_negative_text" need_translate="false" value="Du warst für %1 zuständig!Aber du konntest es nicht Handhaben. Du hast mich enttäuscht! Loyalität zu dir: %2%"/>
+        <text id="ambition_negative_text" need_translate="true" value="Du warst für %1 zuständig!Aber du konntest es nicht Handhaben. Du hast mich enttäuscht! Loyalität zu dir: %2%"/>
         <text id="ambition_positive_header" need_translate="false" value="%1's Loyalität zu dir wurde um %2% erhöht"/>
-        <text id="ambition_positive_text" need_translate="false" value="Danke, dass du meine Bitte um %1 befolgt hast.Ich wüsste nicht was ich ohne dich täte! Loyalität zur dir: %2%"/>
-        <text id="charity_event_caption" need_translate="false" value="Spendengala Einladung von %1"/>
-        <text id="charity_event_text" need_translate="false" value="%1Du hast eine Einladung von %2 %4 aus %3 zur %5 Spendengala erhalten. Dort wird %6 %8 aus %7, %10 %11 und %12 %14 as %13 anwesend sein. Die Einladung ist bis %15 gültig."/>
-        <text id="elections_passed_caption" need_translate="true" value=""/>
-        <text id="elections_passed_text_1" need_translate="true" value=""/>
-        <text id="elections_passed_text_2" need_translate="true" value=""/>
-        <text id="elections_passed_text_3" need_translate="true" value=""/>
-        <text id="elections_passed_text_4" need_translate="true" value=""/>
+        <text id="ambition_positive_text" need_translate="true" value="Danke, dass du meine Bitte um %1 befolgt hast.Ich wüsste nicht was ich ohne dich täte! Loyalität zur dir: %2%"/>
+        <text id="charity_event_caption" need_translate="true" value="Spendengala Einladung von %1"/>
+        <text id="charity_event_text" need_translate="true" value="%1Du hast eine Einladung von %2 %4 aus %3 zur %5 Spendengala erhalten. Dort wird %6 %8 aus %7, %10 %11 und %12 %14 as %13 anwesend sein. Die Einladung ist bis %15 gültig."/>
+        <text id="election_ended_caption" need_translate="true" value=""/>
+        <text id="election_ended_text" need_translate="true" value=""/>
+        <text id="election_started_caption" need_translate="true" value=""/>
+        <text id="election_started_text" need_translate="true" value=""/>
         <text id="feudfrom_proprietor_text" need_translate="true" value=""/>
         <text id="feudfrom_сompetitor_text" need_translate="true" value=""/>
         <text id="give_loan_text" need_translate="false" value="Danke, dass du mir $ %1 geliehen hast. Meine Beziehungen zu dir haben sich verbessert!"/>
@@ -1380,7 +1474,7 @@
         <text id="mail_body_tail" need_translate="false" value="Leibe Grüße, %1!"/>
         <text id="make_donation_text" need_translate="false" value="Ich sehe...Schade! Egal, ich bin dir trotzdem für deine Spende dankbar!"/>
         <text id="player_by_action_caption" need_translate="false" value="%1% der Anteile der Firma %3 %2 wurden für $ %5 in %4 gekauft"/>
-        <text id="player_by_action_text" need_translate="false" value="%1% der Anteile der Firma %3 %2 wurden für $ %4 gekauft. Der Deal wurde mit %5 in %6 gemacht"/>
+        <text id="player_by_action_text" need_translate="true" value="%1% der Anteile der Firma %3 %2 wurden für $ %4 gekauft. Der Deal wurde mit %5 in %6 gemacht"/>
         <text id="player_by_from_auc_caption" need_translate="false" value="%1 wurde bei der Auktion für $ %2 gekauft"/>
         <text id="player_by_from_auc_text" need_translate="false" value="%1 wurde bei der Auktion in %3 für $ %2 gekauft!"/>
         <text id="player_by_from_npc_caption" need_translate="false" value="%1 wurde von %2 für $%3 gekauft. Du hast %4 Ansehenspunkte erhalten"/>
@@ -1389,12 +1483,12 @@
         <text id="player_donation_to_fund_text" need_translate="true" value=""/>
         <text id="player_fail_by_action_caption" need_translate="false" value="%1% der Anteile der Firma %2 %3 wurden für $ %5 im Staat %4 nicht gekauft"/>
         <text id="player_fail_by_action_text" need_translate="false" value="Der Kauf von %1% der Anteile der Firma %3 %2 im Staat %4 ist fehlgeschlagen. Der angebotene Preis von $%5 hat %6 nicht gepasst"/>
-        <text id="player_lost_trades_caption" need_translate="false" value="Die Auktion ist fehlgeschlagen. Du hast es nicht geschafft %1 im Staat %2 zu kaufen"/>
+        <text id="player_lost_trades_caption" need_translate="true" value="Die Auktion ist fehlgeschlagen. Du hast es nicht geschafft %1 im Staat %2 zu kaufen"/>
         <text id="player_lost_trades_text" need_translate="false" value="Der Startpreis von %1 war $%2. Das Grundstück wurde von %3 für $%4 gekauft"/>
         <text id="player_missed_auction_caption" need_translate="false" value="%2 wurde von %1 für $%3 gekauft"/>
         <text id="player_missed_auction_text_1" need_translate="false" value="%2 wurde zur Auktion für $%3 im Staat %1 angeboten. Das GRundstück wurde von %4 aus %5 für %6 gekauft"/>
         <text id="player_missed_auction_text_2" need_translate="false" value="Das Grundstück ist an den höchsten Bieter gegangen. Der Preis war höher als der Startpreis. Das ist aber nicht schlimm, weil eine teuere Sache den Status des Käufers in der Gesellschaft anhebt und ihm dabei hilft sein Einkommen in der Zukunft zu verbessern, indem er es noch höher verkauft"/>
-        <text id="player_missed_auction_text_3" need_translate="false" value="Beachte, dass es sich bei %1 um eine limitierte Edition handelt. Es ist also eine gute Investition! Man sagt, dass %2 um %3% bis zum nächsten Quartal steigen wird!"/>
+        <text id="player_missed_auction_text_3" need_translate="true" value="Beachte, dass es sich bei %1 um eine limitierte Edition handelt. Es ist also eine gute Investition! Man sagt, dass %2 um %3% bis zum nächsten Quartal steigen wird!"/>
         <text id="player_missed_auction_text_4" need_translate="false" value="Aufgrund der Wachstumsraten, wird sich %1 bei einem stabilen Luxusgütermarkt in %2 Quartal(en) ausgezahlt haben"/>
         <text id="player_sale_action_caption" need_translate="false" value="%1% der Anteile der Firma %3 %2 wurden für $ %5 im Staat %4 verkauft"/>
         <text id="player_sale_action_text" need_translate="false" value="%1% der Anteile der Firma %3 %2 wurden an einen Makler für $ %4 verkauft"/>
@@ -1404,15 +1498,17 @@
         <text id="player_sale_goods_to_nps_text_bonus" need_translate="false" value="Loyalität zu dir: %1%"/>
         <text id="player_salegoods_from_auc_caption" need_translate="false" value="%2 wurde von %1 für $%3 gekauft"/>
         <text id="player_salegoods_from_auc_text" need_translate="false" value="Du hast erfolgreich ein %1 für $%2 im Staat %3 verkauft. Das Grundstück wurde von %4 aus %5 gekauft"/>
+        <text id="player_sell_by_from_auc_caption" need_translate="true" value=""/>
+        <text id="player_sell_by_from_auc_text" need_translate="true" value=""/>
         <text id="refuse_to_lend_text" need_translate="false" value="Gier wird uns nicht zu Freunden machen! Denke darüber nach!"/>
-        <text id="reject_rout_text" need_translate="false" value="Ich bin beunruhigt, dass du die Enladung zur Spendengala abgelehnt hast!"/>
+        <text id="reject_rout_text" need_translate="true" value="Ich bin beunruhigt, dass du die Enladung zur Spendengala abgelehnt hast!"/>
         <text id="robbery_road_caption" need_translate="false" value="Der Zug von %1 wurde von Banditen angegriffen. Dein Verlust: %2"/>
         <text id="robbery_road_text_1" need_translate="false" value="Während des Angriffs wurde {nickname} verletzt. Du musst dich erholen: {days} Tag(e)"/>
-        <text id="robbery_road_text_2" need_translate="false" value="Die Situation in dem Bereich der Eisenbahn ist in den letzten Tagen eskaliert: Banditen überfallen die Züge durch das erschießen von Passagieren. Der lokale Sheriff hat sie noch immer nicht gefangen. Pass auf!"/>
-        <text id="robbery_road_text_3" need_translate="false" value="Die rasche Entwicklung der Industriealisierung führt zum Bau neuer Eisenbahnen. Dadurch entsteht neuer Handel, welcher leichte Beute für Banditen ist. Sei vorsichtig bei der Wahl einer Richtung"/>
+        <text id="robbery_road_text_2" need_translate="true" value="Die Situation in dem Bereich der Eisenbahn ist in den letzten Tagen eskaliert: Banditen überfallen die Züge durch das erschießen von Passagieren. Der lokale Sheriff hat sie noch immer nicht gefangen. Pass auf!"/>
+        <text id="robbery_road_text_3" need_translate="true" value="Die rasche Entwicklung der Industriealisierung führt zum Bau neuer Eisenbahnen. Dadurch entsteht neuer Handel, welcher leichte Beute für Banditen ist. Sei vorsichtig bei der Wahl einer Richtung"/>
         <text id="robbery_road_text_4" need_translate="false" value="Der Zug {train_name} wurde von Banditen angegriffen. {nickname} hat $ {sum} bezahlt, um negative Auswirkungen zu verhindern. Die Banditen sind entkommen!"/>
         <text id="robbery_road_text_5" need_translate="false" value="Der Zug {train_name} wurde von Banditen angegriffen. {nickname} hat den Angriff erfolgreich abgewehrt!"/>
-        <text id="strike_caption" need_translate="false" value="Streik bei %1 %2"/>
+        <text id="strike_caption" need_translate="true" value="Streik bei %1 %2"/>
         <text id="strike_occurred_caption" need_translate="false" value="Der größte Streik fand bei den Arbeitern der Firmen %1, %2 und %3 statt"/>
         <text id="strike_occurred_for_player_caption" need_translate="true" value=""/>
         <text id="strike_occurred_for_player_text" need_translate="true" value=""/>
@@ -1421,11 +1517,11 @@
         <text id="strike_occurred_text_3" need_translate="true" value=""/>
         <text id="strike_occurred_text_4" need_translate="true" value=""/>
         <text id="strike_text" need_translate="false" value="Der Streik wird die Produktion und den Umsatz der Firma senken. Wahrscheinlich wird der Anteilspreis sinken. Wenn der Streik behoben ist wird der Anteilspreis wahrscheinlich steigen!"/>
-        <text id="train_delay_caption" need_translate="false" value="Der Zug aus %1 ist entgleist. Dein Verlust: %2 Tag(e)"/>
-        <text id="train_delay_text_1" need_translate="false" value="Der Zug aus %1 ist entgleist. Dein Verlust: %2 Tag(e). Die Passagiere und der Eigentümer der Transportgesellschaft haben momentan Schwierigkeiten. Die Eigentümer Postkutschen haben Vorteil aus der Situation gezogen - Der Ticketpreis ist auf $%3 gestiegen."/>
-        <text id="train_delay_text_2" need_translate="false" value="Transportfirmen versuchen alles zu kontrollieren. Sie produziren ständig neue Wagen, um die Kapazität zu erhöhen und somit mehr Geld zu verdienen"/>
-        <text id="train_delay_text_3" need_translate="false" value="Durch steigenden Wohlstand achtet der Firmeneigentümer nicht auf die Qualität seiner Eisenbahn...Dadurch entstehen mehr Unfälle, worunter die Passagier leiden"/>
-        <text id="train_pay_caption" need_translate="false" value="Der Zug aus %1 ist entgleist. Dein Verlust: %2 Tag(e)"/>
+        <text id="train_delay_caption" need_translate="true" value="Der Zug aus %1 ist entgleist. Dein Verlust: %2 Tag(e)"/>
+        <text id="train_delay_text_1" need_translate="true" value="Der Zug aus %1 ist entgleist. Dein Verlust: %2 Tag(e). Die Passagiere und der Eigentümer der Transportgesellschaft haben momentan Schwierigkeiten. Die Eigentümer Postkutschen haben Vorteil aus der Situation gezogen - Der Ticketpreis ist auf $%3 gestiegen."/>
+        <text id="train_delay_text_2" need_translate="true" value="Transportfirmen versuchen alles zu kontrollieren. Sie produziren ständig neue Wagen, um die Kapazität zu erhöhen und somit mehr Geld zu verdienen"/>
+        <text id="train_delay_text_3" need_translate="true" value="Durch steigenden Wohlstand achtet der Firmeneigentümer nicht auf die Qualität seiner Eisenbahn...Dadurch entstehen mehr Unfälle, worunter die Passagier leiden"/>
+        <text id="train_pay_caption" need_translate="true" value="Der Zug aus %1 ist entgleist. Dein Verlust: %2 Tag(e)"/>
         <text id="warning_from_proprietor_text" need_translate="true" value=""/>
     </news_makets>
     <news_window>
@@ -1445,6 +1541,25 @@
         <text id="self" need_translate="false" value="Persönlich"/>
         <text id="world" need_translate="false" value="Global"/>
     </news_window>
+    <official_person>
+        <text id="governor" need_translate="true" value=""/>
+        <text id="governor_description" need_translate="true" value=""/>
+        <text id="governor_in_genetive" need_translate="true" value=""/>
+        <text id="judge" need_translate="true" value=""/>
+        <text id="judge_description" need_translate="true" value=""/>
+        <text id="judge_in_genetive" need_translate="true" value=""/>
+        <text id="official" need_translate="true" value=""/>
+        <text id="official_in_genetive" need_translate="true" value=""/>
+        <text id="police_chief" need_translate="true" value=""/>
+        <text id="police_chief_description" need_translate="true" value=""/>
+        <text id="police_chief_in_genetive" need_translate="true" value=""/>
+        <text id="prosecutor" need_translate="true" value=""/>
+        <text id="prosecutor_description" need_translate="true" value=""/>
+        <text id="prosecutor_in_genetive" need_translate="true" value=""/>
+        <text id="treasurer" need_translate="true" value=""/>
+        <text id="treasurer_description" need_translate="true" value=""/>
+        <text id="treasurer_in_genetive" need_translate="true" value=""/>
+    </official_person>
     <official_window>
         <text id="beliefs" need_translate="false" value="Glauben"/>
         <text id="characteristics" need_translate="false" value="Fähigkeiten"/>
@@ -1475,10 +1590,11 @@
         <text id="cancel_auction" need_translate="false" value="Abbrechen"/>
         <text id="market_price" need_translate="false" value="Marktpreis"/>
         <text id="next" need_translate="false" value="Fortfahren"/>
+        <text id="not_enough_money" need_translate="true" value=""/>
         <text id="prestige" need_translate="false" value="Ansehen"/>
         <text id="start_auction" need_translate="false" value="Teilnehmen"/>
-        <text id="you_buy" need_translate="false" value="Glückwunsch! Du hast die Auktion gewonnen! Du hast &quot;%1&quot; gekauft"/>
-        <text id="you_dont_buy" need_translate="false" value="Auktion fehlgeschlagen"/>
+        <text id="you_buy" need_translate="true" value="Glückwunsch! Du hast die Auktion gewonnen! Du hast &quot;%1&quot; gekauft"/>
+        <text id="you_dont_buy" need_translate="true" value="Auktion fehlgeschlagen"/>
     </ownership_popup>
     <person_handler>
         <text id="cabaret_whirligirl" need_translate="false" value="Kleinkunsttänzer"/>
@@ -1494,21 +1610,20 @@
         <text id="assistant_director" need_translate="false" value="&quot;{companyname}&quot; Direktor"/>
         <text id="assistant_director_in_genetive" need_translate="false" value="&quot;{companyname}&quot; Direktors"/>
         <text id="assistant_in_genetive" need_translate="false" value="Assitenten"/>
+        <text id="authority" need_translate="true" value=""/>
         <text id="ceo" need_translate="false" value="CEO"/>
         <text id="democrat" need_translate="false" value="Demokrat"/>
+        <text id="democrat_in_genetive" need_translate="true" value=""/>
         <text id="director" need_translate="false" value="Direktor"/>
         <text id="enemy_relation" need_translate="false" value="Gegner"/>
         <text id="friend_relation" need_translate="false" value="Freund"/>
         <text id="investor" need_translate="false" value="Investor"/>
         <text id="investor_in_genetive" need_translate="false" value=""/>
-        <text id="loyality_bonus" need_translate="false" value="Wenn dein Gleuben mit dem eines Gegner übereinstimmt wirst du +10 Loyalität erhalten, sonst -10"/>
+        <text id="loyality_bonus" need_translate="true" value="Wenn dein Gleuben mit dem eines Gegner übereinstimmt wirst du +10 Loyalität erhalten, sonst -10"/>
         <text id="married" need_translate="false" value="Verheiratet"/>
         <text id="neutral_relation" need_translate="false" value="Neutral"/>
-        <text id="official" need_translate="false" value="Beamter"/>
-        <text id="official_in_genetive" need_translate="false" value=""/>
         <text id="player" need_translate="false" value="Spieler"/>
         <text id="player_in_genetive" need_translate="false" value="Spielers"/>
-        <text id="politician" need_translate="false" value="Politiker"/>
         <text id="politician_in_genetive" need_translate="false" value="Politikers"/>
         <text id="relation_type" need_translate="false" value="Loyalität: %1 (%2/100)"/>
         <text id="religion_atheist" need_translate="false" value="Atheist"/>
@@ -1516,6 +1631,7 @@
         <text id="religion_christian" need_translate="false" value="Christ"/>
         <text id="religion_muslim" need_translate="false" value="Muslim"/>
         <text id="republican" need_translate="false" value="Republikaner"/>
+        <text id="republican_in_genetive" need_translate="true" value=""/>
         <text id="shareholder" need_translate="false" value="Anteilseigner"/>
         <text id="single" need_translate="false" value="Single"/>
     </person_object>
@@ -1544,7 +1660,7 @@
     </person_selection_window>
     <person_skills>
         <text id="diplomacy" need_translate="false" value="Diplomatie"/>
-        <text id="diplomacy_description" need_translate="false" value="Die Fähigkeit beeinflusst die Chance einen Deal abzuschließen"/>
+        <text id="diplomacy_description" need_translate="true" value="Die Fähigkeit beeinflusst die Chance einen Deal abzuschließen"/>
         <text id="economics" need_translate="false" value="Wirtschaft"/>
         <text id="economics_description" need_translate="true" value=""/>
         <text id="influence" need_translate="false" value="Politik"/>
@@ -1803,6 +1919,7 @@
         <text id="taxes" need_translate="false" value="Steuern"/>
     </player_finances_model>
     <player_finances_window>
+        <text id="authority_salary" need_translate="true" value=""/>
         <text id="credits" need_translate="false" value="Kredite"/>
         <text id="dinamics" need_translate="false" value="Dynamik"/>
         <text id="directors_board_salary" need_translate="false" value="Direktorboard Gehalt ({company_name})"/>
@@ -1898,13 +2015,13 @@
         <text id="cancel_choose" need_translate="false" value="Abbrechen"/>
         <text id="characteristics" need_translate="false" value="Fähigkeiten"/>
         <text id="choose_event_date" need_translate="false" value="Wähle ein Datum"/>
-        <text id="compromat_already_exists" need_translate="false" value="Du hast diesen Charakter belastet!"/>
+        <text id="compromat_already_exists" need_translate="true" value="Du hast diesen Charakter belastet!"/>
         <text id="conviction" need_translate="false" value="Glaube"/>
         <text id="convictions" need_translate="false" value="Glauben"/>
         <text id="courtesan_already_exists" need_translate="false" value="Der Agent wurde schon benutzt"/>
         <text id="courtesan_only_for_male" need_translate="false" value="Nur Männer!"/>
         <text id="diplomacy_left_area_hint_header" need_translate="false" value="Diplomatie"/>
-        <text id="diplomacy_left_area_hint_text" need_translate="false" value="Die Fähigkeit beeinflusst die Chance einen Deal abzuschließen"/>
+        <text id="diplomacy_left_area_hint_text" need_translate="true" value="Die Fähigkeit beeinflusst die Chance einen Deal abzuschließen"/>
         <text id="economics_left_area_hint_header" need_translate="false" value="Wirtschaft"/>
         <text id="economics_left_area_hint_text" need_translate="false" value="Je höher der Wirtschaftslevel, desto besser kann der Charaketer eine Firma führen"/>
         <text id="guests_count_invited_to_route" need_translate="false" value="%1/%2 Gästen eingeladen"/>
@@ -1916,7 +2033,7 @@
         <text id="influence_left_area_hint_header" need_translate="false" value="Einfluss"/>
         <text id="influence_left_area_hint_text" need_translate="false" value="Die Anzahl der Einflusspunkte, die benötigt werden, um zu verhandeln"/>
         <text id="influence_skill_left_area_hint_header" need_translate="false" value="Politik"/>
-        <text id="influence_skill_left_area_hint_text" need_translate="false" value="Einfluss pro Quartal. Ein Stern erhöht den Einfluss um +1 Punkt"/>
+        <text id="influence_skill_left_area_hint_text" need_translate="true" value="Einfluss pro Quartal. Ein Stern erhöht den Einfluss um +1 Punkt"/>
         <text id="make_connection" need_translate="false" value="Freischalten"/>
         <text id="make_present" need_translate="false" value="Geschenk vergeben"/>
         <text id="menu_agent_applied_on_current_step" need_translate="false" value="Der Agent wurde schon genutzt!"/>
@@ -1924,10 +2041,13 @@
         <text id="menu_assistant_fire" need_translate="false" value="Feuern"/>
         <text id="menu_assistant_hire" need_translate="false" value="Einstellen"/>
         <text id="menu_corrupt" need_translate="false" value="Korrupt"/>
+        <text id="menu_election" need_translate="true" value=""/>
         <text id="menu_is_in_prison" need_translate="false" value="Du bist im Gefängnis!"/>
         <text id="menu_is_moving" need_translate="false" value="Du bist auf dem Weg! Du kannst keine Geschäfte machen!"/>
+        <text id="menu_law_window" need_translate="true" value=""/>
+        <text id="menu_laws_archive" need_translate="true" value=""/>
         <text id="menu_loan" need_translate="false" value="Geld leihen"/>
-        <text id="menu_loan_already_planned" need_translate="false" value="Die Verhandlungen sind bereits geplant!"/>
+        <text id="menu_loan_already_planned" need_translate="true" value="Die Verhandlungen sind bereits geplant!"/>
         <text id="menu_loan_different_position" need_translate="false" value="Der Spieler ist in einem anderen Staat!"/>
         <text id="menu_loan_no_money" need_translate="false" value=""/>
         <text id="menu_loan_no_positive_profit" need_translate="false" value="Der Charakter hat einen negativen Kontostand"/>
@@ -1940,16 +2060,19 @@
         <text id="menu_negotation" need_translate="false" value="Deal machen"/>
         <text id="menu_no_agents" need_translate="false" value="Keine Agenten verfügbar"/>
         <text id="menu_no_company" need_translate="false" value="Der Charakter ist kein Anteilseigner in irgendeiner Firma!"/>
+        <text id="menu_no_persons_to_corrupt" need_translate="true" value=""/>
         <text id="menu_not_enough_influence" need_translate="false" value="Nicht genug Einfluss!"/>
         <text id="menu_ownerships" need_translate="false" value="Luxusgüter"/>
+        <text id="menu_person_engaged_in_election" need_translate="true" value=""/>
         <text id="menu_person_is_locked" need_translate="false" value="Du musst den Charakter erst freischalten!"/>
         <text id="menu_rout" need_translate="false" value="Zur Bande Einladen"/>
+        <text id="menu_start_election_not_possible" need_translate="true" value=""/>
         <text id="menu_use_agent" need_translate="false" value="Agent nutzen"/>
         <text id="missis" need_translate="false" value=""/>
         <text id="mister" need_translate="false" value=""/>
         <text id="negotiation_different_position" need_translate="false" value="Der charakter ist in einem anderen Staat! "/>
         <text id="negotiation_error" need_translate="false" value=""/>
-        <text id="negotiation_has_talked" need_translate="false" value="Die Verhandlungen wurden schon abgehalten!"/>
+        <text id="negotiation_has_talked" need_translate="true" value="Die Verhandlungen wurden schon abgehalten!"/>
         <text id="negotiation_low_influence" need_translate="false" value="Du hast nicht genügend Einflusspunkte"/>
         <text id="negotiation_need_player" need_translate="false" value="Nur Spieler!"/>
         <text id="negotiation_not_enough_money_for_negotiation" need_translate="false" value="Du hast nicht genug Geld"/>
@@ -1981,7 +2104,7 @@
         <text id="player_locked" need_translate="false" value="Gesperrt"/>
         <text id="player_patience_hint_header" need_translate="false" value="Du wirst am %1 bereit sein"/>
         <text id="politics_left_area_hint_header" need_translate="false" value="Politik"/>
-        <text id="politics_left_area_hint_text" need_translate="false" value="Wird entwickelt...(Der volle Text folgt später)"/>
+        <text id="politics_left_area_hint_text" need_translate="true" value="Wird entwickelt...(Der volle Text folgt später)"/>
         <text id="power_hint_header" need_translate="false" value="Marionetten"/>
         <text id="power_hint_text" need_translate="false" value="Die Anzahl der Marionetten des Charakters"/>
         <text id="power_left_area_hint_header" need_translate="false" value="Macht"/>
@@ -2033,17 +2156,7 @@
         <text id="you_escape_marshal_pursuit_because_justice_is_your_man" need_translate="true" value=""/>
     </politican_handler>
     <politican_object>
-        <text id="congress_candidate" need_translate="false" value="Kongresskandidat"/>
-        <text id="congressman" need_translate="false" value="Kongressman"/>
-        <text id="congressman_in_genetive" need_translate="false" value="Kongressmans"/>
-        <text id="legislature_candidate" need_translate="false" value="Legistlatur Kandidat"/>
-        <text id="legislature_congressman" need_translate="false" value="Legislatur Kongressman"/>
-        <text id="legislature_congressman_in_genetive" need_translate="false" value="Legislatur Kongressmans"/>
-        <text id="legislature_senator" need_translate="false" value="Legislatur Senator"/>
-        <text id="legislature_senator_in_genetive" need_translate="true" value=""/>
         <text id="politician" need_translate="false" value="Politiker"/>
-        <text id="senator" need_translate="false" value="Kongress Senator"/>
-        <text id="senator_in_genetive" need_translate="false" value="Legislatur Senator"/>
     </politican_object>
     <politican_panel>
         <text id="bribe_size" need_translate="true" value=""/>
@@ -2054,6 +2167,20 @@
         <text id="limited_for_alpha_version" need_translate="false" value="Wird entwickelt...Limitiert! Komme später wieder:)"/>
         <text id="state_politicans" need_translate="false" value="Staatspolitiker"/>
     </politicans_window>
+    <politician_person>
+        <text id="congressman" need_translate="true" value=""/>
+        <text id="congressman_description" need_translate="true" value=""/>
+        <text id="congressman_in_genetive" need_translate="true" value=""/>
+        <text id="legislature_congressman" need_translate="true" value=""/>
+        <text id="legislature_congressman_in_genetive" need_translate="true" value=""/>
+        <text id="legislature_senator" need_translate="true" value=""/>
+        <text id="legislature_senator_in_genetive" need_translate="true" value=""/>
+        <text id="politic" need_translate="true" value=""/>
+        <text id="politic_in_genetive" need_translate="true" value=""/>
+        <text id="senator" need_translate="true" value=""/>
+        <text id="senator_description" need_translate="true" value=""/>
+        <text id="senator_in_genetive" need_translate="true" value=""/>
+    </politician_person>
     <politician_window>
         <text id="characteristics" need_translate="false" value="Fähigkeiten"/>
         <text id="end_term" need_translate="false" value="Bedingung des Büros"/>
@@ -2066,7 +2193,7 @@
         <text id="influence_change" need_translate="false" value="Extra Einfluss"/>
         <text id="influence_change_hint" need_translate="false" value="Extra Einfluss"/>
         <text id="influence_change_hint_text" need_translate="false" value="Extra Einflusspunkte pro Spielrunde"/>
-        <text id="influence_hint" need_translate="false" value="Persönlicher Einfluss"/>
+        <text id="influence_hint" need_translate="true" value="Persönlicher Einfluss"/>
         <text id="influence_hint_text" need_translate="false" value="Der Einfluss vom Holding Ort"/>
         <text id="party" need_translate="false" value="Partei"/>
         <text id="party_hint_text" need_translate="false" value="Politische Ansichten des Charakters"/>
@@ -2075,12 +2202,42 @@
         <text id="rating_hint" need_translate="false" value="Bewertung"/>
         <text id="rating_hint_text" need_translate="false" value="Die Bewertung stammt von der Bevölkerung. Je näher sie an 100% ist, desto wahrscheinlicher wird der Charakter für die nächste Amtszeit gewählt"/>
         <text id="reputation" need_translate="false" value="Ansehen"/>
-        <text id="reputation_hint" need_translate="false" value="Charakter Ansehen"/>
+        <text id="reputation_hint" need_translate="true" value="Charakter Ansehen"/>
         <text id="reputation_hint_text" need_translate="false" value="Wenn dein Ansehen besser als das deines Gegners ist, wird es leichter sein Deal zu machen. Nichtsdestotrotz erhälts du -1 Punkt Ansehen"/>
         <text id="sponsors" need_translate="false" value="Spender"/>
         <text id="sponsors_hint" need_translate="false" value="Wahlkampangen Sponsoren"/>
         <text id="sponsors_hint_text" need_translate="false" value="Mehr Sponsoren tragen zum Gewinn der Wahl bei"/>
+        <text id="vote" need_translate="true" value=""/>
     </politician_window>
+    <popups>
+        <cancel_negotiation>
+            <text id="accept" need_translate="true" value=""/>
+            <text id="cancel" need_translate="true" value=""/>
+            <text id="description" need_translate="true" value=""/>
+            <text id="loyalty" need_translate="true" value=""/>
+            <text id="reputation" need_translate="true" value=""/>
+            <text id="subtitle" need_translate="true" value=""/>
+            <text id="title" need_translate="true" value=""/>
+        </cancel_negotiation>
+        <fire_assistant>
+            <text id="accept" need_translate="true" value=""/>
+            <text id="cancel" need_translate="true" value=""/>
+            <text id="description" need_translate="true" value=""/>
+            <text id="gold_parachute" need_translate="true" value=""/>
+            <text id="salary" need_translate="true" value=""/>
+            <text id="subtitle" need_translate="true" value=""/>
+            <text id="title" need_translate="true" value=""/>
+        </fire_assistant>
+        <hire_assistant>
+            <text id="accept" need_translate="true" value=""/>
+            <text id="cancel" need_translate="true" value=""/>
+            <text id="description" need_translate="true" value=""/>
+            <text id="gold_parachute" need_translate="true" value=""/>
+            <text id="salary" need_translate="true" value=""/>
+            <text id="subtitle" need_translate="true" value=""/>
+            <text id="title" need_translate="true" value=""/>
+        </hire_assistant>
+    </popups>
     <previous_panel>
         <text id="business_offer " need_translate="true" value=""/>
         <text id="days" need_translate="true" value=""/>
@@ -2106,6 +2263,7 @@
         <text id="corruption" need_translate="false" value="Korruptionsversuch"/>
         <text id="courtesan" need_translate="false" value="Kurtisane"/>
         <text id="despicable_act" need_translate="false" value="Heimlicher Akt"/>
+        <text id="election_opponent" need_translate="true" value=""/>
         <text id="failed_negotiation" need_translate="false" value="Fehlgeschlagene Verhandlung"/>
         <text id="hired_assistant" need_translate="false" value="Angestellter Assistent"/>
         <text id="hired_director" need_translate="false" value="Angestellter Direktor"/>
@@ -2118,6 +2276,7 @@
         <text id="total_relation" need_translate="false" value="Loyalität zu dir"/>
         <text id="unreliability" need_translate="false" value="Unverlässlich"/>
         <text id="voting_for_director" need_translate="false" value="Stimme beim Anteilseigner Treffen"/>
+        <text id="voting_in_legislature" need_translate="true" value=""/>
     </relations_handler>
     <relatives>
         <text id="cousin" need_translate="false" value="Cousin"/>
@@ -2255,6 +2414,25 @@
         <text id="state" need_translate="true" value=""/>
         <text id="window_title" need_translate="true" value=""/>
     </start_negotation_window>
+    <state_politic_window>
+        <text id="current_law" need_translate="true" value=""/>
+        <text id="current_value" need_translate="true" value=""/>
+        <text id="effect" need_translate="true" value=""/>
+        <text id="house_title" need_translate="true" value=""/>
+        <text id="law_progress" need_translate="true" value=""/>
+        <text id="lower_house" need_translate="true" value=""/>
+        <text id="lower_house_title" need_translate="true" value=""/>
+        <text id="lower_house_voting_date" need_translate="true" value=""/>
+        <text id="majority_party_leader" need_translate="true" value=""/>
+        <text id="menu_lobby" need_translate="true" value=""/>
+        <text id="minority_party_leader" need_translate="true" value=""/>
+        <text id="ratification_by_governor" need_translate="true" value=""/>
+        <text id="state_politic_info" need_translate="true" value=""/>
+        <text id="support_by_parties" need_translate="true" value=""/>
+        <text id="upper_house" need_translate="true" value=""/>
+        <text id="upper_house_title" need_translate="true" value=""/>
+        <text id="upper_house_voting_date" need_translate="true" value=""/>
+    </state_politic_window>
     <state_window>
         <text id="avg_salary" need_translate="false" value="Durschnitlliches Gehalt"/>
         <text id="companies" need_translate="false" value="Firmen"/>
@@ -2272,6 +2450,7 @@
         <text id="officials" need_translate="false" value="Beamte"/>
         <text id="person_tax" need_translate="false" value="Individuelle Einkommenssteuer"/>
         <text id="politicians" need_translate="false" value="Politiker"/>
+        <text id="politics" need_translate="true" value=""/>
         <text id="population" need_translate="false" value="Bevölkerung"/>
         <text id="population_dynamic" need_translate="false" value="Bevölkerungsdynamik"/>
         <text id="state" need_translate="false" value="Staat"/>
@@ -2291,6 +2470,7 @@
         <text id="avaliable_influence" need_translate="false" value="Gesamt:"/>
         <text id="base_influence" need_translate="false" value="Charakter Level:"/>
         <text id="cash" need_translate="false" value="Geld"/>
+        <text id="collection_influence" need_translate="true" value=""/>
         <text id="companies_influence_change" need_translate="false" value="Assistenten/Firmen Einfluss pro Quartal:"/>
         <text id="company_influence" need_translate="false" value="Firmeneinfluss:"/>
         <text id="confidence_summary_total" need_translate="false" value="Gesamt:"/>
@@ -2402,7 +2582,7 @@
     <voting_popup>
         <text id="abstained" need_translate="false" value="Verzichten"/>
         <text id="agreed" need_translate="false" value="Annehmen"/>
-        <text id="apply" need_translate="false" value="Anwenden"/>
+        <text id="apply" need_translate="true" value="Anwenden"/>
         <text id="apply_button" need_translate="false" value="Ok"/>
         <text id="director_offer_hired" need_translate="false" value="Das Angebot wurde angenommen!"/>
         <text id="director_offer_not_hired" need_translate="false" value="Das Angebot wurde abgelehnt!"/>

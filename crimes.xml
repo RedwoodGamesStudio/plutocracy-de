@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <crimes>
+    <crime_type>
+        <text id="corruption" need_translate="true" value=""/>
+        <text id="extortion" need_translate="true" value=""/>
+        <text id="manipulation" need_translate="true" value=""/>
+        <text id="murder" need_translate="true" value=""/>
+        <text id="persecution" need_translate="true" value=""/>
+        <text id="robbery" need_translate="true" value=""/>
+        <text id="slander" need_translate="true" value=""/>
+    </crime_type>
     <effects>
         <text id="arrets_chance" need_translate="false" value="Arrestchance"/>
         <text id="jail_time_text" need_translate="false" value="Freiheitsstrafe"/>
@@ -34,7 +43,7 @@
         <text id="hide_evidence_popup_1" need_translate="false" value="Verstecke Beweise"/>
         <text id="hide_evidence_popup_1_hover" need_translate="false" value="Du hast eine %1% chance, dass der Beamte Bestechung annimmt (Bestechungssumme: $%2) und eine %3% Chance, dass er den Fall schließt"/>
         <text id="hide_evidence_popup_2" need_translate="false" value="Sündenbock"/>
-        <text id="hide_evidence_popup_2_hover" need_translate="false" value="Wähle einen Sündebock"/>
+        <text id="hide_evidence_popup_2_hover" need_translate="true" value="Wähle einen Sündebock"/>
         <text id="hide_evidence_popup_3" need_translate="false" value="Mir egal!"/>
         <text id="hide_evidence_popup_3_hover" need_translate="false" value="Du könntest festgenommen werden auf %1"/>
         <text id="hide_evidence_popup_header" need_translate="false" value="Ermittlungen des Falles von\n&quot;%1&quot;"/>
@@ -69,6 +78,14 @@
         <text id="jail_result_text" need_translate="false" value="Endlich, ich bin frei!"/>
         <text id="jail_result_text_1" need_translate="false" value="Was versuchen Sie da? Versuchen Sie mich zu bestechen? Das ist eine Straftat. Verschwinde!...Aber das Geld können Sie dalassen...Ich brauche es für meine Kinder"/>
         <text id="jail_result_text_2" need_translate="false" value="%%3 Der Gouverneur %2 hat %4 begnadigt, welcher folgendes Verbrechen beging: &quot;%5&quot;"/>
+        <text id="official_result_header_1" need_translate="true" value=""/>
+        <text id="official_result_header_2" need_translate="true" value=""/>
+        <text id="official_result_text_1" need_translate="true" value=""/>
+        <text id="official_result_text_2" need_translate="true" value=""/>
+        <text id="politician_result_header_1" need_translate="true" value=""/>
+        <text id="politician_result_header_2" need_translate="true" value=""/>
+        <text id="politician_result_text_1" need_translate="true" value=""/>
+        <text id="politician_result_text_2" need_translate="true" value=""/>
         <text id="scapegoat_popup_header" need_translate="false" value="Wähle Assistenten"/>
         <text id="scapegoat_popup_text" need_translate="false" value="Wähle einen Sündebock, welcher mit deinen Verbrechen belastet wird"/>
     </popup>

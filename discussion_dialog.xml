@@ -1,33 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <discussion_dialog>
     <discussion_phrase>
-        <text id="100" need_translate="false" value="Ich habe in den letzten Tagen viel von Ihnen gehört. Was ist der Grund für unser Treffen?"/>
+        <text id="100" need_translate="true" value="Ich habe in den letzten Tagen viel von Ihnen gehört. Was ist der Grund für unser Treffen?"/>
+        <text id="10000" need_translate="true" value=""/>
+        <text id="10001" need_translate="true" value=""/>
+        <text id="10002" need_translate="true" value=""/>
         <text id="101" need_translate="false" value="Ich bin immer froh einen guten Menschen zu treffen. Ich bin bereit Ihnen zuzuhören"/>
-        <text id="102" need_translate="false" value="Ich bin bereit Ihnen zuzuhören. Worum geht´s?"/>
+        <text id="10100" need_translate="true" value=""/>
+        <text id="10101" need_translate="true" value=""/>
+        <text id="10102" need_translate="true" value=""/>
+        <text id="102" need_translate="true" value="Ich bin bereit Ihnen zuzuhören. Worum geht´s?"/>
+        <text id="10200" need_translate="true" value=""/>
+        <text id="10201" need_translate="true" value=""/>
+        <text id="10202" need_translate="true" value=""/>
+        <text id="10300" need_translate="true" value=""/>
+        <text id="10301" need_translate="true" value=""/>
+        <text id="10302" need_translate="true" value=""/>
+        <text id="10400" need_translate="true" value=""/>
+        <text id="10401" need_translate="true" value=""/>
+        <text id="10402" need_translate="true" value=""/>
+        <text id="10500" need_translate="true" value=""/>
+        <text id="10501" need_translate="true" value=""/>
+        <text id="10502" need_translate="true" value=""/>
+        <text id="10600" need_translate="true" value=""/>
+        <text id="10601" need_translate="true" value=""/>
+        <text id="10602" need_translate="true" value=""/>
         <text id="1500" need_translate="false" value="Nein! Ich kann diesen Bedingungen nicht zustimmen!"/>
-        <text id="1501" need_translate="false" value="Ich sehe keinen Nutzen bei ihren Bedingungen!"/>
+        <text id="1501" need_translate="true" value="Ich sehe keinen Nutzen bei ihren Bedingungen!"/>
         <text id="1600" need_translate="false" value="Okay! Ich bin bereit Ihnen $ %1 bei %2% pro Quartal zu leihen"/>
-        <text id="1601" need_translate="false" value="Es freut mich mit Ihnen ins Geschäft zu kommen! Ich stimme zu! Ich werde Ihnen $ %1 bei %2% pro Quartal leihen"/>
+        <text id="1601" need_translate="true" value="Es freut mich mit Ihnen ins Geschäft zu kommen! Ich stimme zu! Ich werde Ihnen $ %1 bei %2% pro Quartal leihen"/>
         <text id="1602" need_translate="false" value="Na gut, ich werde ihre Bedingungen annehmen und Ihnen $ %1 bei %2% pro Quartal leihen"/>
         <text id="1700" need_translate="false" value="Es ist beschämend weiter mit Ihnen zu verhandeln!"/>
         <text id="1701" need_translate="false" value="Wollen Sie mich reinlegen?? Der Preis ist zu niedrig! Die Verhandlungen sind vorbei!"/>
-        <text id="1702" need_translate="false" value="Sind Sie noch bei Trost? Ich verkaufe meine Anteile nie für diesen Preis! Sie sollten ihr Angebot vor der Verhandlung überlegen!"/>
-        <text id="1703" need_translate="false" value="Es ist unverschämt solche Bedingungen vorzuschlagen! Meine Meinung von Ihnen ist ruiniert!"/>
+        <text id="1702" need_translate="true" value="Sind Sie noch bei Trost? Ich verkaufe meine Anteile nie für diesen Preis! Sie sollten ihr Angebot vor der Verhandlung überlegen!"/>
+        <text id="1703" need_translate="true" value="Es ist unverschämt solche Bedingungen vorzuschlagen! Meine Meinung von Ihnen ist ruiniert!"/>
         <text id="1800" need_translate="false" value="Es freut mich mit Ihnen Geschäfte zu machen"/>
         <text id="1801" need_translate="false" value="Ich bin froh, dass ich Ihnen erneut helfen konnte!"/>
-        <text id="200" need_translate="false" value="Worum geht´s? Ich habe nicht viel Zeit"/>
-        <text id="201" need_translate="false" value="Warum kommen Sie zu mir? Ich hoffe unser Gespräch dauert nicht lange"/>
-        <text id="202" need_translate="false" value="Ich hoffe ich werden meine zeit nicht mit Ihnen verschwenden"/>
-        <text id="300" need_translate="false" value="Ich wollte Sie nicht treffen. Also ... tue ich Ihnen einen Gefallen. Was wollen Sie?"/>
+        <text id="200" need_translate="true" value="Worum geht´s? Ich habe nicht viel Zeit"/>
+        <text id="201" need_translate="true" value="Warum kommen Sie zu mir? Ich hoffe unser Gespräch dauert nicht lange"/>
+        <text id="202" need_translate="true" value="Ich hoffe ich werden meine zeit nicht mit Ihnen verschwenden"/>
+        <text id="300" need_translate="true" value="Ich wollte Sie nicht treffen. Also ... tue ich Ihnen einen Gefallen. Was wollen Sie?"/>
         <text id="301" need_translate="false" value="Was wollen Sie von mir? Wir haben keine gemeinsamen Geschäfte"/>
         <text id="302" need_translate="false" value="Kein Problem! Ich bin froh, dass ich Ihnen wieder helfen konnte!"/>
-        <text id="400" need_translate="false" value="Hmm... Ich wollte meine Anteile nicht verkaufen. Aber wenn Sie $%1 pro Anteil bezahlen (Summe von $%2, %3 Anteile) werde ich ihr Angebot überdenken"/>
+        <text id="400" need_translate="true" value="Hmm... Ich wollte meine Anteile nicht verkaufen. Aber wenn Sie $%1 pro Anteil bezahlen (Summe von $%2, %3 Anteile) werde ich ihr Angebot überdenken"/>
         <text id="401" need_translate="false" value="Ich bin bereit meine Anteile für $%1 pro Anteil zu verkaufen (Summe von $%2, %3 Anteile)"/>
         <text id="402" need_translate="false" value="Um Klartext zu reden, ich bin nicht bereit meine Anteile zu verkaufen, aber für $%1 pro Anteil, bin ich bereit Sie in der Mitte zu treffen (Summe von $%2, %3 Anteile)"/>
         <text id="500" need_translate="false" value="Ich bin zu diesem Preis nicht interessiert...Ich bin bereit einen Anteil auf $%1 zu reduzieren (Summe von $%2, %3 Anteile)"/>
         <text id="501" need_translate="false" value="Nein! Keine Chance! ...Wir könnten uns auf einen Preis von $%1 pro Anteil einigen (Summe von $%2, %3 Anteile)"/>
-        <text id="502" need_translate="false" value="Das ist zu wenig! Nein! Mein Angebot ist $%1 pro Anteil (Summe von $%2, %3 Anteile)"/>
-        <text id="503" need_translate="false" value="Strapazieren Sie nicht meine Geduld...Das ist viel zu wenig! Mein Angebot ist $%1 pro Anteil (Summe von $%2, %3 Anteile)"/>
+        <text id="502" need_translate="true" value="Das ist zu wenig! Nein! Mein Angebot ist $%1 pro Anteil (Summe von $%2, %3 Anteile)"/>
+        <text id="503" need_translate="true" value="Strapazieren Sie nicht meine Geduld...Das ist viel zu wenig! Mein Angebot ist $%1 pro Anteil (Summe von $%2, %3 Anteile)"/>
         <text id="504" need_translate="false" value="Der Preis ist zu niedrig! Mein Angebot ist $%1 pro Anteil (Summe von $%2, %3 Anteile) Deal?"/>
         <text id="600" need_translate="false" value="Okay! Ich bin dabei! Ich bin bereit %1 Anteile von %2 für $%3 zu verkaufen"/>
         <text id="601" need_translate="false" value="Es freut mich mit Ihnen Geschäfte zu machen! Ich werde ihr Angebot annehmen und %1 Anteile von %2 für $%3 verkaufen"/>
