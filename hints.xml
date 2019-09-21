@@ -65,8 +65,8 @@
         <text id="38_value" need_translate="true" value=""/>
         <text id="39_text" need_translate="false" value="Das Aktivitätsfeld der Firma"/>
         <text id="39_title" need_translate="false" value="Firmenbranche"/>
-        <text id="3_title" need_translate="false" value="Bundesstaat"/>
-        <text id="3_value" need_translate="false" value="Hier kannst du eine Liste der Frimen in dem Bundesstaat sehen"/>
+        <text id="3_title" need_translate="true" value="Bundesstaat"/>
+        <text id="3_value" need_translate="true" value="Hier kannst du eine Liste der Frimen in dem Bundesstaat sehen"/>
         <text id="40_text" need_translate="false" value="Kaufe 51% der Anteile und übernimm die Kontrolle der Firma"/>
         <text id="40_title" need_translate="false" value="Kontrolle"/>
         <text id="41_text" need_translate="false" value="Stelle den besten Direktor ein um dein Firmenmanagement zu verbessern"/>
@@ -85,8 +85,12 @@
         <text id="47_title" need_translate="false" value="Marktpreis"/>
         <text id="4_title" need_translate="false" value="Errungenschaften und Elite"/>
         <text id="4_value" need_translate="false" value="Deiner Errungemschaften und Rangliste"/>
-        <text id="50_title" need_translate="false" value="Zeit übrig"/>
-        <text id="50_value" need_translate="false" value="Die Zeit auf der Uhr ist die Anzahl der Versuche einen Deal zu machen"/>
+        <text id="51_title" need_translate="true" value=""/>
+        <text id="51_value" need_translate="true" value=""/>
+        <text id="52_title" need_translate="true" value=""/>
+        <text id="52_value" need_translate="true" value=""/>
+        <text id="53_title" need_translate="true" value=""/>
+        <text id="53_value" need_translate="true" value=""/>
         <text id="5_title" need_translate="true" value="Authorität"/>
         <text id="5_value" need_translate="false" value="Lobbyarbeit bei Gestzen, sponsern von Politikern und Beamten"/>
         <text id="6_title" need_translate="false" value="Neuigkeiten"/>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <crimes>
     <crime_type>
+        <text id="burn" need_translate="true" value=""/>
         <text id="corruption" need_translate="true" value=""/>
         <text id="extortion" need_translate="true" value=""/>
         <text id="manipulation" need_translate="true" value=""/>
         <text id="murder" need_translate="true" value=""/>
+        <text id="negligence" need_translate="true" value=""/>
         <text id="persecution" need_translate="true" value=""/>
         <text id="robbery" need_translate="true" value=""/>
         <text id="slander" need_translate="true" value=""/>
@@ -18,66 +20,119 @@
     </effects>
     <hints>
         <text id="already_tried_to_corrupt" need_translate="false" value="Du kannst den Beamten nur einmal bestechen!"/>
+        <text id="corrupt_governor" need_translate="true" value=""/>
+        <text id="government_contract" need_translate="true" value=""/>
         <text id="low_loyality" need_translate="false" value="Niedrige Loyalität!"/>
+        <text id="make_a_deal" need_translate="true" value=""/>
         <text id="no_assistants" need_translate="false" value="Keine angestellten Assistenten!"/>
+        <text id="receive_a_grant" need_translate="true" value=""/>
     </hints>
+    <other>
+        <text id="accept_law" need_translate="true" value=""/>
+        <text id="btn_ok" need_translate="true" value=""/>
+        <text id="chance_requirements" need_translate="true" value=""/>
+        <text id="corrupted_earlier" need_translate="true" value=""/>
+        <text id="government_contract_header" need_translate="true" value=""/>
+        <text id="government_contract_text" need_translate="true" value=""/>
+        <text id="governor_disabled" need_translate="true" value=""/>
+        <text id="incorrect_law_stage" need_translate="true" value=""/>
+        <text id="influence_requirements" need_translate="true" value=""/>
+        <text id="judge_disabled" need_translate="true" value=""/>
+        <text id="money_requirements" need_translate="true" value=""/>
+        <text id="no_authority_marks" need_translate="true" value=""/>
+        <text id="not_compromised" need_translate="true" value=""/>
+        <text id="not_enough_influence" need_translate="true" value=""/>
+        <text id="not_enough_money" need_translate="true" value=""/>
+        <text id="police_chief_disabled" need_translate="true" value=""/>
+        <text id="prosecutor_disabled" need_translate="true" value=""/>
+        <text id="reject_law" need_translate="true" value=""/>
+        <text id="reputation_requirements" need_translate="true" value=""/>
+        <text id="veto_is_not_possible" need_translate="true" value=""/>
+        <text id="year_genetive_multiple" need_translate="true" value=""/>
+        <text id="year_genetive_single" need_translate="true" value=""/>
+        <text id="year_multiple" need_translate="true" value=""/>
+        <text id="year_single" need_translate="true" value=""/>
+    </other>
     <popup>
-        <text id="arrest_result_header_1" need_translate="false" value="Sündenbock von\n&quot;%1&quot;: %2"/>
-        <text id="arrest_result_header_2" need_translate="false" value="Sie sind verhaftet!"/>
-        <text id="arrest_result_text_1" need_translate="false" value="Ich habe dir vertraut und du hast micht betrogen! Freundschaft ist wie Geld, leichter gemacht als bvehalten..."/>
-        <text id="arrest_result_text_2" need_translate="false" value="%1Der Polizeipräsident %2 verdächtigt dich das Verbrechen &quot;%3&quot; begangen zu haben. Du kannst versuchen ihn zu bestechen oder alle Pfade des Rechtsystems zu begehen."/>
-        <text id="court_popup_1" need_translate="false" value="Korrupter Richter"/>
-        <text id="court_popup_1_hover" need_translate="false" value="Du hast eine %1% Chance das der Beamte die Bestechung annimmt (Bestechungssumme: $%2) und eine %3% Chance, dass er den Fall schließen wird."/>
-        <text id="court_popup_2" need_translate="false" value="Ist mir egal!"/>
-        <text id="court_popup_2_hover" need_translate="false" value="Verhandlung: %1"/>
-        <text id="court_popup_header" need_translate="false" value="Der Prozess beginnt!"/>
-        <text id="court_popup_text" need_translate="false" value="%1&quot;%3&quot; Prozess wird auf %2 gehalten. %4 wird beschuldigt das Verbrechen begangen zu haben."/>
-        <text id="court_result_header" need_translate="false" value="Du wurdest dem Verbrechen Schuldig gesprochen: \n&quot;%1&quot;"/>
-        <text id="court_result_header_1" need_translate="false" value="Der Richter lehnt es ab dir zur helfen"/>
-        <text id="court_result_header_2" need_translate="false" value="Leider ist die Macht des Richters beschränkt!"/>
-        <text id="court_result_header_3" need_translate="false" value="Das Urteil lautet: Unschuldig"/>
-        <text id="court_result_text" need_translate="false" value="%1%2 wurde ins Gefängis geschickt... Der Richter %3 hat gut gerichtet!"/>
-        <text id="court_result_text_1" need_translate="false" value="Was versuchen Sie da? Versuchen Sie mich zu bestechen? Das ist eine Straftat. Verschwinde!...Aber das Geld können Sie dalassen...Ich brauche es für meine Kinder"/>
-        <text id="court_result_text_2" need_translate="false" value="Du weißt, es ist nicht einfach meine Augen zu schließen! Ich kann dir damit nicht helfen...Pass auf!"/>
-        <text id="court_result_text_3" need_translate="false" value="%2 ist nicht schuldig. Eine 0% Chance erneutiger Anklage"/>
-        <text id="hide_evidence_popup_1" need_translate="false" value="Verstecke Beweise"/>
-        <text id="hide_evidence_popup_1_hover" need_translate="false" value="Du hast eine %1% chance, dass der Beamte Bestechung annimmt (Bestechungssumme: $%2) und eine %3% Chance, dass er den Fall schließt"/>
-        <text id="hide_evidence_popup_2" need_translate="false" value="Sündenbock"/>
+        <text id="accept_law_popup_fail_header" need_translate="true" value=""/>
+        <text id="accept_law_popup_fail_text" need_translate="true" value=""/>
+        <text id="accept_law_popup_success_header" need_translate="true" value=""/>
+        <text id="accept_law_popup_success_text" need_translate="true" value=""/>
+        <text id="break_up_strike_popup_fail_header" need_translate="true" value=""/>
+        <text id="break_up_strike_popup_fail_text" need_translate="true" value=""/>
+        <text id="break_up_strike_popup_success_header" need_translate="true" value=""/>
+        <text id="break_up_strike_popup_success_text" need_translate="true" value=""/>
+        <text id="contract_popup_fail_header" need_translate="true" value=""/>
+        <text id="contract_popup_fail_text" need_translate="true" value=""/>
+        <text id="contract_popup_success_header" need_translate="true" value=""/>
+        <text id="contract_popup_success_text" need_translate="true" value=""/>
+        <text id="court_popup_1" need_translate="true" value="Korrupter Richter"/>
+        <text id="court_popup_1_disabled_hover" need_translate="true" value=""/>
+        <text id="court_popup_1_hover" need_translate="true" value="Du hast eine %1% Chance das der Beamte die Bestechung annimmt (Bestechungssumme: $%2) und eine %3% Chance, dass er den Fall schließen wird."/>
+        <text id="court_popup_2" need_translate="true" value="Ist mir egal!"/>
+        <text id="court_popup_2_disabled_hover" need_translate="true" value=""/>
+        <text id="court_popup_2_hover" need_translate="true" value="Verhandlung: %1"/>
+        <text id="court_popup_3" need_translate="true" value=""/>
+        <text id="court_popup_3_disabled_hover" need_translate="true" value=""/>
+        <text id="court_popup_3_hover" need_translate="true" value=""/>
+        <text id="court_popup_fail_header" need_translate="true" value=""/>
+        <text id="court_popup_fail_text" need_translate="true" value=""/>
+        <text id="court_popup_header" need_translate="true" value="Der Prozess beginnt!"/>
+        <text id="court_popup_success_header" need_translate="true" value=""/>
+        <text id="court_popup_success_text" need_translate="true" value=""/>
+        <text id="court_popup_text" need_translate="true" value="%1&quot;%3&quot; Prozess wird auf %2 gehalten. %4 wird beschuldigt das Verbrechen begangen zu haben."/>
+        <text id="court_popup_text_to_company" need_translate="true" value=""/>
+        <text id="freedom_popup_header" need_translate="true" value=""/>
+        <text id="freedom_popup_text" need_translate="true" value=""/>
+        <text id="grant_popup_fail_header" need_translate="true" value=""/>
+        <text id="grant_popup_fail_text" need_translate="true" value=""/>
+        <text id="grant_popup_success_header" need_translate="true" value=""/>
+        <text id="grant_popup_success_text" need_translate="true" value=""/>
+        <text id="hide_evidence_popup_1" need_translate="true" value="Verstecke Beweise"/>
+        <text id="hide_evidence_popup_1_disabled_hover" need_translate="true" value=""/>
+        <text id="hide_evidence_popup_1_hover" need_translate="true" value="Du hast eine %1% chance, dass der Beamte Bestechung annimmt (Bestechungssumme: $%2) und eine %3% Chance, dass er den Fall schließt"/>
+        <text id="hide_evidence_popup_2" need_translate="true" value="Sündenbock"/>
+        <text id="hide_evidence_popup_2_disabled_hover" need_translate="true" value=""/>
         <text id="hide_evidence_popup_2_hover" need_translate="true" value="Wähle einen Sündebock"/>
         <text id="hide_evidence_popup_3" need_translate="false" value="Mir egal!"/>
-        <text id="hide_evidence_popup_3_hover" need_translate="false" value="Du könntest festgenommen werden auf %1"/>
-        <text id="hide_evidence_popup_header" need_translate="false" value="Ermittlungen des Falles von\n&quot;%1&quot;"/>
-        <text id="hide_evidence_popup_text" need_translate="false" value="%1Die Polizei hat eine Zeugenaussage von %2. Der Polizeipräsident %3 hat begonnen sich damit zu befassen..."/>
-        <text id="hide_evidence_result_header_1" need_translate="false" value="Der Polizeipräsident lehnt es ab dir zu helfen"/>
-        <text id="hide_evidence_result_header_2" need_translate="false" value="Leider ist die Macht des Polizeipräsidenten beschränkt!"/>
-        <text id="hide_evidence_result_header_3" need_translate="false" value="Der Polizeipräsident war erfolgreich beim Verstecken der Beweise!\nDu hast Glück gehabt!"/>
-        <text id="hide_evidence_result_text_1" need_translate="false" value="Was versuchen Sie da? Versuchen Sie mich zu bestechen? Das ist eine Straftat. Verschwinde!...Aber das Geld können Sie dalassen...Ich brauche es für meine Kinder"/>
-        <text id="hide_evidence_result_text_2" need_translate="false" value="Du weißt, es ist nicht einfach Beweise verschwinden zu lassen! Ich kann dir nicht helfen...Pass auf!"/>
-        <text id="hide_evidence_result_text_3" need_translate="false" value="Ich war erfolgreich beim Verstecken der Beweise des Falles von &quot;%1&quot;! Eine 0% Chance erneutiger Anklage. Aber ich bin mir nicht sicher, ob du nächstes Mal so leicht weg kommst"/>
-        <text id="incriminate_a_case_popup_1" need_translate="false" value="Fall abschließen"/>
-        <text id="incriminate_a_case_popup_1_hover" need_translate="false" value="Du hast eine %1% chance, dass der Beamte Bestechung annimmt (Bestechungssumme: $%2) und eine %3% Chance, dass er den Fall schließt"/>
-        <text id="incriminate_a_case_popup_2" need_translate="false" value="Mir egal!"/>
-        <text id="incriminate_a_case_popup_2_hover" need_translate="false" value="Verhandlung: %1"/>
-        <text id="incriminate_a_case_popup_header" need_translate="false" value="Krimanalfall von \n&quot;%1&quot; gegen %2"/>
-        <text id="incriminate_a_case_popup_text" need_translate="false" value="%1Der Staatsanwalt %2 hat den Kriminalfall eröffnet"/>
-        <text id="incriminate_a_case_result_header_1" need_translate="false" value="Der Staatsanwalt will dir nicht helfen"/>
-        <text id="incriminate_a_case_result_header_2" need_translate="false" value="Leider ist die Macht des Staatsanwaltes begrenzt!"/>
-        <text id="incriminate_a_case_result_header_3" need_translate="false" value="Fall geschlossen"/>
-        <text id="incriminate_a_case_result_text_1" need_translate="false" value="Was versuchen Sie da? Versuchen Sie mich zu bestechen? Das ist eine Straftat. Verschwinde!...Aber das Geld können Sie dalassen...Ich brauche es für meine Kinder"/>
-        <text id="incriminate_a_case_result_text_2" need_translate="false" value="Du weißt, es ist nicht einfach einen Fall zu schließen! Ich kann dir nicht helfen...Pass auf!"/>
-        <text id="incriminate_a_case_result_text_3" need_translate="false" value="Ich habe den Fall von &quot;%1&quot; erfolgreich geschlossen! Eine 0% Chance erneuter Anklage. Es hat mich in Gefahr gebracht! Ich kann nicht versprechen, dass ich dir nächstes Mal wieder helfe"/>
-        <text id="jail_popup_1" need_translate="false" value="Gnade"/>
-        <text id="jail_popup_1_hover" need_translate="false" value="Du hast eine %1% chance, dass der Beamte Bestechung annimmt (Bestechungssumme: $%2) und eine %3% Chance, dass er den Fall schließt"/>
+        <text id="hide_evidence_popup_3_disabled_hover" need_translate="true" value=""/>
+        <text id="hide_evidence_popup_3_hover" need_translate="true" value="Du könntest festgenommen werden auf %1"/>
+        <text id="hide_evidence_popup_fail_header" need_translate="true" value=""/>
+        <text id="hide_evidence_popup_fail_text" need_translate="true" value=""/>
+        <text id="hide_evidence_popup_header" need_translate="true" value="Ermittlungen des Falles von\n&quot;%1&quot;"/>
+        <text id="hide_evidence_popup_success_header" need_translate="true" value=""/>
+        <text id="hide_evidence_popup_success_text" need_translate="true" value=""/>
+        <text id="hide_evidence_popup_text" need_translate="true" value="%1Die Polizei hat eine Zeugenaussage von %2. Der Polizeipräsident %3 hat begonnen sich damit zu befassen..."/>
+        <text id="jail_popup_1" need_translate="true" value="Gnade"/>
+        <text id="jail_popup_1_disabled_hover" need_translate="true" value=""/>
+        <text id="jail_popup_1_hover" need_translate="true" value="Du hast eine %1% chance, dass der Beamte Bestechung annimmt (Bestechungssumme: $%2) und eine %3% Chance, dass er den Fall schließt"/>
         <text id="jail_popup_2" need_translate="false" value="Nichts tun"/>
-        <text id="jail_popup_2_hover" need_translate="false" value="Die Freiheitsstrafe ist vorbei: %1"/>
-        <text id="jail_popup_header" need_translate="false" value="Der Gouverneur ist deine letzte Chance!"/>
-        <text id="jail_popup_text" need_translate="false" value="%1 Du kannst den Gouverneur um Gnade bitten. Wenn du Glück hast, wird dich %2 Gouverneur %3 begnadigen und von einer Bestrafung absehen."/>
-        <text id="jail_result_header" need_translate="false" value="%1's Freiheitsstrafe ist vorbei!"/>
-        <text id="jail_result_header_1" need_translate="false" value="Der Gouverneur will dir nicht helfen"/>
-        <text id="jail_result_header_2" need_translate="false" value="%1 wurde freigesprochen"/>
-        <text id="jail_result_text" need_translate="false" value="Endlich, ich bin frei!"/>
-        <text id="jail_result_text_1" need_translate="false" value="Was versuchen Sie da? Versuchen Sie mich zu bestechen? Das ist eine Straftat. Verschwinde!...Aber das Geld können Sie dalassen...Ich brauche es für meine Kinder"/>
-        <text id="jail_result_text_2" need_translate="false" value="%%3 Der Gouverneur %2 hat %4 begnadigt, welcher folgendes Verbrechen beging: &quot;%5&quot;"/>
+        <text id="jail_popup_2_disabled_hover" need_translate="true" value=""/>
+        <text id="jail_popup_2_hover" need_translate="true" value="Die Freiheitsstrafe ist vorbei: %1"/>
+        <text id="jail_popup_2_journalist_hover" need_translate="true" value=""/>
+        <text id="jail_popup_2_killer_hover" need_translate="true" value=""/>
+        <text id="jail_popup_fail_header" need_translate="true" value=""/>
+        <text id="jail_popup_fail_text" need_translate="true" value=""/>
+        <text id="jail_popup_header" need_translate="true" value="Der Gouverneur ist deine letzte Chance!"/>
+        <text id="jail_popup_journalist_text" need_translate="true" value=""/>
+        <text id="jail_popup_killer_text" need_translate="true" value=""/>
+        <text id="jail_popup_success_header" need_translate="true" value=""/>
+        <text id="jail_popup_success_text" need_translate="true" value=""/>
+        <text id="jail_popup_text" need_translate="true" value="%1 Du kannst den Gouverneur um Gnade bitten. Wenn du Glück hast, wird dich %2 Gouverneur %3 begnadigen und von einer Bestrafung absehen."/>
+        <text id="make_a_deal_popup_1" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_1_disabled_hover" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_1_hover" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_2" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_2_disabled_hover" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_2_hover" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_fail_header" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_fail_text" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_judge_fail_header" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_judge_fail_text" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_judge_success_header" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_judge_success_text" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_success_header" need_translate="true" value=""/>
+        <text id="make_a_deal_popup_success_text" need_translate="true" value=""/>
         <text id="official_result_header_1" need_translate="true" value=""/>
         <text id="official_result_header_2" need_translate="true" value=""/>
         <text id="official_result_text_1" need_translate="true" value=""/>
@@ -86,7 +141,9 @@
         <text id="politician_result_header_2" need_translate="true" value=""/>
         <text id="politician_result_text_1" need_translate="true" value=""/>
         <text id="politician_result_text_2" need_translate="true" value=""/>
-        <text id="scapegoat_popup_header" need_translate="false" value="Wähle Assistenten"/>
-        <text id="scapegoat_popup_text" need_translate="false" value="Wähle einen Sündebock, welcher mit deinen Verbrechen belastet wird"/>
+        <text id="reject_law_popup_fail_header" need_translate="true" value=""/>
+        <text id="reject_law_popup_fail_text" need_translate="true" value=""/>
+        <text id="reject_law_popup_success_header" need_translate="true" value=""/>
+        <text id="reject_law_popup_success_text" need_translate="true" value=""/>
     </popup>
 </crimes>

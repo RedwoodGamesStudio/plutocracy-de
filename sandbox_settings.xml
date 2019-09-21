@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sandbox_settings>
     <text id="btn_start_game" need_translate="false" value="Spiel starten"/>
-    <win_settings>
-        <text id="economy" need_translate="false" value="Du musst eine Frage beantworten: Ist Gier gut? Dein Ziel ist es der erste Dollarmilliardär der Geschichte zu werden. Du hast 10 Jahre bevor den 1880er Jahren. Wähle den Wohlstandlevel den du erreichen willst."/>
-        <text id="monopoly" need_translate="false" value="Erreiche 80% des Marktanteils in der ausgewählten Branche: Öl, Banken, Logistik, und weitere. Baue das mächtigste Finazimperium und vernichte alle Konkurrenten!"/>
-        <text id="politial_influence" need_translate="false" value="Du musst den gesamten internationalen Einfluss erreichen um zu gewinnen! Du kannst durch Lobbyarbeit und Bestechung deine Gesetze auf den Weg bringen. Such dir aus wie du dieses Ziel erreichst!"/>
-        <text id="superiority" need_translate="false" value="Nimm deinen Platz unter den reichsten Kapitalisten und Geschäftsmännern der Geschichte ein! Du wirst Probleme mit deinen Konkurrenten, bestehend aus den reichsten und mächtigsten Clans und Familien, bekommen. Kannst du die Herausforderung meistern?"/>
-    </win_settings>
+    <text id="end_time" need_translate="true" value=""/>
+    <win_settings_description>
+        <text id="free_mode" need_translate="true" value=""/>
+        <text id="influence_victory" need_translate="true" value=""/>
+        <text id="money_victory" need_translate="true" value=""/>
+        <text id="power_victory" need_translate="true" value=""/>
+    </win_settings_description>
+    <win_settings_header>
+        <text id="free_mode" need_translate="true" value=""/>
+        <text id="influence_victory" need_translate="true" value=""/>
+        <text id="money_victory" need_translate="true" value=""/>
+        <text id="power_victory" need_translate="true" value=""/>
+    </win_settings_header>
     <world_settings>
         <game_difficult>
             <text id="financial_genius" need_translate="false" value="Schwierige Wirtschaft mit dynamischen finanziellen Indikatoren. Jedes Quartal ändern sich die Preise. Eine harte Welt!"/>
