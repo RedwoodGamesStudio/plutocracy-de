@@ -29,16 +29,18 @@
         <text id="58_header" need_translate="true" value=""/>
         <text id="59_description" need_translate="true" value=""/>
         <text id="59_header" need_translate="true" value=""/>
+        <text id="60_description" need_translate="true" value=""/>
+        <text id="60_header" need_translate="true" value=""/>
     </event>
     <event_button>
         <text id="button_20_1_header" need_translate="false" value="Tätige eine riesige Spende"/>
-        <text id="button_20_1_hover_text" need_translate="false" value="%1's Loyalität zu dir: +%2%\nAnsehen: +%3"/>
+        <text id="button_20_1_hover_text" need_translate="true" value="%1's Loyalität zu dir: +%2%\nAnsehen: +%3"/>
         <text id="button_20_1_text" need_translate="false" value="Durch tätigen einer Spende von $%1, erschaffst du Möglichkeiten neue Freunde zu machen und manchmal können Spendengelber dir wieder ein wenig Leben einhauchen!"/>
         <text id="button_20_2_header" need_translate="false" value="Tätige eine große Spende"/>
-        <text id="button_20_2_hover_text" need_translate="false" value="%1's Loyalität zu dir: +%2%\nAnsehen: +%3"/>
+        <text id="button_20_2_hover_text" need_translate="true" value="%1's Loyalität zu dir: +%2%\nAnsehen: +%3"/>
         <text id="button_20_2_text" need_translate="false" value="Du bist auf der richtigen Spur durch eine Spende von $%1, dir den Respekt von anderen zu sichern"/>
         <text id="button_20_3_header" need_translate="false" value="Ablehnen"/>
-        <text id="button_20_3_hover_text" need_translate="false" value="Loyalität des Gastes zu dir: +%1%\nAnsehen: +%2"/>
+        <text id="button_20_3_hover_text" need_translate="true" value="Loyalität des Gastes zu dir: +%1%\nAnsehen: +%2"/>
         <text id="button_20_3_text" need_translate="false" value="Ich glaube nicht das das Sinn ergibt"/>
         <text id="button_21_1_header" need_translate="false" value="Komme mit einem teuren Geschenk"/>
         <text id="button_21_1_hover_text" need_translate="false" value="Geld: -$%1\n Loyalität zu dir: +%2%"/>
@@ -115,6 +117,12 @@
         <text id="button_57_2_header" need_translate="true" value=""/>
         <text id="button_57_2_hover_text" need_translate="true" value=""/>
         <text id="button_57_2_text" need_translate="true" value=""/>
+        <text id="button_60_1_header" need_translate="true" value=""/>
+        <text id="button_60_1_hover_text" need_translate="true" value=""/>
+        <text id="button_60_1_text" need_translate="true" value=""/>
+        <text id="button_60_2_header" need_translate="true" value=""/>
+        <text id="button_60_2_hover_text" need_translate="true" value=""/>
+        <text id="button_60_2_text" need_translate="true" value=""/>
         <text id="disabled_button_20_1_hover_text" need_translate="false" value="Kein Effekt"/>
         <text id="disabled_button_20_2_hover_text" need_translate="false" value="Kein Effekt"/>
         <text id="disabled_button_20_3_hover_text" need_translate="false" value="Kein Effekt"/>
@@ -143,6 +151,8 @@
         <text id="disabled_button_56_2_hover_text" need_translate="true" value=""/>
         <text id="disabled_button_57_1_hover_text" need_translate="true" value=""/>
         <text id="disabled_button_57_2_hover_text" need_translate="true" value=""/>
+        <text id="disabled_button_60_1_hover_text" need_translate="true" value=""/>
+        <text id="disabled_button_60_2_hover_text" need_translate="true" value=""/>
     </event_button>
     <event_type>
         <text id="1" need_translate="false" value="Zufällige Ereignisse"/>

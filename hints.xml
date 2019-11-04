@@ -47,8 +47,8 @@
         <text id="2_value" need_translate="false" value="Bewegung zwischen Bundesstaaten"/>
         <text id="30_title" need_translate="true" value=""/>
         <text id="30_value" need_translate="true" value=""/>
-        <text id="31_title" need_translate="false" value="Ansehen"/>
-        <text id="31_value" need_translate="false" value="Wenn dein Ansehen besser als das deines Gegners ist wird es einfacher sein Abkommen zu verhandeln. Wie auch immer erhälts du einen Ansehensmalus von -1 Punkt"/>
+        <text id="31_title" need_translate="true" value="Ansehen"/>
+        <text id="31_value" need_translate="true" value="Wenn dein Ansehen besser als das deines Gegners ist wird es einfacher sein Abkommen zu verhandeln. Wie auch immer erhälts du einen Ansehensmalus von -1 Punkt"/>
         <text id="32_title" need_translate="true" value=""/>
         <text id="32_value" need_translate="true" value=""/>
         <text id="33_title" need_translate="true" value=""/>

@@ -57,11 +57,11 @@
         <text id="400" need_translate="true" value="Hmm... Ich wollte meine Anteile nicht verkaufen. Aber wenn Sie $%1 pro Anteil bezahlen (Summe von $%2, %3 Anteile) werde ich ihr Angebot überdenken"/>
         <text id="401" need_translate="false" value="Ich bin bereit meine Anteile für $%1 pro Anteil zu verkaufen (Summe von $%2, %3 Anteile)"/>
         <text id="402" need_translate="false" value="Um Klartext zu reden, ich bin nicht bereit meine Anteile zu verkaufen, aber für $%1 pro Anteil, bin ich bereit Sie in der Mitte zu treffen (Summe von $%2, %3 Anteile)"/>
-        <text id="500" need_translate="false" value="Ich bin zu diesem Preis nicht interessiert...Ich bin bereit einen Anteil auf $%1 zu reduzieren (Summe von $%2, %3 Anteile)"/>
-        <text id="501" need_translate="false" value="Nein! Keine Chance! ...Wir könnten uns auf einen Preis von $%1 pro Anteil einigen (Summe von $%2, %3 Anteile)"/>
+        <text id="500" need_translate="true" value="Ich bin zu diesem Preis nicht interessiert...Ich bin bereit einen Anteil auf $%1 zu reduzieren (Summe von $%2, %3 Anteile)"/>
+        <text id="501" need_translate="true" value="Nein! Keine Chance! ...Wir könnten uns auf einen Preis von $%1 pro Anteil einigen (Summe von $%2, %3 Anteile)"/>
         <text id="502" need_translate="true" value="Das ist zu wenig! Nein! Mein Angebot ist $%1 pro Anteil (Summe von $%2, %3 Anteile)"/>
         <text id="503" need_translate="true" value="Strapazieren Sie nicht meine Geduld...Das ist viel zu wenig! Mein Angebot ist $%1 pro Anteil (Summe von $%2, %3 Anteile)"/>
-        <text id="504" need_translate="false" value="Der Preis ist zu niedrig! Mein Angebot ist $%1 pro Anteil (Summe von $%2, %3 Anteile) Deal?"/>
+        <text id="504" need_translate="true" value="Der Preis ist zu niedrig! Mein Angebot ist $%1 pro Anteil (Summe von $%2, %3 Anteile) Deal?"/>
         <text id="600" need_translate="false" value="Okay! Ich bin dabei! Ich bin bereit %1 Anteile von %2 für $%3 zu verkaufen"/>
         <text id="601" need_translate="false" value="Es freut mich mit Ihnen Geschäfte zu machen! Ich werde ihr Angebot annehmen und %1 Anteile von %2 für $%3 verkaufen"/>
         <text id="602" need_translate="false" value="Na gut, ich werde ihr Angebot annehmen und %1 Anteile von %2 für $%3 verkaufen"/>

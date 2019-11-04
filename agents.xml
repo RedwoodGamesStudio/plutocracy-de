@@ -177,7 +177,7 @@
         <text id="effect" need_translate="true" value="Im Falle des Erfolgs wird dir dieser Agent helfen, einen männlichen Charakter zu manipulieren, indem sie den benötigten Einfluss für ein Treffen reduziert. Außerdem hängt der Erfolg von deinem Einfluss zu dem Charakter ab."/>
         <text id="name" need_translate="false" value="Poly"/>
         <text id="risk" need_translate="true" value=""/>
-        <text id="short_description" need_translate="false" value="%1 hat angebissen. Benötigter Einfluss ist verringert worden"/>
+        <text id="short_description" need_translate="true" value="%1 hat angebissen. Benötigter Einfluss ist verringert worden"/>
         <text id="surname" need_translate="false" value="Adler"/>
     </agents_courtesan>
     <agents_detective>
