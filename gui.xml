@@ -3452,11 +3452,11 @@
         <text id="title" need_translate="true" value=""/>
     </technologies_popup>
     <under_construction>
-        <text id="build_number" need_translate="false" value=", baue %1"/>
+        <text id="build_number" need_translate="false" value=", Version %1"/>
         <text id="hello_i_am_test_version_of_game" need_translate="false" value="Hallo!\n\nIch bin die Testversion des Spiels "/>
-        <text id="less_one_years_old" need_translate="false" value="Ich kann ekelhaft und unvorhersagbar sein...Tut mir leid!:(\n"/>
-        <text id="lets_start" need_translate="false" value="\nLAss uns anfangen!"/>
-        <text id="my_creators_says" need_translate="false" value="Meine Entwickler sagen, dass wenn ich reifer bin die mich rausbringen werden."/>
+        <text id="less_one_years_old" need_translate="false" value="Ich kann ekelhaft und unvorhersagbar sein...Tut mir leid!:(\nAuch die deutsche Übersetzung ist noch in Arbeit. Falls du Fehler entdeckst kannst du diese auf Discord (master536) melden!"/>
+        <text id="lets_start" need_translate="false" value="\nLass uns anfangen!"/>
+        <text id="my_creators_says" need_translate="false" value="Meine Entwickler sagen, dass wenn ich reifer bin die mich rausbringen werden. Auch die deutsch übers"/>
         <text id="plutocracy" need_translate="false" value="Plutocracy"/>
         <text id="press_any_key_to_continue" need_translate="false" value="Drücke eine Taste um fortzufahren..."/>
         <text id="truly_yours_alpha_version" need_translate="false" value="Liebe Grüße, Alpha Version "/>

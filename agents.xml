@@ -6,7 +6,7 @@
         <text id="class_2" need_translate="false" value="Kurtisane"/>
         <text id="class_3" need_translate="false" value="Detektiv"/>
         <text id="class_4" need_translate="false" value="Jornalist"/>
-        <text id="class_5" need_translate="false" value="Gauner"/>
+        <text id="class_5" need_translate="true" value="Gauner"/>
         <text id="class_6" need_translate="false" value="Auftragsmörder"/>
         <text id="class_7" need_translate="false" value="Diplomat"/>
         <text id="class_8" need_translate="false" value="Bankier"/>
@@ -64,19 +64,19 @@
         <text id="2_2_3_male" need_translate="false" value="Ich habe keine guten Neuigkeiten für dich...wir haben nur über mich geredet... er passt auf, was er von sich gibt"/>
         <text id="2_3_1_female" need_translate="false" value="Ist meine Persönlichkeit so bekannt? Ich hatte noch kein Gespräch begonnen bevor sie fragte: 'Wer hat dich geschickt'"/>
         <text id="2_3_1_male" need_translate="false" value="Ist meine Persönlichkeit so bekannt? Ich hatte noch kein Gespräch begonnen bevor er fragte: 'Wer hat dich geschickt'"/>
-        <text id="2_3_2_female" need_translate="false" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
-        <text id="2_3_2_male" need_translate="false" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
-        <text id="2_3_3_female" need_translate="false" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
-        <text id="2_3_3_male" need_translate="false" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
-        <text id="3_1_1_female" need_translate="false" value="Es war nicht schwer! Meine Leute kennen sich aus"/>
-        <text id="3_1_1_male" need_translate="false" value="Es war nicht schwer! Meine Leute kennen sich aus"/>
-        <text id="3_1_2_female" need_translate="false" value="Ich habe meine Karten richtig gespielt... Ich glaube das ist es was Sie wollten"/>
-        <text id="3_1_2_male" need_translate="false" value="Ich habe meine Karten richtig gespielt... Ich glaube das ist es was Sie wollten"/>
+        <text id="2_3_2_female" need_translate="true" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
+        <text id="2_3_2_male" need_translate="true" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
+        <text id="2_3_3_female" need_translate="true" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
+        <text id="2_3_3_male" need_translate="true" value="Unglücklicherweise wurde ich entdeckt...Ich glaube Sie werden Probleme bekommen"/>
+        <text id="3_1_1_female" need_translate="true" value="Es war nicht schwer! Meine Leute kennen sich aus"/>
+        <text id="3_1_1_male" need_translate="true" value="Es war nicht schwer! Meine Leute kennen sich aus"/>
+        <text id="3_1_2_female" need_translate="true" value="Ich habe meine Karten richtig gespielt... Ich glaube das ist es was Sie wollten"/>
+        <text id="3_1_2_male" need_translate="true" value="Ich habe meine Karten richtig gespielt... Ich glaube das ist es was Sie wollten"/>
         <text id="3_1_3_female" need_translate="false" value="Das wird genug sein, um in schweren Problemen zu stecken"/>
         <text id="3_1_3_male" need_translate="false" value="Das wird genug sein, um in schweren Problemen zu stecken"/>
-        <text id="3_2_1_female" need_translate="false" value="Ich konnte leider nichts brauchbares für Sie finden. Scheint alles sauber zu sein"/>
-        <text id="3_2_1_male" need_translate="false" value="Ich konnte leider nichts brauchbares für Sie finden. Scheint alles sauber zu sein"/>
-        <text id="3_2_2_female" need_translate="false" value="Leider konnte ich sie nicht belasten. Nächstes mal werde ich erfolgreicher sein"/>
+        <text id="3_2_1_female" need_translate="true" value="Ich konnte leider nichts brauchbares für Sie finden. Scheint alles sauber zu sein"/>
+        <text id="3_2_1_male" need_translate="true" value="Ich konnte leider nichts brauchbares für Sie finden. Scheint alles sauber zu sein"/>
+        <text id="3_2_2_female" need_translate="true" value="Leider konnte ich sie nicht belasten. Nächstes mal werde ich erfolgreicher sein"/>
         <text id="3_2_2_male" need_translate="false" value="Leider konnte ich ihn nicht belasten. Nächstes mal werde ich erfolgreicher sein"/>
         <text id="3_2_3_female" need_translate="false" value="Der Typ, der den Auftrag ausführen sollte ist verschwunden! Also habe ich nichts für dich"/>
         <text id="3_2_3_male" need_translate="false" value="Der Typ, der den Auftrag ausführen sollte ist verschwunden! Also habe ich nichts für dich"/>
