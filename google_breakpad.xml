@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <google_breakpad>
     <crash_dialog>
-        <text id="add_client_email" need_translate="true" value=""/>
-        <text id="apologies" need_translate="true" value=""/>
-        <text id="close_game" need_translate="true" value=""/>
-        <text id="comment" need_translate="true" value=""/>
-        <text id="error_desc" need_translate="true" value=""/>
-        <text id="info_about_send" need_translate="true" value=""/>
-        <text id="send_error_msg" need_translate="true" value=""/>
-        <text id="send_to_redwood" need_translate="true" value=""/>
-        <text id="window_title" need_translate="true" value=""/>
+        <text id="add_client_email" need_translate="false" value="Erlaube Redwood mich zu diesem Artikel zu kontaktieren."/>
+        <text id="apologies" need_translate="false" value="Wir entschuldigen\n\n"/>
+        <text id="close_game" need_translate="false" value="Beende Plutocracy"/>
+        <text id="comment" need_translate="false" value="Kommentieren (Kommentare sind öffentlich sichtbar)"/>
+        <text id="error_desc" need_translate="false" value="Ein interner Fehler von Plutocracy ist aufgetreten, welcher zum Absturz führte.\n"/>
+        <text id="info_about_send" need_translate="false" value="Deine Nachricht wird vor Verlassen gesendet"/>
+        <text id="send_error_msg" need_translate="false" value="Um uns zu helfen, dass Problem zu identifiziern kannst du uns einen Fehlerbericht senden.\n\n\n"/>
+        <text id="send_to_redwood" need_translate="false" value="Melde eine Problem, sodass Redwood es beheben kann"/>
+        <text id="window_title" need_translate="false" value="Plutocracy Absturzmelder"/>
     </crash_dialog>
 </google_breakpad>
