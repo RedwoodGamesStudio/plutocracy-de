@@ -15,20 +15,22 @@
         <text id="power_victory" need_translate="true" value=""/>
     </win_settings_header>
     <world_settings>
+        <bots_count>
+            <text id="no_bots" need_translate="true" value=""/>
+            <text id="one_bot" need_translate="true" value=""/>
+            <text id="three_bots" need_translate="true" value=""/>
+            <text id="two_bots" need_translate="true" value=""/>
+        </bots_count>
         <game_difficult>
-            <text id="financial_genius" need_translate="false" value="Schwierige Wirtschaft mit dynamischen finanziellen Indikatoren. Jedes Quartal ändern sich die Preise. Eine harte Welt!"/>
-            <text id="newbie" need_translate="false" value="Du lernst noch die finanziellen Grundlagen. Deine Konkurrenten sind freundlich und nachgiebig"/>
-            <text id="plutocrat" need_translate="false" value="Um wahr Größe und Macht zu erhalten musst du übermenschliche Kräfte aufwenden! Bist du bereit die Konsequenzen von deinen Entscheidungen zu tragen?"/>
-            <text id="shark_of_capitalism" need_translate="false" value="Du weiß wie man ein Geschäft aufbaut! Um zu gewinnen, solltest du die gerissensten Wege finden. Sei bereit dein Gehirn anzustrengen!"/>
+            <text id="finance_shark" need_translate="true" value=""/>
+            <text id="piranha" need_translate="true" value=""/>
+            <text id="small_fish" need_translate="true" value=""/>
         </game_difficult>
         <start_condition>
             <text id="company_owner" need_translate="false" value="Dir gehört 100% der Firma und 10 Angestellte. Bargeld $1,000,000"/>
             <text id="experienced_investor" need_translate="false" value="Du hast einen Firmenanteil von $1,000,000. Bargeld $100,000"/>
             <text id="low_start" need_translate="false" value="Du hast $100,000 gespart. Wie fängst du an? Es ist dir überlassen!"/>
         </start_condition>
-        <start_time>
-            <text id="gilded_epoch" need_translate="false" value="America nach dem Bürgerkrieg und der Abschaffung der Sklaverei, der Aufstieg von Monopolen und die Formation der privaten Gerechtigkeit! Es gibt Öl, Banken, Logistik und andere Branchen. Du hast unbegrenzete Möglichkeiten!"/>
-        </start_time>
         <world_size>
             <text id="big" need_translate="false" value="Eine große Anzahl an Firmen und Charakteren. Die durschnittliche Spielzeit liegt bei 3-5 Stunden."/>
             <text id="large" need_translate="false" value="Zehntausende an Charakteren und eine riesige Anzahl an Firmen. Die durschnittliche Spielzeit liegt bei mehr als 10 Stunden."/>

@@ -2,7 +2,9 @@
 <player_achievements_description>
     <descriptions>
         <text id="artificial_manipulator" need_translate="false" value="Stelle %1 Assistenten an"/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value="Versuche %1 Mal jemanden umzubringen"/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="false" value="Besitze %1 Sammelerstücke"/>
         <text id="combinator" need_translate="false" value="Erreiche %1 Fertigungstiefe"/>
         <text id="corrupting_power" need_translate="false" value="Schließe %1 korrupte Deals ab"/>
@@ -10,6 +12,7 @@
         <text id="diplomat_of_devil" need_translate="false" value="Führe %1 erfolgreiche Verhandlungen durch"/>
         <text id="great_raider" need_translate="false" value="Übernimm Kontrolle über %1 Firmen. Egal welche Branche"/>
         <text id="individual" need_translate="false" value="Kaufe %1% Anteile einer Firma"/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="false" value="Arbeite als Lobbyist an %1 lokalen Gestzen mit"/>
         <text id="local_monopolist" need_translate="false" value="Erreiche %1% Marktanteil in einem Bundesstaat"/>
         <text id="master_of_secrets" need_translate="false" value="Beschaffe %1 belastende Beweise"/>
@@ -17,6 +20,7 @@
         <text id="political_heavyweight" need_translate="false" value="Arbeite als Lobbyist an %1 bundesstaatlichen Gestzen mit"/>
         <text id="regional_figure" need_translate="false" value="Erreiche %1% des Einflusses in einem Bundesstaat"/>
         <text id="shadow_ruler" need_translate="false" value="Deine Marionette ist Herrscher der USA"/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="false" value="Breche %1 Urteile ab"/>
         <text id="us_monopolist" need_translate="false" value="Erreiche %1% Marktanteil der USA"/>
         <text id="walk_in_all_doors" need_translate="true" value="Mache alle Beamten in jedem Staat zu deinen Marionetten"/>
@@ -24,7 +28,9 @@
     </descriptions>
     <descriptions_complete>
         <text id="artificial_manipulator" need_translate="true" value="Du hast %1 Assistenten angestellt"/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value="Du hast %1 erfolgreiche Attentate hinter dir"/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="true" value="Du besitzt %1 Sammelerstücke"/>
         <text id="combinator" need_translate="true" value="Du hast eine Fertigungstiefe von %1 erreicht"/>
         <text id="corrupting_power" need_translate="true" value="Du hast %1 korrupte Deals abgeschlosssen"/>
@@ -32,6 +38,7 @@
         <text id="diplomat_of_devil" need_translate="true" value="Du hast %1 erfolgreiche Verhandlungen geführt"/>
         <text id="great_raider" need_translate="true" value="Du hast die Kontrolle über %1 Firmen übernommen"/>
         <text id="individual" need_translate="false" value="Du hast %1% der Anteile einer Firma erworben"/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="true" value="Du hast an %1 lokalen Gesetzen als Lobbyist mitgewirkt"/>
         <text id="local_monopolist" need_translate="true" value="Du hast %1% Marktanteil in dem Bundesstaat erreicht"/>
         <text id="master_of_secrets" need_translate="true" value="Du hast %1 belastende Beweise angesammelt"/>
@@ -39,6 +46,7 @@
         <text id="political_heavyweight" need_translate="true" value="Du hast an %1 bundesstaatlichen Gesetzen als Lobbyist mitgewirkt"/>
         <text id="regional_figure" need_translate="true" value="Du hast %1% des Einflusses eines Bundesstaates erreicht"/>
         <text id="shadow_ruler" need_translate="false" value="Du hast nun deinen eigene Herrscher der USA"/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="true" value="Du hast %1 Urteile abgewendet"/>
         <text id="us_monopolist" need_translate="true" value="Du hast %1% des Martkanteils der USA gesichert"/>
         <text id="walk_in_all_doors" need_translate="true" value="Alle Beamten eines Bundesstaates sind deine Marionetten"/>
@@ -46,7 +54,9 @@
     </descriptions_complete>
     <names>
         <text id="artificial_manipulator" need_translate="false" value="Fähiger Manipulator"/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value="Blutiger Prinz"/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="false" value="Sammler"/>
         <text id="combinator" need_translate="false" value="Radverkäufer"/>
         <text id="corrupting_power" need_translate="false" value="Korruptes Schwein"/>
@@ -54,6 +64,7 @@
         <text id="diplomat_of_devil" need_translate="false" value="Teuflischer Diplomat"/>
         <text id="great_raider" need_translate="false" value="Alles gehört mir"/>
         <text id="individual" need_translate="false" value="Exklusiver Besitzer"/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="false" value="Lokaler Lobbyist"/>
         <text id="local_monopolist" need_translate="false" value="Lokales Monopol"/>
         <text id="master_of_secrets" need_translate="false" value="Meister der Geheimnisse"/>
@@ -61,6 +72,7 @@
         <text id="political_heavyweight" need_translate="false" value="Politisches Schwergewicht"/>
         <text id="regional_figure" need_translate="false" value="Reginal bekannt"/>
         <text id="shadow_ruler" need_translate="false" value="Schattenherrscher"/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="false" value="Nichts bleibt kleben"/>
         <text id="us_monopolist" need_translate="false" value="Monopolist"/>
         <text id="walk_in_all_doors" need_translate="false" value="Einflussreiche Person"/>
@@ -68,7 +80,9 @@
     </names>
     <progress_text>
         <text id="artificial_manipulator" need_translate="false" value="Agestellte Assistenten:"/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value="Mordversuche:"/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="false" value="Sammlerstücke:"/>
         <text id="combinator" need_translate="false" value="Fertigungstiefe:"/>
         <text id="corrupting_power" need_translate="false" value="Korrupte Deals:"/>
@@ -76,6 +90,7 @@
         <text id="diplomat_of_devil" need_translate="false" value="Geführte Verhandlungen:"/>
         <text id="great_raider" need_translate="false" value="Kontrollierte Firmen:"/>
         <text id="individual" need_translate="true" value="Gekaufte Anteile:"/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="false" value="Lokale Lobby Gesetze:"/>
         <text id="local_monopolist" need_translate="false" value="Marktanteil des Bundesstaates:"/>
         <text id="master_of_secrets" need_translate="false" value="Belastende Beweise:"/>
@@ -83,6 +98,7 @@
         <text id="political_heavyweight" need_translate="false" value="Bundesstaatliche Gesetze:"/>
         <text id="regional_figure" need_translate="false" value="Einflusslevel des Bundesstaates:"/>
         <text id="shadow_ruler" need_translate="false" value="Marionetten Herrscher:"/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="false" value="Abgewendete Urteile:"/>
         <text id="us_monopolist" need_translate="false" value="Marktanteil USA:"/>
         <text id="walk_in_all_doors" need_translate="true" value="Unterworfene Beamte:"/>
@@ -90,7 +106,9 @@
     </progress_text>
     <short_descriptions>
         <text id="artificial_manipulator" need_translate="true" value=""/>
+        <text id="assets_rank" need_translate="true" value=""/>
         <text id="bloody_prince" need_translate="true" value=""/>
+        <text id="cashflow_generator" need_translate="true" value=""/>
         <text id="collector" need_translate="true" value=""/>
         <text id="combinator" need_translate="true" value=""/>
         <text id="corrupting_power" need_translate="true" value=""/>
@@ -98,6 +116,7 @@
         <text id="diplomat_of_devil" need_translate="true" value=""/>
         <text id="great_raider" need_translate="true" value=""/>
         <text id="individual" need_translate="true" value=""/>
+        <text id="influence_rank" need_translate="true" value=""/>
         <text id="local_lobbyist" need_translate="true" value=""/>
         <text id="local_monopolist" need_translate="true" value=""/>
         <text id="master_of_secrets" need_translate="true" value=""/>
@@ -105,6 +124,7 @@
         <text id="political_heavyweight" need_translate="true" value=""/>
         <text id="regional_figure" need_translate="true" value=""/>
         <text id="shadow_ruler" need_translate="true" value=""/>
+        <text id="techno-boom" need_translate="true" value=""/>
         <text id="themis_master" need_translate="true" value=""/>
         <text id="us_monopolist" need_translate="true" value=""/>
         <text id="walk_in_all_doors" need_translate="true" value=""/>
