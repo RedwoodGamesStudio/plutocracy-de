@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <hints>
     <hint>
-        <text id="10_title" need_translate="true" value=""/>
-        <text id="10_value" need_translate="true" value=""/>
-        <text id="11_title" need_translate="true" value=""/>
-        <text id="11_value" need_translate="true" value=""/>
+        <text id="10_title" need_translate="false" value="Wirtschaftlichkeit"/>
+        <text id="10_value" need_translate="false" value="Erwartete Einnahmen relativ zum Vermögenswert pro Quartal"/>
+        <text id="11_title" need_translate="false" value="Kontostand"/>
+        <text id="11_value" need_translate="false" value="Gesamter Unterschied zwischen Einnahmen und Ausgaben während eines Berechnungszeitraums"/>
         <text id="12_title" need_translate="true" value=""/>
         <text id="12_value" need_translate="true" value=""/>
         <text id="13_title" need_translate="true" value=""/>
@@ -43,18 +43,18 @@
         <text id="28_value" need_translate="true" value=""/>
         <text id="29_title" need_translate="true" value=""/>
         <text id="29_value" need_translate="true" value=""/>
-        <text id="2_title" need_translate="true" value=""/>
-        <text id="2_value" need_translate="true" value=""/>
+        <text id="2_title" need_translate="false" value="Karte"/>
+        <text id="2_value" need_translate="false" value="Bewegung zwischen Bundesstaaten"/>
         <text id="30_title" need_translate="true" value=""/>
         <text id="30_value" need_translate="true" value=""/>
-        <text id="31_title" need_translate="true" value=""/>
-        <text id="31_value" need_translate="true" value=""/>
+        <text id="31_title" need_translate="true" value="Ansehen"/>
+        <text id="31_value" need_translate="true" value="Wenn dein Ansehen besser als das deines Gegners ist wird es einfacher sein Abkommen zu verhandeln. Wie auch immer erhälts du einen Ansehensmalus von -1 Punkt"/>
         <text id="32_title" need_translate="true" value=""/>
         <text id="32_value" need_translate="true" value=""/>
         <text id="33_title" need_translate="true" value=""/>
         <text id="33_value" need_translate="true" value=""/>
-        <text id="34_title" need_translate="true" value=""/>
-        <text id="34_value" need_translate="true" value=""/>
+        <text id="34_title" need_translate="false" value="Karte"/>
+        <text id="34_value" need_translate="false" value="Bewegung zwischen Bundesstaaten"/>
         <text id="35_title" need_translate="true" value=""/>
         <text id="35_value" need_translate="true" value=""/>
         <text id="36_title" need_translate="true" value=""/>
@@ -63,39 +63,43 @@
         <text id="37_value" need_translate="true" value=""/>
         <text id="38_title" need_translate="true" value=""/>
         <text id="38_value" need_translate="true" value=""/>
-        <text id="39_text" need_translate="true" value=""/>
-        <text id="39_title" need_translate="true" value=""/>
-        <text id="3_title" need_translate="true" value=""/>
-        <text id="3_value" need_translate="true" value=""/>
-        <text id="40_text" need_translate="true" value=""/>
-        <text id="40_title" need_translate="true" value=""/>
-        <text id="41_text" need_translate="true" value=""/>
-        <text id="41_title" need_translate="true" value=""/>
-        <text id="42_text" need_translate="true" value=""/>
-        <text id="42_title" need_translate="true" value=""/>
-        <text id="43_text" need_translate="true" value=""/>
-        <text id="43_title" need_translate="true" value=""/>
-        <text id="44_text" need_translate="true" value=""/>
-        <text id="44_title" need_translate="true" value=""/>
-        <text id="45_text" need_translate="true" value=""/>
-        <text id="45_title" need_translate="true" value=""/>
-        <text id="46_text" need_translate="true" value=""/>
-        <text id="46_title" need_translate="true" value=""/>
-        <text id="47_text" need_translate="true" value=""/>
-        <text id="47_title" need_translate="true" value=""/>
-        <text id="4_title" need_translate="true" value=""/>
-        <text id="4_value" need_translate="true" value=""/>
-        <text id="50_title" need_translate="true" value=""/>
-        <text id="50_value" need_translate="true" value=""/>
-        <text id="5_title" need_translate="true" value=""/>
-        <text id="5_value" need_translate="true" value=""/>
-        <text id="6_title" need_translate="true" value=""/>
-        <text id="6_value" need_translate="true" value=""/>
-        <text id="7_title" need_translate="true" value=""/>
-        <text id="7_value" need_translate="true" value=""/>
-        <text id="8_title" need_translate="true" value=""/>
-        <text id="8_value" need_translate="true" value=""/>
-        <text id="9_title" need_translate="true" value=""/>
-        <text id="9_value" need_translate="true" value=""/>
+        <text id="39_text" need_translate="false" value="Das Aktivitätsfeld der Firma"/>
+        <text id="39_title" need_translate="false" value="Firmenbranche"/>
+        <text id="3_title" need_translate="true" value="Bundesstaat"/>
+        <text id="3_value" need_translate="true" value="Hier kannst du eine Liste der Frimen in dem Bundesstaat sehen"/>
+        <text id="40_text" need_translate="false" value="Kaufe 51% der Anteile und übernimm die Kontrolle der Firma"/>
+        <text id="40_title" need_translate="false" value="Kontrolle"/>
+        <text id="41_text" need_translate="false" value="Stelle den besten Direktor ein um dein Firmenmanagement zu verbessern"/>
+        <text id="41_title" need_translate="false" value="CEO"/>
+        <text id="42_text" need_translate="false" value="Der Bundesstaat in dem du dich befindest"/>
+        <text id="42_title" need_translate="false" value="Bundesstaat"/>
+        <text id="43_text" need_translate="false" value="Dienstleistungen der Firma"/>
+        <text id="43_title" need_translate="false" value="Industrie"/>
+        <text id="44_text" need_translate="false" value="Anzahl der Arbeiter"/>
+        <text id="44_title" need_translate="false" value="Firmengröße"/>
+        <text id="45_text" need_translate="false" value="Die Wirtschaftlichkeit der Firma relativ zum Gesamtkapital pro Quartal"/>
+        <text id="45_title" need_translate="false" value="Wirtschaftlichkeit"/>
+        <text id="46_text" need_translate="false" value="Präsentiert den Firmenwert relativ zum Marktpreis der Anteile"/>
+        <text id="46_title" need_translate="false" value="Marktgrenze"/>
+        <text id="47_text" need_translate="true" value="Der Kaufpreis der Anteile durch einen Makler"/>
+        <text id="47_title" need_translate="false" value="Marktpreis"/>
+        <text id="4_title" need_translate="false" value="Errungenschaften und Elite"/>
+        <text id="4_value" need_translate="false" value="Deiner Errungemschaften und Rangliste"/>
+        <text id="51_title" need_translate="true" value=""/>
+        <text id="51_value" need_translate="true" value=""/>
+        <text id="52_title" need_translate="true" value=""/>
+        <text id="52_value" need_translate="true" value=""/>
+        <text id="53_title" need_translate="true" value=""/>
+        <text id="53_value" need_translate="true" value=""/>
+        <text id="5_title" need_translate="true" value="Authorität"/>
+        <text id="5_value" need_translate="false" value="Lobbyarbeit bei Gestzen, sponsern von Politikern und Beamten"/>
+        <text id="6_title" need_translate="false" value="Neuigkeiten"/>
+        <text id="6_value" need_translate="false" value="Die Reihenfolge der Ereignisse"/>
+        <text id="7_title" need_translate="false" value="Agenten"/>
+        <text id="7_value" need_translate="false" value="Hier kannst du eine Liste von Eifluss Agenten"/>
+        <text id="8_title" need_translate="false" value="Wohlstand"/>
+        <text id="8_value" need_translate="false" value="Gesamter Vermögenswert"/>
+        <text id="9_title" need_translate="false" value="Geld"/>
+        <text id="9_value" need_translate="false" value="Geld pro Quartal"/>
     </hint>
 </hints>

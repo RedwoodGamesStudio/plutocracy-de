@@ -2,13 +2,13 @@
 <persons_characters>
     <ambitions>
         <text id="00_shares_bank_description" need_translate="true" value=""/>
-        <text id="00_shares_bank_name" need_translate="true" value=""/>
+        <text id="00_shares_bank_name" need_translate="true" value="Ich möchte Anteile von einer Bank besitzen"/>
         <text id="01_shares_oil_production_description" need_translate="true" value=""/>
-        <text id="01_shares_oil_production_name" need_translate="true" value=""/>
+        <text id="01_shares_oil_production_name" need_translate="true" value="Ich möchte Anteile von einer ölfördernden Firma besitzen"/>
         <text id="02_shares_transport_company_description" need_translate="true" value=""/>
-        <text id="02_shares_transport_company_name" need_translate="true" value=""/>
+        <text id="02_shares_transport_company_name" need_translate="true" value="Ich möchte Anteile einer Transportfirma besitzen"/>
         <text id="03_shares_petroleum_refinery_description" need_translate="true" value=""/>
-        <text id="03_shares_petroleum_refinery_name" need_translate="true" value=""/>
+        <text id="03_shares_petroleum_refinery_name" need_translate="true" value="Ich möchte Anteile eine ölverarbeitenden Firma besitzen"/>
         <text id="04_control_shares_pack_of_bank_description" need_translate="true" value=""/>
         <text id="04_control_shares_pack_of_bank_name" need_translate="true" value=""/>
         <text id="05_control_shares_pack_of_oil_production_description" need_translate="true" value=""/>
@@ -17,18 +17,18 @@
         <text id="06_control_shares_pack_of_transport_company_name" need_translate="true" value=""/>
         <text id="07_control_shares_pack_of_petroleum_refinery_description" need_translate="true" value=""/>
         <text id="07_control_shares_pack_of_petroleum_refinery_name" need_translate="true" value=""/>
-        <text id="08_accumulation_description" need_translate="true" value=""/>
-        <text id="08_accumulation_name" need_translate="true" value=""/>
+        <text id="08_finance_campaign_description" need_translate="true" value=""/>
+        <text id="08_finance_campaign_name" need_translate="true" value=""/>
         <text id="09_found_bank_description" need_translate="true" value=""/>
         <text id="09_found_bank_name" need_translate="true" value=""/>
         <text id="10_found_oil_production_description" need_translate="true" value=""/>
         <text id="10_found_oil_production_name" need_translate="true" value=""/>
-        <text id="11_found_transport_company_description" need_translate="true" value=""/>
-        <text id="11_found_transport_company_name" need_translate="true" value=""/>
-        <text id="12_found_petroleum_refinery_description" need_translate="true" value=""/>
-        <text id="12_found_petroleum_refinery_name" need_translate="true" value=""/>
-        <text id="13_add_to_collection_aircrafts_description" need_translate="true" value=""/>
-        <text id="13_add_to_collection_aircrafts_name" need_translate="true" value=""/>
+        <text id="11_add_to_collection_antiques_description" need_translate="true" value=""/>
+        <text id="11_add_to_collection_antiques_name" need_translate="true" value=""/>
+        <text id="12_add_to_collection_weapons_description" need_translate="true" value=""/>
+        <text id="12_add_to_collection_weapons_name" need_translate="true" value=""/>
+        <text id="13_add_to_collection_trophies_description" need_translate="true" value=""/>
+        <text id="13_add_to_collection_trophies_name" need_translate="true" value=""/>
         <text id="14_add_to_collection_pictures_description" need_translate="true" value=""/>
         <text id="14_add_to_collection_pictures_name" need_translate="true" value=""/>
         <text id="15_add_to_collection_horses_description" need_translate="true" value=""/>
@@ -41,26 +41,58 @@
         <text id="18_add_to_collection_houses_name" need_translate="true" value=""/>
         <text id="19_add_to_collection_yachts_description" need_translate="true" value=""/>
         <text id="19_add_to_collection_yachts_name" need_translate="true" value=""/>
-        <text id="20_add_new_friends_description" need_translate="true" value=""/>
-        <text id="20_add_new_friends_name" need_translate="true" value=""/>
+        <text id="20_add_to_collection_alco_description" need_translate="true" value=""/>
+        <text id="20_add_to_collection_alco_name" need_translate="true" value=""/>
         <text id="21_want_to_be_governor_description" need_translate="true" value=""/>
-        <text id="21_want_to_be_governor_name" need_translate="true" value=""/>
+        <text id="21_want_to_be_governor_name" need_translate="true" value="Ich möchte einen Gouverneur treffen"/>
         <text id="22_want_to_be_treasurer_description" need_translate="true" value=""/>
-        <text id="22_want_to_be_treasurer_name" need_translate="true" value=""/>
+        <text id="22_want_to_be_treasurer_name" need_translate="true" value="Ich möchte einen Schatzmeister treffen"/>
         <text id="23_want_to_be_judge_description" need_translate="true" value=""/>
-        <text id="23_want_to_be_judge_name" need_translate="true" value=""/>
+        <text id="23_want_to_be_judge_name" need_translate="true" value="Ich möchte einen Richter treffen"/>
         <text id="24_want_to_be_prosecutor_description" need_translate="true" value=""/>
-        <text id="24_want_to_be_prosecutor_name" need_translate="true" value=""/>
+        <text id="24_want_to_be_prosecutor_name" need_translate="true" value="Ich möchte einen Staatsanwalt treffen"/>
         <text id="25_want_to_be_police_chief_description" need_translate="true" value=""/>
-        <text id="25_want_to_be_police_chief_name" need_translate="true" value=""/>
+        <text id="25_want_to_be_police_chief_name" need_translate="true" value="Ich möchte einen Polizeipräsident treffen"/>
         <text id="26_want_to_be_congressman_description" need_translate="true" value=""/>
-        <text id="26_want_to_be_congressman_name" need_translate="true" value=""/>
+        <text id="26_want_to_be_congressman_name" need_translate="true" value="Ich möchte einen Kongresspolitiker treffen"/>
         <text id="27_want_to_be_senator_description" need_translate="true" value=""/>
-        <text id="27_want_to_be_senator_name" need_translate="true" value=""/>
+        <text id="27_want_to_be_senator_name" need_translate="true" value="Ich möchte einen Senator treffen"/>
         <text id="28_kill_all_enemies_description" need_translate="true" value=""/>
         <text id="28_kill_all_enemies_name" need_translate="true" value=""/>
         <text id="29_buy_all_shares_description" need_translate="true" value=""/>
         <text id="29_buy_all_shares_name" need_translate="true" value=""/>
+        <text id="30_add_new_friends_description" need_translate="true" value=""/>
+        <text id="30_add_new_friends_name" need_translate="true" value=""/>
+        <text id="31_found_petroleum_refinery_description" need_translate="true" value=""/>
+        <text id="31_found_petroleum_refinery_name" need_translate="true" value=""/>
+        <text id="32_found_transport_company_description" need_translate="true" value=""/>
+        <text id="32_found_transport_company_name" need_translate="true" value=""/>
+        <text id="33_sell_from_collection_antiques_description" need_translate="true" value=""/>
+        <text id="33_sell_from_collection_antiques_name" need_translate="true" value=""/>
+        <text id="34_sell_from_collection_weapons_description" need_translate="true" value=""/>
+        <text id="34_sell_from_collection_weapons_name" need_translate="true" value=""/>
+        <text id="35_sell_from_collection_trophies_description" need_translate="true" value=""/>
+        <text id="35_sell_from_collection_trophies_name" need_translate="true" value=""/>
+        <text id="36_sell_from_collection_pictures_description" need_translate="true" value=""/>
+        <text id="36_sell_from_collection_pictures_name" need_translate="true" value=""/>
+        <text id="37_sell_from_collection_horses_description" need_translate="true" value=""/>
+        <text id="37_sell_from_collection_horses_name" need_translate="true" value=""/>
+        <text id="38_sell_from_collection_cars_description" need_translate="true" value=""/>
+        <text id="38_sell_from_collection_cars_name" need_translate="true" value=""/>
+        <text id="39_sell_from_collection_coins_description" need_translate="true" value=""/>
+        <text id="39_sell_from_collection_coins_name" need_translate="true" value=""/>
+        <text id="40_sell_from_collection_houses_description" need_translate="true" value=""/>
+        <text id="40_sell_from_collection_houses_name" need_translate="true" value=""/>
+        <text id="41_sell_from_collection_yachts_description" need_translate="true" value=""/>
+        <text id="41_sell_from_collection_yachts_name" need_translate="true" value=""/>
+        <text id="42_sell_from_collection_alco_description" need_translate="true" value=""/>
+        <text id="42_sell_from_collection_alco_name" need_translate="true" value=""/>
+        <text id="43_become_an_director_description" need_translate="true" value=""/>
+        <text id="43_become_an_director_name" need_translate="true" value=""/>
+        <text id="44_become_an_assistant_description" need_translate="true" value=""/>
+        <text id="44_become_an_assistant_name" need_translate="true" value=""/>
+        <text id="45_become_in_director_board_description" need_translate="true" value=""/>
+        <text id="45_become_in_director_board_name" need_translate="true" value=""/>
     </ambitions>
     <categories>
         <text id="0" need_translate="true" value=""/>
@@ -72,114 +104,151 @@
         <text id="6" need_translate="true" value=""/>
         <text id="7" need_translate="true" value=""/>
     </categories>
+    <coins_descriptions>
+        <text id="bandit" need_translate="true" value=""/>
+        <text id="congressman" need_translate="true" value=""/>
+        <text id="courtesan" need_translate="true" value=""/>
+        <text id="detective" need_translate="true" value=""/>
+        <text id="diplomat" need_translate="true" value=""/>
+        <text id="financier" need_translate="true" value=""/>
+        <text id="fireman" need_translate="true" value=""/>
+        <text id="governor" need_translate="true" value=""/>
+        <text id="journalist" need_translate="true" value=""/>
+        <text id="judge" need_translate="true" value=""/>
+        <text id="killer" need_translate="true" value=""/>
+        <text id="police_chief" need_translate="true" value=""/>
+        <text id="prosecutor" need_translate="true" value=""/>
+        <text id="senator" need_translate="true" value=""/>
+        <text id="trasher" need_translate="true" value=""/>
+        <text id="treasurer" need_translate="true" value=""/>
+    </coins_descriptions>
+    <coins_names>
+        <text id="bandit" need_translate="true" value=""/>
+        <text id="congressman" need_translate="true" value=""/>
+        <text id="courtesan" need_translate="true" value=""/>
+        <text id="detective" need_translate="true" value=""/>
+        <text id="diplomat" need_translate="true" value=""/>
+        <text id="financier" need_translate="true" value=""/>
+        <text id="fireman" need_translate="true" value=""/>
+        <text id="governor" need_translate="true" value=""/>
+        <text id="journalist" need_translate="true" value=""/>
+        <text id="judge" need_translate="true" value=""/>
+        <text id="killer" need_translate="true" value=""/>
+        <text id="police_chief" need_translate="true" value=""/>
+        <text id="prosecutor" need_translate="true" value=""/>
+        <text id="senator" need_translate="true" value=""/>
+        <text id="trasher" need_translate="true" value=""/>
+        <text id="treasurer" need_translate="true" value=""/>
+    </coins_names>
     <description_player>
-        <text id="aggressive" need_translate="true" value=""/>
-        <text id="alcoholic" need_translate="true" value=""/>
-        <text id="arrogant" need_translate="true" value=""/>
-        <text id="brawler" need_translate="true" value=""/>
-        <text id="careful" need_translate="true" value=""/>
-        <text id="careless" need_translate="true" value=""/>
-        <text id="compliant" need_translate="true" value=""/>
-        <text id="dark_past" need_translate="true" value=""/>
-        <text id="dependent" need_translate="true" value=""/>
-        <text id="explosive" need_translate="true" value=""/>
-        <text id="fearless" need_translate="true" value=""/>
-        <text id="fool" need_translate="true" value=""/>
-        <text id="friendly" need_translate="true" value=""/>
-        <text id="frigid" need_translate="true" value=""/>
-        <text id="heavy" need_translate="true" value=""/>
-        <text id="holyman" need_translate="true" value=""/>
-        <text id="illegible" need_translate="true" value=""/>
-        <text id="independent" need_translate="true" value=""/>
-        <text id="light" need_translate="true" value=""/>
-        <text id="lustful" need_translate="true" value=""/>
-        <text id="mercantile" need_translate="true" value=""/>
-        <text id="restrained" need_translate="true" value=""/>
-        <text id="selective" need_translate="true" value=""/>
-        <text id="shy" need_translate="true" value=""/>
-        <text id="spender" need_translate="true" value=""/>
-        <text id="thrifty" need_translate="true" value=""/>
-        <text id="trader" need_translate="true" value=""/>
-        <text id="wasteful" need_translate="true" value=""/>
+        <text id="aggressive" need_translate="false" value="Die Loyalität des Charakters wird zweimal so stark sinken, wenn die Verhandlung fehlschlägt"/>
+        <text id="alcoholic" need_translate="false" value="Es gibt eine 20% Chance, dass der Charakter nicht zur Verhandlung kommt"/>
+        <text id="arrogant" need_translate="true" value="Kein Effekt der Charaktereigenschaft 'Arrogant'"/>
+        <text id="brawler" need_translate="true" value="+20% Erfolgschance des Agenten 'Jornalist'"/>
+        <text id="careful" need_translate="true" value="-20% Erfolgschance des Agenten 'Auftragsmörder'"/>
+        <text id="careless" need_translate="true" value="+20% Erfolgschance des Agenten 'Auftragsmörder'"/>
+        <text id="compliant" need_translate="false" value="Der Charakter wird den Preis zweimal so tief senken als normal im Falle eines Gegenangebots"/>
+        <text id="dark_past" need_translate="true" value="+20% Erfolgschance des Agenten 'Detektiv'"/>
+        <text id="dependent" need_translate="false" value="Bei einer Verhandlung benötigst du 2 mal soviele Einflusspunkte, wie sonst, um einen Deal zu machen"/>
+        <text id="explosive" need_translate="false" value="Du hast weniger Versuche einen Deal abzuschließen"/>
+        <text id="fearless" need_translate="true" value="-20% Erfolgschance des Agenten 'Schläger'"/>
+        <text id="fool" need_translate="true" value="Kein Effekt des Agenten 'Tyrann'"/>
+        <text id="friendly" need_translate="false" value="Die Loyalität des Charakters wird zweimal so schnell sinken im Falle einer fehlgeschlagenen Verhandlung"/>
+        <text id="frigid" need_translate="true" value="-20% Erfolgschance des Agenten 'Kurtisane'"/>
+        <text id="heavy" need_translate="false" value="Es wird dreimal solange dauern sich von der Verhnadlung zu erholen"/>
+        <text id="holyman" need_translate="true" value="-20% Erfolgschance des Agenten 'Detektiv'"/>
+        <text id="illegible" need_translate="false" value="Fehlgeschlagene/abgebrochen Verhandlung: Der Ansehensverlust is zweimal so hoch"/>
+        <text id="independent" need_translate="false" value="Bei der Verhandlung verbrauchst du zweimal weniger Einflusspunkte um einen Deal abzuschließen"/>
+        <text id="light" need_translate="false" value="Es wird dreimal schneller gehen, sich von der Verhandlung zu erholen"/>
+        <text id="lustful" need_translate="true" value="+20% Erfolgschance des Agenten 'Kurtisane'"/>
+        <text id="mercantile" need_translate="false" value="Die Verhandlung wird zweimal so günstig"/>
+        <text id="restrained" need_translate="true" value="-20% Erfolgschance des Agenten 'Jornalist'"/>
+        <text id="selective" need_translate="false" value="Abgebrochene Verhandlung: Die Ansehenstrafe ist zweimal weniger; Erfolgreich Verhandlung: Der Ansehensbonus ist zweimal so hoch."/>
+        <text id="shy" need_translate="true" value="+20% Erfolgschance des Agenten 'Schläger'"/>
+        <text id="spender" need_translate="true" value="+20% Erfolgschance des Agenten 'Gauner'"/>
+        <text id="thrifty" need_translate="true" value="-20% Erfolgschance des Agenten 'Gauner'"/>
+        <text id="trader" need_translate="false" value="Der Charakter wird den Preis zweimal so tief wie normal senken im Falle eines Gegenangebots"/>
+        <text id="wasteful" need_translate="false" value="Die Verhandlung wird zweimal so teuer wie sonst"/>
     </description_player>
     <descriptions>
-        <text id="aggressive" need_translate="true" value=""/>
-        <text id="alco_tobacco" need_translate="true" value=""/>
-        <text id="alcoholic" need_translate="true" value=""/>
-        <text id="antiques" need_translate="true" value=""/>
-        <text id="arrogant" need_translate="true" value=""/>
-        <text id="brawler" need_translate="true" value=""/>
-        <text id="careful" need_translate="true" value=""/>
-        <text id="careless" need_translate="true" value=""/>
-        <text id="cars" need_translate="true" value=""/>
-        <text id="coins" need_translate="true" value=""/>
-        <text id="compliant" need_translate="true" value=""/>
-        <text id="dark_past" need_translate="true" value=""/>
-        <text id="dependent" need_translate="true" value=""/>
-        <text id="explosive" need_translate="true" value=""/>
-        <text id="fearless" need_translate="true" value=""/>
-        <text id="fool" need_translate="true" value=""/>
-        <text id="friendly" need_translate="true" value=""/>
-        <text id="frigid" need_translate="true" value=""/>
-        <text id="heavy" need_translate="true" value=""/>
-        <text id="holyman" need_translate="true" value=""/>
-        <text id="horses" need_translate="true" value=""/>
-        <text id="houses" need_translate="true" value=""/>
-        <text id="illegible" need_translate="true" value=""/>
-        <text id="independent" need_translate="true" value=""/>
-        <text id="light" need_translate="true" value=""/>
-        <text id="lustful" need_translate="true" value=""/>
-        <text id="mercantile" need_translate="true" value=""/>
-        <text id="pictures" need_translate="true" value=""/>
-        <text id="restrained" need_translate="true" value=""/>
-        <text id="selective" need_translate="true" value=""/>
-        <text id="shy" need_translate="true" value=""/>
-        <text id="spender" need_translate="true" value=""/>
-        <text id="thrifty" need_translate="true" value=""/>
-        <text id="trader" need_translate="true" value=""/>
-        <text id="trophies" need_translate="true" value=""/>
-        <text id="wasteful" need_translate="true" value=""/>
-        <text id="weapons" need_translate="true" value=""/>
-        <text id="yachts" need_translate="true" value=""/>
+        <text id="aggressive" need_translate="false" value="Die Loyalität des Charakters wird zweimal so schnell sinken im Falle einer fehlgeschlagenen Verhandlung"/>
+        <text id="alco_tobacco" need_translate="false" value="Alkohol/Tabak"/>
+        <text id="alcoholic" need_translate="false" value="Es gibt eine 20% Chance, dass der Charkater nicht zur Verhandlung erscheint"/>
+        <text id="antiques" need_translate="false" value="Antiquitäten"/>
+        <text id="arrogant" need_translate="false" value="Nur Spieler können ein Abkommen schlißen"/>
+        <text id="brawler" need_translate="true" value="+20% Erfolgschance des Agenten 'Jornalist'"/>
+        <text id="careful" need_translate="true" value="-20% Erfolgschance des Agenten 'Auftragsmörder'"/>
+        <text id="careless" need_translate="true" value="+20% Erfolgschance des Agenten 'Auftragsmörder'"/>
+        <text id="cars" need_translate="false" value="Autos"/>
+        <text id="coins" need_translate="false" value="Münzen"/>
+        <text id="compliant" need_translate="false" value="Der Charakter wird den Preis zweimal mehr als normal senken im Falle eines Gegenangebots"/>
+        <text id="dark_past" need_translate="true" value="+20% Erfolgschance des Agenten 'Detektiv'"/>
+        <text id="dependent" need_translate="false" value="Bei der Verhandlung wirst du zweimal weniger Einflusspunkte benötigen, um einen Deal zu machen"/>
+        <text id="explosive" need_translate="false" value="Du wirst weniger Versuche haben einen Deal abzuschließen"/>
+        <text id="fearless" need_translate="true" value="-20% Erfolgschance des Agenten 'Schläger'"/>
+        <text id="fool" need_translate="false" value="Du musst dreimal soviele Einflusspunkte ausgeben um die Verhandlung zu starten"/>
+        <text id="friendly" need_translate="false" value="Die Loyalität des Charakters wir zweimal so schnell sinken im Falle einer fehlgeschlagenen Verhandlung"/>
+        <text id="frigid" need_translate="true" value="-20% Erfolgschance des Agenten 'Kurtisane'"/>
+        <text id="heavy" need_translate="false" value="Es wird dreimal so lange dauern sich von der Verhandlung zu erholen"/>
+        <text id="holyman" need_translate="true" value="-20% Erfolgschance des Agenten 'Detektiv'"/>
+        <text id="horses" need_translate="false" value="Pferde"/>
+        <text id="houses" need_translate="false" value="Häuser"/>
+        <text id="illegible" need_translate="false" value="Fehlgeschlagene Verhandlung: Die Ansehenstrafe ist zweimal tiefer; Erfolgreiche Verhandlung: Der Ansehensbonus ist zweimal so hoch"/>
+        <text id="independent" need_translate="false" value="Bei der Verhandlung wirst du zweimal soviele Einflusspunkte ausgeben, um einen Deal zu machen"/>
+        <text id="light" need_translate="false" value="Es wird dreimal so schnell gehen sich von der Verhandlung zu erholen"/>
+        <text id="lustful" need_translate="true" value="+20% Erfolgschance des Agenten 'Kurtisane'"/>
+        <text id="mercantile" need_translate="false" value="Die Verhandlung wird zweimal so teuer sein"/>
+        <text id="pictures" need_translate="false" value="Bilder"/>
+        <text id="restrained" need_translate="true" value="-20% Erfolgschance des Agenten 'Jornalist'"/>
+        <text id="selective" need_translate="false" value="Fehlgeschlagene/Abgebrochene Verhandlung: Die Ansehensstrafe ist zweimal so hoch"/>
+        <text id="shy" need_translate="true" value="+20% Erfolgschance des Agenten 'Schläger'"/>
+        <text id="spender" need_translate="true" value="-20% Erfolgschance des Agenten 'Gauner'"/>
+        <text id="thrifty" need_translate="true" value="+20% Erfolgschance des Agenten 'Gauner'"/>
+        <text id="trader" need_translate="false" value="Der Charakter wird den Preis zweimal tiefer als normal senken im Falle eines Gegenangebots"/>
+        <text id="trophies" need_translate="false" value="Trophäen"/>
+        <text id="unknown" need_translate="true" value=""/>
+        <text id="wasteful" need_translate="false" value="Die Verhandlung wird zweimal günstiger sein"/>
+        <text id="weapons" need_translate="false" value="Waffen"/>
+        <text id="yachts" need_translate="false" value="Yachten"/>
     </descriptions>
     <names>
-        <text id="aggressive" need_translate="true" value=""/>
-        <text id="alco_tobacco" need_translate="true" value=""/>
-        <text id="alcoholic" need_translate="true" value=""/>
-        <text id="antiques" need_translate="true" value=""/>
-        <text id="arrogant" need_translate="true" value=""/>
-        <text id="brawler" need_translate="true" value=""/>
-        <text id="careful" need_translate="true" value=""/>
-        <text id="careless" need_translate="true" value=""/>
-        <text id="cars" need_translate="true" value=""/>
-        <text id="coins" need_translate="true" value=""/>
-        <text id="compliant" need_translate="true" value=""/>
-        <text id="dark_past" need_translate="true" value=""/>
-        <text id="dependent" need_translate="true" value=""/>
-        <text id="explosive" need_translate="true" value=""/>
-        <text id="fearless" need_translate="true" value=""/>
-        <text id="fool" need_translate="true" value=""/>
-        <text id="friendly" need_translate="true" value=""/>
-        <text id="frigid" need_translate="true" value=""/>
-        <text id="heavy" need_translate="true" value=""/>
-        <text id="holyman" need_translate="true" value=""/>
-        <text id="horses" need_translate="true" value=""/>
-        <text id="houses" need_translate="true" value=""/>
-        <text id="illegible" need_translate="true" value=""/>
-        <text id="independent" need_translate="true" value=""/>
-        <text id="light" need_translate="true" value=""/>
-        <text id="lustful" need_translate="true" value=""/>
-        <text id="mercantile" need_translate="true" value=""/>
-        <text id="pictures" need_translate="true" value=""/>
-        <text id="restrained" need_translate="true" value=""/>
-        <text id="selective" need_translate="true" value=""/>
-        <text id="shy" need_translate="true" value=""/>
-        <text id="spender" need_translate="true" value=""/>
-        <text id="thrifty" need_translate="true" value=""/>
-        <text id="trader" need_translate="true" value=""/>
-        <text id="trophies" need_translate="true" value=""/>
-        <text id="wasteful" need_translate="true" value=""/>
-        <text id="weapons" need_translate="true" value=""/>
-        <text id="yachts" need_translate="true" value=""/>
+        <text id="aggressive" need_translate="false" value="Aggressiv"/>
+        <text id="alco_tobacco" need_translate="false" value="Alkohol/Tabak"/>
+        <text id="alcoholic" need_translate="false" value="Alkoholiker"/>
+        <text id="antiques" need_translate="false" value="Antiquität"/>
+        <text id="arrogant" need_translate="false" value="Arrogant"/>
+        <text id="brawler" need_translate="false" value="Überschwänglich"/>
+        <text id="careful" need_translate="false" value="Vorsichtig"/>
+        <text id="careless" need_translate="false" value="Rücksichtslos"/>
+        <text id="cars" need_translate="false" value="Autos"/>
+        <text id="coins" need_translate="false" value="Münzen"/>
+        <text id="compliant" need_translate="false" value="Gefügsam"/>
+        <text id="dark_past" need_translate="false" value="Dunkle Vergangenheit"/>
+        <text id="dependent" need_translate="false" value="Rückratlos"/>
+        <text id="explosive" need_translate="false" value="Explosiv"/>
+        <text id="fearless" need_translate="false" value="Furchtlos"/>
+        <text id="fool" need_translate="false" value="Tyrann"/>
+        <text id="friendly" need_translate="false" value="Freundlich"/>
+        <text id="frigid" need_translate="false" value="Kalt"/>
+        <text id="heavy" need_translate="false" value="Stark"/>
+        <text id="holyman" need_translate="false" value="Heilig"/>
+        <text id="horses" need_translate="false" value="Pferde"/>
+        <text id="houses" need_translate="false" value="Häuser"/>
+        <text id="illegible" need_translate="false" value="Albern"/>
+        <text id="independent" need_translate="false" value="Charismatisch"/>
+        <text id="light" need_translate="false" value="Schwach"/>
+        <text id="lustful" need_translate="false" value="Unzüchtig"/>
+        <text id="mercantile" need_translate="false" value="Söldner"/>
+        <text id="pictures" need_translate="false" value="Bilder"/>
+        <text id="restrained" need_translate="false" value="Ruhig"/>
+        <text id="selective" need_translate="false" value="Wählerisch"/>
+        <text id="shy" need_translate="false" value="Nervös"/>
+        <text id="spender" need_translate="false" value="Ausgeber"/>
+        <text id="thrifty" need_translate="false" value="Sparsam"/>
+        <text id="trader" need_translate="false" value="Händler"/>
+        <text id="trophies" need_translate="false" value="Trophäen"/>
+        <text id="wasteful" need_translate="false" value="Verschwenderisch"/>
+        <text id="weapons" need_translate="false" value="Waffen"/>
+        <text id="yachts" need_translate="false" value="Yachten"/>
     </names>
 </persons_characters>
