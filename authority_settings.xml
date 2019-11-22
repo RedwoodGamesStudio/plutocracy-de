@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <authority_settings>
     <agressive_saying>
-        <text id="name" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Aggressiv"/>
+        <text id="text" need_translate="false" value=""/>
     </agressive_saying>
     <capitol_14>
         <text id="name" need_translate="true" value=""/>
@@ -14,56 +14,56 @@
         <text id="name" need_translate="true" value=""/>
     </capitol_43>
     <careful_saying>
-        <text id="name" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Vorsichtig"/>
+        <text id="text" need_translate="false" value=""/>
     </careful_saying>
     <legislature_1>
-        <text id="lower_name" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="upper_name" need_translate="true" value=""/>
+        <text id="lower_name" need_translate="false" value="Repräsentantenhaus"/>
+        <text id="name" need_translate="false" value="Alaska Legislatur"/>
+        <text id="upper_name" need_translate="false" value="Senat"/>
     </legislature_1>
     <legislature_14>
-        <text id="lower_name" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="upper_name" need_translate="true" value=""/>
+        <text id="lower_name" need_translate="false" value="Repräsentantenhaus"/>
+        <text id="name" need_translate="false" value="Generalversammlung"/>
+        <text id="upper_name" need_translate="false" value="Senat"/>
     </legislature_14>
     <legislature_34>
-        <text id="lower_name" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="upper_name" need_translate="true" value=""/>
+        <text id="lower_name" need_translate="false" value="Versammlung"/>
+        <text id="name" need_translate="false" value="New York Staatslegislatur"/>
+        <text id="upper_name" need_translate="false" value="Senat"/>
     </legislature_34>
     <legislature_43>
-        <text id="lower_name" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="upper_name" need_translate="true" value=""/>
+        <text id="lower_name" need_translate="false" value="Repräsentantenhaus"/>
+        <text id="name" need_translate="false" value="Texas Legislatur"/>
+        <text id="upper_name" need_translate="false" value="Senat"/>
     </legislature_43>
     <max_bribe>
-        <text id="name" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Max. Bestechnung"/>
+        <text id="text" need_translate="false" value=""/>
     </max_bribe>
     <max_promises>
-        <text id="name" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Große Versprechen"/>
+        <text id="text" need_translate="false" value=""/>
     </max_promises>
     <min_bribe>
-        <text id="name" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Min. Bestechung"/>
+        <text id="text" need_translate="false" value=""/>
     </min_bribe>
     <min_promises>
-        <text id="name" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Versprechen machen"/>
+        <text id="text" need_translate="false" value=""/>
     </min_promises>
     <no_bribe>
-        <text id="name" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Keine Bestechung"/>
+        <text id="text" need_translate="false" value=""/>
     </no_bribe>
     <no_promises>
-        <text id="name" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Keine Versprechungen"/>
+        <text id="text" need_translate="false" value=""/>
     </no_promises>
     <respective_saying>
-        <text id="name" need_translate="true" value=""/>
-        <text id="text" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Respektvoll"/>
+        <text id="text" need_translate="false" value=""/>
     </respective_saying>
     <sayings>
         <text id="saying_1_1" need_translate="true" value=""/>
@@ -95,8 +95,8 @@
         <text id="saying_9_3" need_translate="true" value=""/>
     </sayings>
     <strategy>
-        <text id="text_bribe" need_translate="true" value=""/>
-        <text id="text_promises" need_translate="true" value=""/>
-        <text id="text_sayings" need_translate="true" value=""/>
+        <text id="text_bribe" need_translate="false" value="Wähler bestechen"/>
+        <text id="text_promises" need_translate="false" value="Versprechen"/>
+        <text id="text_sayings" need_translate="false" value="Debattieren"/>
     </strategy>
 </authority_settings>
