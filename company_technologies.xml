@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <company_technologies>
     <technology_0>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Wird entwickelt"/>
+        <text id="name" need_translate="false" value="Sozialprogramm"/>
     </technology_0>
     <technology_10>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Wird entwickelt"/>
+        <text id="name" need_translate="false" value="Instandhaltung"/>
     </technology_10>
     <technology_1>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Die Motivation der Arbeiter beeinflusst ihre Produktivität"/>
+        <text id="name" need_translate="false" value="Motivation"/>
     </technology_1>
     <technology_11>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Wird entwickelt"/>
+        <text id="name" need_translate="false" value="Automatisierung"/>
     </technology_11>
     <technology_2>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Harte Arbeitsbedingungenbeeinflussen die Produktivität der Arbeiter und kann zu einem Streik führen"/>
+        <text id="name" need_translate="false" value="Arbeitsbedingungen"/>
     </technology_2>
     <technology_3>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Das Befolgen der Sicherheitsvorschriften führt zu einer geringeren Unfallrate"/>
+        <text id="name" need_translate="false" value="Sicherheit"/>
     </technology_3>
     <technology_4>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Ein Kundesucht immer nach dem besten Angebot - je höher die Qualität, desto höher der Preis"/>
+        <text id="name" need_translate="false" value="Qualität"/>
     </technology_4>
     <technology_5>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Ein negativer Firmenwert führt immer zu sinkenden Kursen"/>
+        <text id="name" need_translate="false" value="Firmenwert"/>
     </technology_5>
     <technology_6>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Ein effektiver Einstellungsprozess kann zu niedrigeren Löhnen führen"/>
+        <text id="name" need_translate="false" value="Einstellungsprozess"/>
     </technology_6>
     <technology_7>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Je besser die Logistik, desto größer ist das Bedürfnis nach Service"/>
+        <text id="name" need_translate="false" value="Logistik"/>
     </technology_7>
     <technology_8>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Es erhöht die maximale Größe der Anteile und Kredite und reduziert die Zinsrate bei Krediten, sodass die Schulden für die Firme profitabler sind"/>
+        <text id="name" need_translate="false" value=""/>
     </technology_8>
     <technology_9>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Je besser die Raffination, desto weniger Rohmaterialien müssen für die Produktion gekauft werden"/>
+        <text id="name" need_translate="false" value="Raffinations Qualität"/>
     </technology_9>
 </company_technologies>
