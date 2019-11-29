@@ -548,6 +548,7 @@
         <text id="decide" need_translate="false" value="Fälle eine Entscheidung"/>
         <text id="decline" need_translate="false" value="Ablehnen"/>
         <text id="effects" need_translate="false" value="Konsequenzen"/>
+        <text id="exit_button" need_translate="true" value=""/>
         <text id="negative_result_accident" need_translate="false" value="Der Geschäftswert wird um %1% sinken"/>
         <text id="negative_result_strike" need_translate="true" value="Das Quartalseinkommen wird mit einer %3% Chance um $%1 sinken (%2% des gesamten Einkommens)"/>
         <text id="ok_button" need_translate="true" value=""/>
@@ -726,6 +727,8 @@
             <text id="title_8" need_translate="true" value=""/>
             <text id="title_9" need_translate="true" value=""/>
         </cards>
+        <text id="change" need_translate="true" value=""/>
+        <text id="change_text" need_translate="true" value=""/>
         <text id="company_statistics_blocked" need_translate="true" value=""/>
         <text id="company_statistics_blocked_title" need_translate="true" value=""/>
         <text id="director" need_translate="true" value=""/>
@@ -762,9 +765,9 @@
         <text id="diplomacy_skill_hint_text" need_translate="true" value="Diese Fähigkeit beeinflusst die Bonus/Maluschance einen Deal zu machen"/>
         <text id="directors" need_translate="true" value=""/>
         <text id="ecomonic_skill" need_translate="true" value=""/>
-        <text id="employ_director" need_translate="false" value="Stelle einen Direktor an"/>
-        <text id="employ_director_disabled" need_translate="false" value="Du kannst keinen Direktor anstellen"/>
-        <text id="employ_director_no_control" need_translate="false" value="Du brauchst einen kontrollierenden Anteil der Firma, um einen Direktor einzustellen"/>
+        <text id="employ_director" need_translate="true" value="Stelle einen Direktor an"/>
+        <text id="employ_director_disabled" need_translate="true" value="Du kannst keinen Direktor anstellen"/>
+        <text id="employ_director_no_control" need_translate="true" value="Du brauchst einen kontrollierenden Anteil der Firma, um einen Direktor einzustellen"/>
         <hints>
             <text id="change_per_step" need_translate="true" value=""/>
             <text id="h_1" need_translate="false" value="Staat"/>
@@ -792,9 +795,9 @@
         <text id="leisure" need_translate="false" value="Freizeit"/>
         <text id="max_share_price" need_translate="false" value="Anteilspreis"/>
         <text id="negotiation_days" need_translate="false" value="Tage"/>
-        <text id="orders" need_translate="false" value="Auftrag des Direktors"/>
+        <text id="orders" need_translate="true" value="Auftrag des Direktors"/>
         <text id="orders_disabled" need_translate="false" value="Nicht verfügbar"/>
-        <text id="orders_no_director" need_translate="false" value="Du musst einen Direktor anstellen, um Aufträge zu vergeben"/>
+        <text id="orders_no_director" need_translate="true" value="Du musst einen Direktor anstellen, um Aufträge zu vergeben"/>
         <text id="persistence" need_translate="false" value="Ausdauer"/>
         <text id="player_is_busy" need_translate="false" value="Du bist beschäftigt!"/>
         <text id="profit" need_translate="false" value="Einkommen"/>
@@ -955,6 +958,7 @@
             <text id="ok_button" need_translate="true" value=""/>
             <text id="reserves_changes" need_translate="true" value=""/>
             <text id="workplaces" need_translate="true" value=""/>
+            <text id="workplaces_header" need_translate="true" value=""/>
         </change_workplaces_popup>
         <text id="debts" need_translate="false" value="Schulden: "/>
         <text id="dividends" need_translate="false" value="Dividende: "/>
@@ -975,12 +979,12 @@
     </director_result>
     <directors_dialog>
         <text id="current_work" need_translate="false" value="Aktueller Job"/>
-        <text id="directors" need_translate="false" value="Direktoren"/>
+        <text id="directors" need_translate="true" value="Direktoren"/>
         <text id="gold_parashute" need_translate="false" value="Abfindung"/>
         <text id="jobless" need_translate="false" value="Arbeitslos"/>
         <text id="name" need_translate="false" value="Name"/>
         <text id="rate" need_translate="false" value="Rate"/>
-        <text id="select_of_director" need_translate="false" value="Wähle Direktor"/>
+        <text id="select_of_director" need_translate="true" value="Wähle Direktor"/>
         <text id="specific" need_translate="false" value="Genauigkeit"/>
         <text id="turnover_bonus" need_translate="false" value="Einkommensbonus"/>
         <text id="type" need_translate="false" value="Branche"/>
@@ -1522,7 +1526,7 @@
     </guest_info>
     <hire_director_popup>
         <text id="ok_button" need_translate="false" value="Ok"/>
-        <text id="popup_header" need_translate="false" value="Neuer Direktor!"/>
+        <text id="popup_header" need_translate="true" value="Neuer Direktor!"/>
         <text id="popup_text" need_translate="false" value="{nickname} hat den Posten als CEO von {companyname} besetzt. Das Gehalt beträgt $ {salary}!"/>
     </hire_director_popup>
     <hover_item>
@@ -1793,6 +1797,9 @@
             <text id="syracuse" need_translate="false" value="Syracuse"/>
             <text id="watertown" need_translate="false" value="Watertown"/>
         </cities>
+        <text id="ga_desc" need_translate="true" value=""/>
+        <text id="ga_motto" need_translate="true" value=""/>
+        <text id="ga_nickname" need_translate="true" value=""/>
         <text id="il_desc" need_translate="false" value="Die Hauptstadt von Illinois ist Springfield im zentralen Teil des\n Staates. Obwohl heutzutage die meisten Einwohner in und um Chicago leben\nhaben sich die Eurpäer zunächst im Westen angesiedelt,\nwährend die Franzosen sich entlang des Mississippi ansiedelten\nund dem Gebiet den Namen Illinois gaben."/>
         <text id="il_motto" need_translate="false" value="Einheit, Gerechtigkeit und Vertrauen"/>
         <text id="il_nickname" need_translate="false" value="Pelikanstaat"/>
@@ -2061,8 +2068,8 @@
         <text id="agent_hint_text" need_translate="true" value=""/>
         <text id="agent_in_genetive" need_translate="false" value="Agenten"/>
         <text id="assistant" need_translate="false" value="Assistent"/>
-        <text id="assistant_director" need_translate="false" value="&quot;{companyname}&quot; Direktor"/>
-        <text id="assistant_director_in_genetive" need_translate="false" value="&quot;{companyname}&quot; Direktors"/>
+        <text id="assistant_director" need_translate="true" value="&quot;{companyname}&quot; Direktor"/>
+        <text id="assistant_director_in_genetive" need_translate="true" value="&quot;{companyname}&quot; Direktors"/>
         <text id="assistant_in_genetive" need_translate="false" value="Assitenten"/>
         <text id="authority" need_translate="true" value=""/>
         <text id="bot" need_translate="true" value=""/>
@@ -2072,7 +2079,7 @@
         <text id="compromising_hint_text" need_translate="true" value=""/>
         <text id="democrat" need_translate="false" value="Demokrat"/>
         <text id="democrat_in_genetive" need_translate="true" value=""/>
-        <text id="director" need_translate="false" value="Direktor"/>
+        <text id="director" need_translate="true" value="Direktor"/>
         <text id="dummy_hint_header" need_translate="true" value=""/>
         <text id="dummy_hint_text" need_translate="true" value=""/>
         <text id="enemy_relation" need_translate="false" value="Gegner"/>
@@ -2494,6 +2501,10 @@
         <text id="diplomacy" need_translate="true" value=""/>
         <text id="economics" need_translate="true" value=""/>
         <text id="hint" need_translate="true" value=""/>
+        <text id="hint_2" need_translate="true" value=""/>
+        <text id="hint_2_diplomacy" need_translate="true" value=""/>
+        <text id="hint_2_economics" need_translate="true" value=""/>
+        <text id="hint_2_politics" need_translate="true" value=""/>
         <text id="level_1" need_translate="true" value=""/>
         <text id="level_2" need_translate="true" value=""/>
         <text id="level_3" need_translate="true" value=""/>
@@ -2869,17 +2880,16 @@
         <text id="ambition" need_translate="true" value=""/>
         <text id="assets" need_translate="true" value=""/>
         <text id="characteristics" need_translate="true" value=""/>
+        <text id="filter_all_ambitions" need_translate="true" value=""/>
         <text id="filter_all_persons" need_translate="true" value=""/>
         <text id="filter_all_states" need_translate="true" value=""/>
         <text id="filter_bot" need_translate="true" value=""/>
         <text id="filter_director" need_translate="true" value=""/>
-        <text id="filter_illinois" need_translate="true" value=""/>
-        <text id="filter_new_york" need_translate="true" value=""/>
         <text id="filter_official" need_translate="true" value=""/>
         <text id="filter_player" need_translate="true" value=""/>
         <text id="filter_politician" need_translate="true" value=""/>
+        <text id="filter_possible_ambitions" need_translate="true" value=""/>
         <text id="filter_shareholder" need_translate="true" value=""/>
-        <text id="filter_texas" need_translate="true" value=""/>
         <text id="name" need_translate="true" value=""/>
         <text id="profit" need_translate="true" value=""/>
         <text id="reputation" need_translate="true" value=""/>
@@ -2911,7 +2921,7 @@
         <text id="election_opponent" need_translate="true" value=""/>
         <text id="failed_negotiation" need_translate="false" value="Fehlgeschlagene Verhandlung"/>
         <text id="hired_assistant" need_translate="false" value="Angestellter Assistent"/>
-        <text id="hired_director" need_translate="false" value="Angestellter Direktor"/>
+        <text id="hired_director" need_translate="true" value="Angestellter Direktor"/>
         <text id="in_prison" need_translate="true" value=""/>
         <text id="individual_ambition" need_translate="false" value="Ambition 'Exklusiver Eigentümer'"/>
         <text id="journalist" need_translate="false" value="Benutzer Jornalist"/>
